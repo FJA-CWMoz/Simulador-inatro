@@ -1,0 +1,247 @@
+[
+  {
+    "id": "sin-obr-001",
+    "grupo": "sin-obr-rotunda",
+    "variacao": 1,
+    "subtema": "obrigacao",
+    "dificuldade": 1,
+    "tags": ["rotunda", "sentido-giratorio", "obrigacao"],
+    "pergunta": {
+      "pt": "O sinal azul circular com setas brancas em círculo (D4) indica:",
+      "en": "The blue circular sign with white rotating arrows (D4) indicates:",
+      "ch": "Xikombiso xa xirhendzevutana xa wasi lexi nga ni misinya leyi rhendzelekaka xi komba yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D4",
+      "alt": {
+        "pt": "Sinal de Sentido Giratório Obrigatório",
+        "en": "Mandatory Roundabout direction sign",
+        "ch": "Xikombiso xo rhendzeleka xikwere"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Sentido giratório obrigatório, impondo a circulação em torno da rotunda no sentido das setas.",
+        "Proibição de virar à esquerda na rotunda.",
+        "Paragem obrigatória antes de entrar no anel da rotunda em qualquer caso.",
+        "Via reservada unicamente a veículos pesados de passageiros."
+      ],
+      "en": [
+        "Mandatory roundabout circulation in the direction indicated by the arrows.",
+        "Prohibition of left turns at the roundabout.",
+        "Mandatory stop before entering the roundabout in all circumstances.",
+        "Lane reserved exclusively for heavy passenger transport."
+      ],
+      "ch": [
+        "Ku sindzisiwa ku rhendzeleka rotunda hi ku landza misinya leyi kombaka ndlela.",
+        "Ku yirisiwa ku jikela ximatsi.",
+        "Ku yima hambi ku hava movha.",
+        "Ndlela ya mabazi ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal D4 impõe a obrigação de contornar a praça ou rotunda obedecendo ao sentido indicado pelas setas (sentido contrário ao dos ponteiros do relógio em Moçambique).",
+      "en": "Sign D4 mandates counter-clockwise traffic flow around the roundabout following the indicated arrows.",
+      "ch": "Xikombiso lexi xi sindzisa ku rhendzeleka rotunda hi ndlela leyi kombiweke hi misinya."
+    }
+  },
+  {
+    "id": "sin-obr-002",
+    "grupo": "sin-obr-direcao-obrigatoria",
+    "variacao": 1,
+    "subtema": "obrigacao",
+    "dificuldade": 1,
+    "tags": ["seta", "viragem", "obrigacao"],
+    "pergunta": {
+      "pt": "O sinal circular azul com uma seta branca apontando na vertical para a frente obriga o condutor a:",
+      "en": "The circular blue sign with a white arrow pointing straight ahead requires the driver to:",
+      "ch": "Xikombiso xa wasi lexi nga ni nsinya lowu kombaka emahlweni ntsena xi lava yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D1a",
+      "alt": {
+        "pt": "Sinal de Sentido Obrigatório em Frente",
+        "en": "Straight Ahead Only mandatory sign",
+        "ch": "Xikombiso xo famba emahlweni ntsena"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Seguir obrigatoriamente em frente no próximo cruzamento ou entroncamento.",
+        "Inverter a marcha assim que passar o sinal.",
+        "Virar obrigatoriamente para a primeira saída à direita.",
+        "Circular em marcha atrás por motivos de fluidez do tráfego."
+      ],
+      "en": [
+        "Proceed strictly straight ahead at the upcoming intersection.",
+        "Make a U-turn as soon as passing the sign.",
+        "Turn right at the first available exit.",
+        "Reverse vehicle for traffic flow reasons."
+      ],
+      "ch": [
+        "Ku ya emahlweni ntsena eka mahlanganelo lama taka, handle ko jika.",
+        "Ku tlhelela ndzhaku.",
+        "Ku jikela xinene.",
+        "Ku famba hi marcha-atrás."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Os sinais azuis circulares são de obrigação. A seta vertical para cima (D1a) impõe ao condutor a direção obrigatória de seguir em frente, sendo proibido virar à esquerda ou à direita.",
+      "en": "Circular blue signs are mandatory. The straight arrow (D1a) requires drivers to continue straight ahead, prohibiting left and right turns.",
+      "ch": "Xikombiso xa wasi xi komba nchumu wo boha. Nsinya lowu wu komba ku ya emahlweni ntsena."
+    }
+  },
+  {
+    "id": "sin-obr-003",
+    "grupo": "sin-obr-vel-minima",
+    "variacao": 1,
+    "subtema": "obrigacao",
+    "dificuldade": 2,
+    "tags": ["velocidade", "minima", "autoestrada"],
+    "pergunta": {
+      "pt": "Um sinal circular de fundo azul com algarismos brancos '50' significa:",
+      "en": "A circular sign with a blue background and white digits '50' signifies:",
+      "ch": "Xikombiso xa xirhendzevutana xa wasi lexi nga ni '50' yo basa xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D5",
+      "alt": {
+        "pt": "Sinal de Velocidade Mínima Obrigatória 50 km/h",
+        "en": "Mandatory Minimum Speed 50 km/h sign",
+        "ch": "Mimbimi ya rivengo ro hetelela ehansi 50 km/h"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Velocidade mínima obrigatória de 50 km/h em condições normais de circulação.",
+        "Velocidade máxima proibida de exceder de 50 km/h.",
+        "Distância mínima de 50 metros entre viaturas.",
+        "Apenas automóveis com peso superior a 50 toneladas podem transitar."
+      ],
+      "en": [
+        "Mandatory minimum speed of 50 km/h under normal road conditions.",
+        "Maximum speed limit not to be exceeded of 50 km/h.",
+        "Mandatory distance of 50 meters between vehicles.",
+        "Only vehicles weighing over 50 tonnes may transit."
+      ],
+      "ch": [
+        "Rivengo ro hetelela ehansi leri bohekaka ku famba hi rona (50 km/h).",
+        "Rivengo ra le henhla leri yirisiweke ku tlula.",
+        "Mpfhuka wa 50 wa timitara exikarhi ka mimovha.",
+        "Tithani ta 50 ta movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Ao contrário do sinal com orla vermelha que limita a velocidade máxima, o sinal circular azul com número branco (D5) estabelece a velocidade mínima a que se deve circular salvo se as condições de trânsito ou segurança o impeçam.",
+      "en": "Unlike red bordered signs which impose speed ceilings, circular blue signs with white numbers establish a mandatory minimum speed floor.",
+      "ch": "Xikombiso xa wasi xi lava leswaku u nga fambi ehansi ka 50 km/h handle ka loko ku ri ni khombo kumbe mpfula."
+    }
+  },
+  {
+    "id": "sin-obr-004",
+    "grupo": "sin-obr-cinto",
+    "variacao": 1,
+    "subtema": "obrigacao",
+    "dificuldade": 1,
+    "tags": ["cinto", "seguranca", "obrigacao"],
+    "pergunta": {
+      "pt": "O sinal de obrigação que ilustra o uso de cinto de segurança lembra que:",
+      "en": "The mandatory sign illustrating seat belt usage reminds drivers that:",
+      "ch": "Xikombiso lexi kombaka bhandi ra vuhlayiseki xi tsundzuxa yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D8",
+      "alt": {
+        "pt": "Sinal de Obrigação do Uso do Cinto de Segurança",
+        "en": "Mandatory Seat Belt Use sign",
+        "ch": "Xikombiso xo boha bhandi ra vuhlayiseki"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O condutor e todos os passageiros dos bancos dianteiros e traseiros devem usar cinto de segurança devidamente ajustado.",
+        "Apenas o condutor tem obrigatoriedade de usar o cinto.",
+        "O cinto só é obrigatório fora das localidades e autoestradas.",
+        "O cinto pode ser substituído por segurar com as mãos no painel."
+      ],
+      "en": [
+        "The driver and all passengers in front and rear seats must wear properly fitted seat belts.",
+        "Only the driver is legally bound to wear a seat belt.",
+        "Seat belts are only mandatory outside urban localities.",
+        "Holding onto the dashboard with hands can replace a seat belt."
+      ],
+      "ch": [
+        "Muchayeri ni vapandzi hinkwavo (phambheni ni ndzhaku) va fanele ku boha mabhandi ya vuhlayiseki.",
+        "Muchayeri ntsena loyi a bohekaka.",
+        "Mabhandi ma bohiwa ntsena ehandle ka doroba.",
+        "Ku khoma panel swi ringene."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "No Código de Estrada de Moçambique, a utilização do cinto de segurança é obrigatória em todos os veículos onde esteja instalado, tanto para o condutor como para os passageiros.",
+      "en": "In Mozambique traffic regulations, wearing seat belts is mandatory for both driver and all vehicle occupants where belts are fitted.",
+      "ch": "Eka milawu ya Moçambique, ku boha mabhandi ya vuhlayiseki i swa nkoka swinene ka muchayeri ni vanhu hinkwavo lava nga endzeni."
+    }
+  },
+  {
+    "id": "sin-obr-005",
+    "grupo": "sin-obr-passagem-obrigatoria",
+    "variacao": 1,
+    "subtema": "obrigacao",
+    "dificuldade": 2,
+    "tags": ["passagem", "obstaculo", "lado"],
+    "pergunta": {
+      "pt": "O sinal azul circular com uma seta inclinada a apontar para baixo e para a esquerda determina:",
+      "en": "The circular blue sign with a downward slanting arrow pointing down to the left dictates:",
+      "ch": "Xikombiso xa wasi lexi nga ni nsinya lowu langutaka ehansi ka ximatsi xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D3b",
+      "alt": {
+        "pt": "Sinal de Passagem Obrigatória à Esquerda",
+        "en": "Keep Left mandatory sign",
+        "ch": "Xikombiso xo hundza hi tlhelo ra ximatsi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Passagem obrigatória pelo lado esquerdo do obstáculo ou refúgio.",
+        "Viragem obrigatória à esquerda no próximo semáforo.",
+        "Sentido proibido pelo lado esquerdo da via.",
+        "Pista obrigatória para peões e animais."
+      ],
+      "en": [
+        "Mandatory passage on the left side of the obstacle or traffic island.",
+        "Mandatory left turn at the next traffic light.",
+        "No entry on the left side of the roadway.",
+        "Compulsory track for pedestrians and animals."
+      ],
+      "ch": [
+        "Ku hundza hi tlhelo ra ximatsi ka xitsiriki kumbe xiyimo lexi nga ndleleni.",
+        "Ku jikela ximatsi eka semáforo.",
+        "Ku yirisiwa ka tlhelo ra ximatsi.",
+        "Ndlela ya vafambi va milenge."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal D3b indica a obrigação de contornar a placa, refúgio de peões ou obstáculo fixo passando exclusivamente pelo lado indicado pela inclinação da seta (neste caso, pela esquerda).",
+      "en": "Sign D3b instructs drivers to bypass a central island, refuge, or roadwork obstruction exclusively on the left side.",
+      "ch": "Xikombiso lexi xi lava leswaku u rhendzeleka xitsiriki hi tlhelo ra ximatsi ntsena."
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "seg-cnd-001",
+    "grupo": "seg-cnd-nevoeiro",
+    "variacao": 1,
+    "subtema": "condicoes",
+    "dificuldade": 1,
+    "tags": ["nevoeiro", "luzes-medios", "visibilidade"],
+    "pergunta": {
+      "pt": "Em condições de nevoeiro denso, que luzes devem ser utilizadas e porque não se deve ligar os faróis de máximos?",
+      "en": "In thick fog conditions, which lights must be used and why shouldn't high beams be switched on?",
+      "ch": "Loko ku ri ni hunguva/munhu lowukulu, hi tihi timboni leti faneleke ku voninga naswona ha yini timboni ta le henhla ti nga pfumeleriwi?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "COND_FOG_LIGHTS",
+      "alt": {
+        "pt": "Condução em nevoeiro com luzes de cruzamento e nevoeiro",
+        "en": "Driving in fog with dipped headlights and fog lamps",
+        "ch": "Ku famba ka hunguva ni timboni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Luzes de cruzamento (médios) e luzes de nevoeiro; os máximos provocam reflexão na névoa, criando uma parede branca ofuscante que cega o próprio condutor.",
+        "Faróis de máximos com intensidade dobrada para furar a névoa.",
+        "Apenas luzes de presença (mínimos) a alta velocidade.",
+        "Todas as luzes devem ser desligadas para poupar bateria."
+      ],
+      "en": [
+        "Dipped headlights (low beams) and front/rear fog lamps; high beams reflect against water droplets creating an impenetrable white glare wall that blinds the driver.",
+        "High beams at double intensity to punch through the mist.",
+        "Only parking side-lights at high speed.",
+        "Turn off all lights completely to preserve vehicle battery."
+      ],
+      "ch": [
+        "Timboni ta le hansi (médios) ni timboni ta hunguva; timboni ta le henhla (máximos) ti ba ematini ya hunguva ti tlhelela emonhweni wa wena ti ku dlayisa mahlo.",
+        "Timboni ta le henhla hi matimba lamakulu.",
+        "Timboni ta mínimos ntsena hi rivengo ra le henhla.",
+        "Tima timboni hinkwato ku hlayisa bateria."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "As gotículas de água suspensas no nevoeiro funcionam como micro-espelhos. Os máximos refletem a luz de volta contra os olhos do condutor (efeito espelho branco). Deve-se usar médios e faróis de nevoeiro.",
+      "en": "Water micro-droplets act like tiny mirrors. High beams bounce light directly back into the driver's eyes. Low beams and fog lamps cast light under the fog layer.",
+      "ch": "Hunguva ri ni matoana ya mati lama rhendzelekaka. Loko u chela timboni ta le henhla, rivoningo ri tlhelela emonhweni wa wena ku fana ni xivoni. Tirhisa timboni ta le hansi."
+    }
+  },
+  {
+    "id": "seg-cnd-002",
+    "grupo": "seg-cnd-vento-lateral",
+    "variacao": 1,
+    "subtema": "condicoes",
+    "dificuldade": 2,
+    "tags": ["vento-lateral", "pontes", "viadutos"],
+    "pergunta": {
+      "pt": "Ao circular em pontes abertas (ex: Ponte Maputo-Katembe ou Ponte sobre o Zambeze) sob vento lateral violento, como deve reagir o condutor?",
+      "en": "Driving across open suspension bridges (e.g. Maputo-Katembe or Zambezi Bridge) in gale-force crosswinds, how must the driver react?",
+      "ch": "Loko u famba henhla ka mabhiriji lamakulu (Ponte Maputo-Katembe kumbe Zambeze) laha mheho ya le tlhelo yi hungaka hi matimba:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "COND_CROSSWIND",
+      "alt": {
+        "pt": "Manga de vento indicando rajadas laterais fortes",
+        "en": "Windsock fluttering under powerful crosswinds",
+        "ch": "Mfungho wa mheho ya matimba ya le tlhelo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Reduzir a velocidade, segurar firmemente o volante com as duas mãos e corrigir suavemente os desvios de trajetória sem manobras bruscas.",
+        "Acelerar ao máximo para atravessar a ponte o mais depressa possível.",
+        "Soltar o volante e deixar o vento empurrar o carro livremente.",
+        "Colocar a caixa de velocidades em ponto morto."
+      ],
+      "en": [
+        "Reduce speed, grip the steering wheel firmly with both hands, and gently correct trajectory drifts without jerky maneuvers.",
+        "Floor the accelerator pedal to cross the bridge in the fastest time possible.",
+        "Release the steering wheel and allow the gale to blow the car freely.",
+        "Shift the transmission into neutral."
+      ],
+      "ch": [
+        "Hunguta rivengo, khoma xiteringi hi mavoko mambirhi hi ku tiya, u lulamisa ndlela katsanana handle ko khweva xiteringi hi matimba.",
+        "Gagamela pedale u tsutsuma ku hundza hi ku hatlisa.",
+        "Tshika xiteringi mheho yi ku susa laha yi lavaka kona.",
+        "Susa marcha u veka ka ponto morto."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "As rajadas de vento lateral podem desviar subitamente o veículo da faixa de rodagem, especialmente após passar por pilares ou veículos pesados. Mãos firmes no volante e velocidade moderada mantêm a estabilidade.",
+      "en": "Sudden crosswind gusts displace vehicles laterally, exacerbated when breaking shelter from bridge pylons or trucks. Firm two-handed grip and low speed preserve stability.",
+      "ch": "Mheho ya matimba yi nga khukhula movha yi wu susa egondzweni. Khoma xiteringi hi mavoko mambirhi u famba katsanana ku sivela ku hambukisiwa."
+    }
+  },
+  {
+    "id": "seg-cnd-003",
+    "grupo": "seg-cnd-estrada-terra-lama",
+    "variacao": 1,
+    "subtema": "condicoes",
+    "dificuldade": 2,
+    "tags": ["terra", "picadas", "lama", "tracao"],
+    "pergunta": {
+      "pt": "Ao conduzir em estradas de terra batida (picadas) com lama e covas após chuvas tropicais em Moçambique, a regra técnica recomendada é:",
+      "en": "When driving on unpaved dirt tracks with mud ruts after tropical downpours in Mozambique, the best technique is:",
+      "ch": "Loko u chayela ka magondzo ya misava (picadas) lama nga ni ndzhope ni minkhele endzhaku ka mpfula:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "COND_MUD_TRACK",
+      "alt": {
+        "pt": "Veículo transitando em estrada de terra com sulcos e lama",
+        "en": "Vehicle negotiating muddy rutted unpaved dirt track",
+        "ch": "Movha wu famba ka gondzo ra misava leri nga ni ndzhope"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Utilizar uma mudança de velocidade baixa (ex: 2.ª velocidade), manter aceleração constante e suave sem desacelerações bruscas para não perder tração nem atolar.",
+        "Andar sempre em 5.ª velocidade com o pé apoiado na embraiagem.",
+        "Travar a fundo repetidamente a cada 10 metros para limpar a terra das rodas.",
+        "Desligar o motor e deixar o carro deslizar pelas descidas lamacentas."
+      ],
+      "en": [
+        "Engage a low gear (e.g. 2nd gear), maintaining steady, progressive engine throttle without sudden shifts to avoid losing traction or bogging down.",
+        "Always drive in 5th gear while riding the clutch pedal.",
+        "Slam brakes repeatedly every 10 meters to knock off dirt from the tyres.",
+        "Turn off the engine and let the vehicle coast down muddy inclines."
+      ],
+      "ch": [
+        "Tirhisa marcha ya le hansi (xik. 2ª velocidade), fambisa movha hi rivengo leri ringaneke u nga hanyi kumbe ku chukumisa pedale, ku sivela ku namarhela ka ndzhope.",
+        "Famba hi marcha 5 u ri karhi u kandziya embraiagem.",
+        "Ba mavhilwa mikarhi hinkwayo ku susa misava.",
+        "Tima injini movha wu khulukela hi wexe."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Na lama, paragens ou acelerações violentas fazem as rodas patinar e cavar a terra, atolando o carro. Marcha baixa com rotação estável garante tração contínua.",
+      "en": "In mud, abrupt acceleration breaks traction, spinning wheels and digging deep ruts that strand the vehicle. Low gears with consistent torque sustain momentum.",
+      "ch": "Ka ndzhope, ku gagamela ku endla mavhilwa ma rhendzeleka xitsongotsongo ma gega hansi movha wu namarhela. Marcha ya le hansi ni matimba lama nga cinciki swi hlayisa movha wu famba."
+    }
+  },
+  {
+    "id": "seg-cnd-004",
+    "grupo": "seg-cnd-poeira-densa",
+    "variacao": 1,
+    "subtema": "condicoes",
+    "dificuldade": 1,
+    "tags": ["poeira", "visibilidade-zero", "distancia"],
+    "pergunta": {
+      "pt": "Quando se levanta uma nuvem densa de poeira levantada por camiões em estradas não pavimentadas, o condutor deve:",
+      "en": "When a dense cloud of dust is kicked up by trucks on unpaved roads, the driver must:",
+      "ch": "Loko ku tlakuka ntsutsumo wa ritshuri leri vangiwaka hi mimovha leyikulu ka magondzo ya misava:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "COND_DUST_CLOUD",
+      "alt": {
+        "pt": "Nuvem densa de poeira que anula a visibilidade",
+        "en": "Dense dust cloud eliminating forward road visibility",
+        "ch": "Ritshuri lerikulu leri sivelaka ku vona emahlweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Reduzir a velocidade, acender os médios para ser visto, aumentar a distância e NUNCA tentar ultrapassar sem ter visibilidade absoluta da via à frente.",
+        "Acelerar às cegas dentro da poeira para ultrapassar o camião rapidamente.",
+        "Buzinar continuamente e guiar o veículo com os olhos fechados.",
+        "Mudar imediatamente para o lado contrário da estrada sem sinalizar."
+      ],
+      "en": [
+        "Slow down, switch on low beams to be seen, widen gap, and NEVER attempt blind overtaking without clear road view ahead.",
+        "Accelerate blindly through the dust screen to pass the truck in seconds.",
+        "Honk non-stop and steer with eyes closed.",
+        "Veer over into the oncoming lane abruptly without signaling."
+      ],
+      "ch": [
+        "Hunguta rivengo, tshiva timboni ta médios leswaku va ku vona, tlhela u engetela mpfhuka; u NGA TSHUKI u zama ku hundza movha lowu u nga voniki phambheni.",
+        "Tsutsuma hi mahlo lama nga voniki u hundza camião hi ku hatlisa.",
+        "Chaya buzina u pswala mahlo loko u chayela.",
+        "Jikela ka tlhelo ra le ximatsi u nga langutanga."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Ultrapassar 'às cegas' no meio de uma nuvem de poeira é uma das causas mais frequentes de colisões frontais fatais em Moçambique. Sem visibilidade total, é proibido ultrapassar.",
+      "en": "Blind overtaking inside a dust plume is a leading cause of head-on collisions in Mozambique. With zero forward visibility, overtaking is legally and practically forbidden.",
+      "ch": "Ku hundza movha wun’wana endzeni ka ritshuri laha u nga voniki phambheni swi dlaya vanhu vo tala hi ku tlulana tinhloko. Loko u nga voni kahle, a swi pfumeleriwi ku hundza."
+    }
+  },
+  {
+    "id": "seg-cnd-005",
+    "grupo": "seg-cnd-calor-extremo",
+    "variacao": 1,
+    "subtema": "condicoes",
+    "dificuldade": 1,
+    "tags": ["calor", "fadiga", "temperatura", "motor"],
+    "pergunta": {
+      "pt": "Em dias de calor extremo (temperaturas acima de 38°C frequentes no verão moçambicano), que cuidados especiais devem ser tomados pelo condutor?",
+      "en": "On days of scorching heat (temperatures above 38°C common in Mozambican summer), what precautions should drivers take?",
+      "ch": "Ka masiku yo hisa ngopfu (ku hisa loku tlulaka 38°C hi ximumu xa le Mozambiki), hi swihi switsundzuxo swa nkoka ka muchayeri?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "COND_HEATWAVE",
+      "alt": {
+        "pt": "Sol forte, hidratação do condutor e monitorização de temperatura do motor",
+        "en": "Scorching sun, driver hydration, and engine temperature monitoring",
+        "ch": "Ku hisa ka dyambu ni kutisa mati ya injini"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Vigiar o manómetro da temperatura do motor, verificar a pressão dos pneus (que aumenta com o calor), manter-se bem hidratado e fazer pausas para combater a sonolência.",
+        "Desligar todas as janelas e nunca beber água durante a viagem.",
+        "Retirar a tampa do radiador com o motor a ferver para refrescar o habitáculo.",
+        "Esvaziar metade do ar dos pneus para os deixar moles."
+      ],
+      "en": [
+        "Monitor engine coolant temperature, inspect tyre pressure (which builds up with heat), stay well hydrated, and take rest breaks to fight drowsiness.",
+        "Seal all windows shut and refrain from drinking fluids on long trips.",
+        "Unscrew the hot radiator cap while boiling to cool down the passenger cabin.",
+        "Bleed half the air out of the tyres to make them soft."
+      ],
+      "ch": [
+        "Languta manómetro ya ku hisa ka injini, kambisisa moya wa mavhilwa, nwa mati yo tala, u tlhela u yimanyana ku phuntela vurhongo ni ku karhala.",
+        "Pfala mafasitere hinkwawo u nga nwi mati.",
+        "Pfula xipfalo xa radiador injini ya ha virisa ku hisa.",
+        "Humesa hafu ya moya wa mavhilwa."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O calor intensifica a desidratação e o cansaço do condutor, aumentando o risco de adormecer ao volante. Nos veículos, o calor excessivo sobrecarrega o circuito de refrigeração e aumenta o risco de rebentamento de pneus.",
+      "en": "High ambient heat triggers acute dehydration and drowsiness behind the wheel. Vehicles face cooling system boil-overs and heat-induced tire blowouts.",
+      "ch": "Ku hisa ngopfu ku vanga vurhongo ni ku onhaka ka injini ni ku buluka ka mavhilwa. Nwa mati, yimanyana u hefemula u tlhela u kambisisa ku hisa ka movha."
+    }
+  }
+]

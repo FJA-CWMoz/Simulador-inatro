@@ -1,0 +1,394 @@
+[
+  {
+    "id": "vel-lim-001",
+    "grupo": "vel-lim-localidade-ligeiros",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 1,
+    "tags": ["velocidade", "localidades", "limite-geral"],
+    "pergunta": {
+      "pt": "Qual é o limite geral de velocidade máxima estabelecido pelo Código de Estrada de Moçambique para automóveis ligeiros sem reboque dentro das localidades?",
+      "en": "What is the general maximum speed limit established by the Mozambique Highway Code for light passenger cars inside urban areas/localities?",
+      "ch": "Hi kwihi rivengo ra le henhla leri pfumeleriweke ka mimovha leyitsongo endzeni ka madoroba (localidades) eMoçambique?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_60_URBAN",
+      "alt": {
+        "pt": "Placa de localidade e limite de 60 km/h",
+        "en": "Town entry sign and 60 km/h speed limit",
+        "ch": "Mfungho wa doroba ni rivengo ra 60 km/h"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "60 km/h.",
+        "80 km/h.",
+        "100 km/h.",
+        "40 km/h em todas as vias urbanas sem exceção."
+      ],
+      "en": [
+        "60 km/h.",
+        "80 km/h.",
+        "100 km/h.",
+        "40 km/h on all urban roads without exception."
+      ],
+      "ch": [
+        "60 km/h.",
+        "80 km/h.",
+        "100 km/h.",
+        "40 km/h emadorobeni hinkwawo."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Em Moçambique, o limite geral máximo de velocidade dentro das localidades é de 60 km/h para veículos ligeiros de passageiros e mercadorias sem reboque, salvo se a sinalização vertical indicar limite inferior (ex: 40 km/h junto a escolas).",
+      "en": "In Mozambique, the general urban speed limit for light cars without trailers is 60 km/h, unless signs state a lower speed.",
+      "ch": "Endzeni ka tindhawu ta madoroba (localidades), rivengo ra le henhla i 60 km/h ka mimovha leyitsongo handle ka loko ku ri ni xikombiso xin’wana."
+    }
+  },
+  {
+    "id": "vel-lim-002",
+    "grupo": "vel-lim-fora-localidade-ligeiros",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 1,
+    "tags": ["velocidade", "fora-localidades", "estrada-nacional"],
+    "pergunta": {
+      "pt": "Nas estradas nacionais fora das localidades (ex: EN1, EN4), qual é o limite geral de velocidade para automóveis ligeiros de passageiros sem reboque?",
+      "en": "On national highways outside towns/urban areas (e.g. EN1, EN4), what is the general speed limit for light passenger vehicles without trailers?",
+      "ch": "Ehandle ka madoroba eka magondzo lamakulu (EN1, EN4), hi kwihi rivengo ra le henhla ra mimovha leyitsongo?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_100_HIGHWAY",
+      "alt": {
+        "pt": "Limite de velocidade de 100 km/h fora das localidades",
+        "en": "100 km/h speed limit sign outside towns",
+        "ch": "Rivengo ra 100 km/h ehandle ka doroba"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "100 km/h (ou 120 km/h nas autoestradas devidamente homologadas e sinalizadas).",
+        "140 km/h em qualquer estrada asfaltada.",
+        "80 km/h para todos os veículos sem distinção.",
+        "Livre, sem qualquer limite superior obrigatório."
+      ],
+      "en": [
+        "100 km/h (or 120 km/h on designated authorized motorways).",
+        "140 km/h on any paved asphalt road.",
+        "80 km/h for all vehicle categories indiscriminately.",
+        "Unrestricted, without any legal maximum ceiling."
+      ],
+      "ch": [
+        "100 km/h (kumbe 120 km/h eka ti-autoestradas leti vuriweke hi nawu).",
+        "140 km/h eka gondzo rin’wana ni rin’wana ra tapete.",
+        "80 km/h ka mimovha hinkwayo.",
+        "A ku na mimbimi; u famba hi laha u tsakelaka."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Fora das localidades em vias normais o limite geral é de 100 km/h para automóveis ligeiros de passageiros sem reboque, elevando-se a 120 km/h em autoestradas sinalizadas.",
+      "en": "Outside urban boundaries on general highways the standard limit is 100 km/h for passenger cars without trailers, rising to 120 km/h on signposted motorways.",
+      "ch": "Ehandle ka doroba ka magondzo ya tiko, mimbimi i 100 km/h ka mimovha leyitsongo, kasi eka autoestrada i 120 km/h."
+    }
+  },
+  {
+    "id": "vel-lim-003",
+    "grupo": "vel-lim-pesados-mercadorias",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 2,
+    "tags": ["velocidade", "pesados", "mercadorias"],
+    "pergunta": {
+      "pt": "Qual é a velocidade máxima permitida fora das localidades para veículos pesados de mercadorias com ou sem reboque?",
+      "en": "What is the maximum speed permitted outside urban areas for heavy goods vehicles with or without trailers?",
+      "ch": "Hi kwihi rivengo ra le henhla ehandle ka doroba ka mimovha leyikulu yo rhwala tinhundhu (camions)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_TRUCK_80",
+      "alt": {
+        "pt": "Camião pesado de transporte e limite de velocidade",
+        "en": "Heavy cargo truck and speed limit indicator",
+        "ch": "Movha lowukulu wa tinhundhu ni rivengo ra wona"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "80 km/h.",
+        "100 km/h.",
+        "60 km/h.",
+        "120 km/h se a carga estiver bem amarrada."
+      ],
+      "en": [
+        "80 km/h.",
+        "100 km/h.",
+        "60 km/h.",
+        "120 km/h provided cargo is properly strapped."
+      ],
+      "ch": [
+        "80 km/h.",
+        "100 km/h.",
+        "60 km/h.",
+        "120 km/h loko tinhundhu ti bohiwile kahle."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Devido à elevada massa e longa distância de travagem, os veículos pesados de mercadorias estão legalmente limitados a 80 km/h fora das localidades em Moçambique.",
+      "en": "Due to high momentum and extended stopping distances, heavy freight vehicles are capped at 80 km/h outside towns.",
+      "ch": "Hikwalaho ka ntiko ni ku tika ka ku yimisa movha lowukulu, mimovha ya tinhundhu a yi fanelanga ku tlula 80 km/h ehandle ka doroba."
+    }
+  },
+  {
+    "id": "vel-lim-004",
+    "grupo": "vel-lim-excessiva-vs-excesso",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 2,
+    "tags": ["velocidade-excessiva", "seguranca", "conceito"],
+    "pergunta": {
+      "pt": "Qual é a distinção entre 'Excesso de Velocidade' e 'Velocidade Excessiva'?",
+      "en": "What is the distinction between 'Speeding (Exceeding the Speed Limit)' and 'Excessive Speed'?",
+      "ch": "Hi kwihi kuhambana ka 'Ku tlula mimbimi ya rivengo' ni 'Rivengo leri nga fanelangiki xiyimo'?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_CONCEPT",
+      "alt": {
+        "pt": "Conceito de velocidade excessiva perante condições da via",
+        "en": "Concept of excessive speed vs legal speed limit",
+        "ch": "Kuhambana ka mimbimi ya rivengo ni swiyimo swa gondzo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Excesso de velocidade é ultrapassar o limite legal numérico (ex: 65 num limite de 60); Velocidade excessiva é conduzir a velocidade desadequada ao estado do piso, visibilidade ou tráfego, mesmo estando abaixo do limite numérico.",
+        "Ambos os termos são sinónimos perfeitos no direito rodoviário moçambicano.",
+        "Velocidade excessiva só existe em autoestradas com portagens.",
+        "Excesso de velocidade aplica-se apenas a transportes semi-colectivos de passageiros (chapas)."
+      ],
+      "en": [
+        "Speed limit excess is driving above the statutory number (e.g. 65 in a 60 zone); Excessive speed means traveling too fast for road conditions, visibility, or weather even if below the legal ceiling.",
+        "Both terms are interchangeable synonyms in Mozambican traffic law.",
+        "Excessive speed is only recognized on tolled motorways.",
+        "Speeding solely applies to semi-collective minibuses (chapas)."
+      ],
+      "ch": [
+        "Ku tlula mimbimi i ku famba ku tlula nomboro leyi tsariweke (xik. 70 lomu ku nga 60); Rivengo leri nga fanelangiki i ku tsutsuma ngopfu ka xiyimo xa mpfula kumbe munyama, hambi u nga tlulanga nomboro.",
+        "Swi vula nchumu wun’we ntsena.",
+        "Swi tirha ka ti-autoestrada ntsena.",
+        "Swi tirha ka machapa ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Pode-se cometer a infração de velocidade excessiva a 30 km/h se estiver nevoeiro denso, chuva torrencial ou junto a crianças a sair da escola, mesmo num troço com limite legal de 60 km/h.",
+      "en": "You can be cited for excessive speed driving at 30 km/h in dense fog or torrential rain near school children, even if the road limit is 60 km/h.",
+      "ch": "U nga vanga khombo hi rivengo ra 30 km/h loko ku na mpfula leyikulu kumbe vana kusuhi, hambi lomu gondzo ri pfumelaka 60 km/h."
+    }
+  },
+  {
+    "id": "vel-lim-005",
+    "grupo": "vel-lim-escolas-aglomerados",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 1,
+    "tags": ["escola", "reducao-velocidade", "aglomerados"],
+    "pergunta": {
+      "pt": "Em que locais ou circunstâncias o condutor deve moderar especialmente a velocidade de modo a poder parar no espaço visível à sua frente?",
+      "en": "In which locations or circumstances must a driver specially moderate vehicle speed to guarantee stopping within the visible clear distance?",
+      "ch": "Hi kwihi lomu muchayeri a bohekaka ku hunguta ngopfu rivengo leswaku a kota ku yimisa movha phambheni?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_CAUTION_ZONE",
+      "alt": {
+        "pt": "Zona de prudência e moderação de velocidade junto a aglomerado",
+        "en": "Caution and speed moderation zone near crowds",
+        "ch": "Ndhawu yo hunguta rivengo kusuhi ni vanhu"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Na aproximação de escolas, hospitais, passagens de peões, curvas de visibilidade reduzida e aglomerados populacionais.",
+        "Apenas quando avistar um veículo da polícia de trânsito estacionado.",
+        "Somente nos dias em que o veículo estiver sem inspeção periódica válida.",
+        "Exclusivamente aos fins de semana e feriados nacionais."
+      ],
+      "en": [
+        "Approaching schools, hospitals, pedestrian crossings, blind curves, and crowded human settlements.",
+        "Only when sighting a parked traffic police cruiser.",
+        "Only on days when the vehicle lacks valid roadworthiness inspection.",
+        "Exclusively on weekends and national holidays."
+      ],
+      "ch": [
+        "Loko u tshinela ka swikolo, swibedlhela, passadeira, majiko lama nga vonakiki ni lomu ku nga ni vanhu vo tala.",
+        "Loko u vona maphorisa ya trânsito ntsena.",
+        "Loko movha wu nga ri na inspeção.",
+        "Ka mahelo ya vhiki ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O Código da Estrada obriga à moderação especial da velocidade nas curvas, cruzamentos, descidas acentuadas, passadeiras, troços em obras e junto de escolas e hospitais.",
+      "en": "Traffic law mandates special speed moderation on blind corners, intersections, steep descents, pedestrian zones, and near schools and medical clinics.",
+      "ch": "Nawu wu sindzisa ku hunguta rivengo swinene eka majiko, mahlanganelo, passadeira, ni kusuhi ni swikolo ni swibedlhela."
+    }
+  },
+  {
+    "id": "vel-lim-006",
+    "grupo": "vel-lim-pesados-fora-localidade",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 1,
+    "tags": ["pesados", "camiao", "autocarro", "fora-localidade"],
+    "pergunta": {
+      "pt": "Qual é a velocidade máxima permitida fora das localidades para um automóvel pesado de mercadorias (camião) em Moçambique?",
+      "en": "What is the maximum speed permitted outside built-up areas for a heavy goods vehicle (truck) in Mozambique?",
+      "ch": "Hi rihi rivengo ra le henhla leri pfumeleriwaka ehandle ka doroba ka kamioni ya swiphahlo eMoçambique?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_TRUCK_80",
+      "alt": {
+        "pt": "Limite de velocidade de 80 km/h para pesados fora de localidades",
+        "en": "80 km/h speed limit for heavy vehicles outside built-up areas",
+        "ch": "Rivengo ra 80 km/h ka tikamioni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "80 km/h.",
+        "100 km/h.",
+        "60 km/h.",
+        "120 km/h."
+      ],
+      "en": [
+        "80 km/h.",
+        "100 km/h.",
+        "60 km/h.",
+        "120 km/h."
+      ],
+      "ch": [
+        "80 km/h.",
+        "100 km/h.",
+        "60 km/h.",
+        "120 km/h."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Segundo a tabela oficial do Código da Estrada moçambicano, a velocidade máxima fora das localidades para pesados de mercadorias e pesados de passageiros é de 80 km/h (contra os 100 km/h para automóveis ligeiros).",
+      "en": "Under Mozambican highway code tables, the speed limit for heavy freight trucks outside urban areas is 80 km/h (compared to 100 km/h for light cars).",
+      "ch": "Ehandle ka doroba, tikamioni ta swiphahlo a ti fanelanga ku tlula 80 km/h."
+    }
+  },
+  {
+    "id": "vel-lim-007",
+    "grupo": "vel-lim-autoestrada-ligeiros",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 1,
+    "tags": ["autoestrada", "ligeiros", "limite-maximo"],
+    "pergunta": {
+      "pt": "Qual é a velocidade máxima permitida numa autoestrada homologada (ex: autoestrada Maputo-Witbank EN4) para um automóvel ligeiro de passageiros sem reboque?",
+      "en": "What is the maximum allowed speed on an official motorway (e.g. Maputo-Witbank EN4) for a light passenger car without a trailer?",
+      "ch": "Hi rihi rivengo ra le henhla leri pfumeleriwaka eka autoestrada (EN4) ka movha lowutsongo?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_120",
+      "alt": {
+        "pt": "Limite de 120 km/h em autoestrada",
+        "en": "120 km/h motorway limit",
+        "ch": "Rivengo ra 120 km/h ka autoestrada"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "120 km/h.",
+        "100 km/h.",
+        "140 km/h.",
+        "Não existe qualquer limite de velocidade em autoestrada."
+      ],
+      "en": [
+        "120 km/h.",
+        "100 km/h.",
+        "140 km/h.",
+        "There is no speed limit on motorways."
+      ],
+      "ch": [
+        "120 km/h.",
+        "100 km/h.",
+        "140 km/h.",
+        "A ku na limite ka autoestrada."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Em autoestradas legalmente sinalizadas em Moçambique, a velocidade máxima fixada por lei para automóveis ligeiros de passageiros é de 120 km/h, desde que as condições meteorológicas e de tráfego o permitam com segurança.",
+      "en": "On designated Mozambican motorways, the statutory speed ceiling for light cars without trailer is 120 km/h.",
+      "ch": "Ka autoestrada leyi nga ni swikombiso, rivengo ra le henhla ka movha lowutsongo i 120 km/h."
+    }
+  },
+  {
+    "id": "vel-lim-008",
+    "grupo": "vel-lim-marcha-lenta",
+    "variacao": 1,
+    "subtema": "limites",
+    "dificuldade": 2,
+    "tags": ["marcha-lenta", "embaraco", "infracao"],
+    "pergunta": {
+      "pt": "Circular a uma velocidade anormalmente reduzida que cause embaraço e perigo injustificado aos restantes utentes da via constitui:",
+      "en": "Driving at an abnormally slow speed that causes unjustifiable impediment and hazard to other road users constitutes:",
+      "ch": "Ku famba hi rivengo ro nonoka ngopfu leri sivelaka van’wana vanhu ku famba xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "SPEED_SLOW_HAZARD",
+      "alt": {
+        "pt": "Veículo em marcha anormalmente lenta causando fila",
+        "en": "Vehicle traveling abnormally slow causing traffic tailback",
+        "ch": "Movha lowu nonokaka ngopfu wu vanga layini"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Uma contraordenação ao Código da Estrada, sendo expressamente proibido circular em velocidade excessivamente lenta sem motivo justificado.",
+        "Uma atitude recomendável de máxima prudência elogiada pelas autoridades.",
+        "Um procedimento obrigatório sempre que se estiver a aprender a conduzir com familiares.",
+        "Uma infração punida apenas se o veículo for de tração animal."
+      ],
+      "en": [
+        "A traffic offense under the Highway Code; driving excessively slow without valid reason is explicitly forbidden.",
+        "A praiseworthy safety action commended by police.",
+        "A mandatory procedure whenever learning with family members.",
+        "An offense applicable only to animal-drawn carts."
+      ],
+      "ch": [
+        "Nandzu wa milawu ya trânsito; a swi pfumeleriwi ku nonoka ngopfu handle ka xivangelo lexi twalaka.",
+        "I mukhuva lowunene wo dzunisiwa.",
+        "Swi boheka loko u dyondza ku chayela ni ndyangu.",
+        "I nandzu ka makalichi ya tihomu ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O condutor não deve transitar em marcha tão lenta que cause embaraço injustificado aos outros utentes. Marcha excessivamente lenta é infração punida com multa, pois induz ultrapassagens de risco.",
+      "en": "Drivers must not drive so slowly as to obstruct traffic without a legitimate mechanical or hazard cause.",
+      "ch": "A swi pfumeleriwi ku famba hi ku nonoka ngopfu u sivela van’wana ku famba, swi vanga timhangu ta ku hundzana."
+    }
+  }
+]

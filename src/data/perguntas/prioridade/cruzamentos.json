@@ -1,0 +1,541 @@
+[
+  {
+    "id": "prio-cruz-001",
+    "grupo": "prio-cruz-regra-direita",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 1,
+    "tags": ["prioridade", "cruzamento", "regra-da-direita"],
+    "pergunta": {
+      "pt": "Num cruzamento de vias de igual categoria sem qualquer sinalização de trânsito, a quem deve o condutor ceder a passagem?",
+      "en": "At an intersection of roads of equal rank with no traffic signals or signs, to whom must the driver give way?",
+      "ch": "Eka mahlanganelo ya magondzo lama ringanaka lama nga riki na xikombiso, muchayeri u nyika mani ndlela?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PRIO_CRUZ_1",
+      "alt": {
+        "pt": "Cruzamento não sinalizado com dois veículos A e B",
+        "en": "Unsignaled intersection with vehicles A and B",
+        "ch": "Mahlanganelo ya magondzo lama nga riki na xikombiso"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aos veículos que se lhe apresentem pela sua direita (Regra Geral da Direita).",
+        "Aos veículos maiores ou mais pesados que se aproximem pela esquerda.",
+        "Sempre ao veículo que circula a maior velocidade.",
+        "Ao veículo que buzinar primeiro e com maior insistência."
+      ],
+      "en": [
+        "To vehicles approaching from their right (General Rule of Priority to the Right).",
+        "To heavier or larger vehicles coming from the left.",
+        "Always to whichever vehicle is traveling at higher speed.",
+        "To the vehicle whose driver sounds their horn first."
+      ],
+      "ch": [
+        "Eka mimovha leyi humelelaka hi le tlhelo rakwe ra xinene (Regra da Direita).",
+        "Eka movha lowukulu lowu humaka ximatsi.",
+        "Eka movha lowu tsutsumaka ngopfu.",
+        "Eka loyi a rhangeke a chaya buzina."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Segundo o Código da Estrada de Moçambique, na ausência de sinalização em contrário, a regra de ouro em cruzamentos e entroncamentos é a prioridade de passagem a quem surge pela direita.",
+      "en": "Under the Mozambique Highway Code, in the absence of signs or lights, the universal default rule is giving way to traffic arriving from the right.",
+      "ch": "Eka milawu ya Moçambique, loko ku hava xikombiso, u fanele ku nyika ndlela movha lowu humaka hi tlhelo ra wena ra xinene."
+    }
+  },
+  {
+    "id": "prio-cruz-002",
+    "grupo": "prio-cruz-veiculo-emergencia",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 1,
+    "tags": ["prioridade", "ambulancia", "emergencia"],
+    "pergunta": {
+      "pt": "Um condutor aproxima-se de um cruzamento com sinal de passagem com prioridade. No entanto, surge da esquerda uma ambulância com sirene ligada e pirilampos azuis acionados. O que deve fazer?",
+      "en": "A driver approaches an intersection with right-of-way signs. An ambulance with sirens wailing and flashing blue lights arrives from the left. What must the driver do?",
+      "ch": "Muchayeri u le gondzweni ra nkoka, kambe ku humelela ambulância yi duma ni timboni to voninga hi ximatsi. U fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PRIO_EMERG_1",
+      "alt": {
+        "pt": "Veículo prioritário de socorro em marcha de urgência",
+        "en": "Emergency response vehicle in urgent transit",
+        "ch": "Movha wa xilamulelo (ambulância)"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Ceder obrigatoriamente a passagem à ambulância, desviar e parar se necessário para desimpedir a via.",
+        "Avançar rapidamente, porque o sinal de trânsito lhe dá prioridade absoluta sobre qualquer veículo.",
+        "Buzinar de volta para pedir à ambulância que aguarde a sua passagem.",
+        "Ignorar a ambulância caso ela circule pela esquerda."
+      ],
+      "en": [
+        "Mandatorily yield right-of-way to the ambulance, pulling over and stopping if needed to clear the path.",
+        "Proceed quickly because road signs grant absolute priority over all vehicles.",
+        "Honk back to request the ambulance wait for clearance.",
+        "Disregard the emergency vehicle since it arrives from the left."
+      ],
+      "ch": [
+        "Ku nyika ndlela ambulância hi ku boheka, u pambuka u tlhela u yima loko swi laveka.",
+        "Ku gagamela u hundza hikuva u na xikombiso.",
+        "Ku ba buzina ku komba ambulância leswaku yi yima.",
+        "Ku nga yi yingiseli hikuva yi huma ximatsi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Os veículos de emergência em missão urgente de socorro (assinalando a marcha com avisadores sonoros e luminosos) têm prioridade absoluta sobre todos os veículos, sobrepondo-se inclusive às regras normais de trânsito e sinalização vertical.",
+      "en": "Emergency vehicles signaling active missions with sirens and beacons hold absolute priority over ordinary vehicles and standard priority signage.",
+      "ch": "Mimovha ya xilamulelo (ambulância, maphorisa, vatlhimi va ndzilo) yi na matimba yo rhangela hinkwavo loko timboni ni nchumu wo duma swi tirha."
+    }
+  },
+  {
+    "id": "prio-cruz-003",
+    "grupo": "prio-cruz-caminho-particular",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 2,
+    "tags": ["prioridade", "caminho-particular", "garagem"],
+    "pergunta": {
+      "pt": "O condutor que sai de um prédio, garagem, posto de combustível ou caminho particular e entra numa via pública:",
+      "en": "A driver emerging from a building, garage, petrol station, or private driveway onto a public road:",
+      "ch": "Muchayeri loyi a humaka ka yindlu, garaji, bomba ya mafurha kumbe ndlela ya le kaya a nghena egondzweni lerikulu:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PRIO_PARTICULAR",
+      "alt": {
+        "pt": "Veículo saindo de caminho particular para via pública",
+        "en": "Vehicle leaving private driveway into public road",
+        "ch": "Movha lowu humaka ka yindlu wu nghena gondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Deve ceder a passagem a todos os veículos que já circulam na via pública, mesmo que venham da sua esquerda.",
+        "Tem prioridade de passagem porque se apresenta pela direita.",
+        "Tem direito de entrar sem abrandar desde que acione a luz de mudança de direção (pisca).",
+        "Ganha prioridade se for o primeiro a colocar as rodas na estrada."
+      ],
+      "en": [
+        "Must yield to all vehicles already traveling on the public roadway, even those approaching from their left.",
+        "Has right of way because they approach from the right side.",
+        "Has the right to merge without slowing provided the turn indicator is on.",
+        "Gains priority by being the first to put wheels onto the asphalt."
+      ],
+      "ch": [
+        "U fanele ku nyika ndlela mimovha hinkwayo leyi fambaka egondzweni ra mani na mani, hambi leyi humaka ximatsi.",
+        "U na priority hikuva u le tlhelo ra xinene.",
+        "U nghena handle ko hunguta rivengo loko a tshivile pisca.",
+        "U rhangela loko a hatla a fika."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A regra da direita tem exceções expressas na lei: quem sai de garagens, caminhos particulares, postos de abastecimento ou parques perde a prioridade e deve ceder a passagem a todos os utentes da via pública.",
+      "en": "Drivers exiting private properties, filling stations, or driveways lose right-of-way and must yield to all traffic on the public roadway.",
+      "ch": "Loko u huma ka muti kumbe ndhawu ya le xihundleni u nghena egondzweni ra tiko, u fanele ku yima u nyika ndlela mimovha hinkwayo."
+    }
+  },
+  {
+    "id": "prio-cruz-004",
+    "grupo": "prio-cruz-viragem-esquerda",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 2,
+    "tags": ["mudanca-direcao", "viragem-esquerda", "cruzamento"],
+    "pergunta": {
+      "pt": "Ao mudar de direção para a esquerda num cruzamento sem semáforos, a que veículos deve o condutor ceder a passagem?",
+      "en": "When turning left at an intersection without traffic lights, to which vehicles must the driver yield?",
+      "ch": "Loko u lava ku jikela ximatsi eka mahlanganelo lama nga riki na semáforo, u fanele ku nyika ndlela vamani?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PRIO_TURN_LEFT",
+      "alt": {
+        "pt": "Manobra de viragem à esquerda num cruzamento",
+        "en": "Left turn maneuver at road intersection",
+        "ch": "Ku jikela ximatsi eka mahlanganelo ya magondzo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aos veículos que circulam em sentido oposto e aos que se apresentem pela direita.",
+        "Apenas aos veículos que circulam em marcha atrás.",
+        "A nenhum veículo, porque quem vira à esquerda ganha precedência.",
+        "Apenas a velocípedes e peões que circulem nos passeios."
+      ],
+      "en": [
+        "To oncoming vehicles traveling straight or turning right, and to vehicles from the right.",
+        "Only to reversing vehicles.",
+        "To no vehicle, as turning left grants legal precedence.",
+        "Only to cyclists and pedestrians on sidewalks."
+      ],
+      "ch": [
+        "Eka mimovha leyi humaka emahlweni (sentido oposto) ni leyi humelelaka hi le tlhelo ra xinene.",
+        "Eka mimovha leyi fambaka hi marcha-atrás ntsena.",
+        "A ku na loyi a nyikiwaka ndlela.",
+        "Eka vafambi va milenge ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Ao mudar de direção para a esquerda, o condutor corta a trajetória dos veículos que vêm em sentido contrário e dos que se apresentam pela direita na via onde vai entrar, tendo obrigatoriamente de lhes ceder a passagem.",
+      "en": "Turning left crosses the path of oncoming traffic and intersects traffic on the right, requiring yielding to both flows.",
+      "ch": "Loko u jikela ximatsi, u tsemakanya ndlela ya movha lowu humaka emahlweni, hikwalaho u fanele ku wu yimela wu hundza."
+    }
+  },
+  {
+    "id": "prio-cruz-005",
+    "grupo": "prio-cruz-sinal-stop",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 1,
+    "tags": ["stop", "cedencia", "cruzamento"],
+    "pergunta": {
+      "pt": "Perante o sinal de 'STOP' (Paragem Obrigatória no Cruzamento), qual é a conduta obrigatória?",
+      "en": "Facing a 'STOP' sign at an intersection, what is the mandatory conduct?",
+      "ch": "Loko u fika ka xikombiso xa STOP, u fanele ku endla yini hi ku boheka?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "B2_STOP",
+      "alt": {
+        "pt": "Sinal B2: Paragem Obrigatória no Cruzamento (STOP)",
+        "en": "Sign B2: Mandatory Stop at Intersection (STOP)",
+        "ch": "Xikombiso xa B2 STOP"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Parar obrigatoriamente e de forma completa antes da linha de paragem, e ceder a passagem a todos os veículos da via transversal.",
+        "Reduzir apenas ligeiramente a marcha se não avistar outros veículos.",
+        "Parar apenas se vierem peões a atravessar a via.",
+        "Acelerar para transpor o cruzamento antes dos carros que se aproximam."
+      ],
+      "en": [
+        "Stop completely and mandatorily before the stop line, and give way to all vehicles on the intersecting road.",
+        "Merely slow down slightly if no other vehicles are immediately spotted.",
+        "Stop only if pedestrians are actively crossing.",
+        "Accelerate through the intersection before approaching vehicles arrive."
+      ],
+      "ch": [
+        "Ku yima hi ku hetiseka phambheni ka layini, u nyika ndlela mimovha hinkwayo leyi fambaka egondzweni leri tsemakanaka.",
+        "Ku hungutanyana rivengo u tlhela u famba loko u nga voni movha.",
+        "Ku yimela vafambi va milenge ntsena.",
+        "Ku tsutsuma u hundza hi ku chava ku fika ka van’wana."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal de STOP impõe imobilização total da viatura, mesmo que não circule trânsito algum no momento. A passagem só pode ser retomada após verificar que a via está livre em ambos os sentidos.",
+      "en": "A STOP sign demands complete vehicle immobilization regardless of apparent traffic emptiness. Movement may only resume once both directions are verified clear.",
+      "ch": "STOP yi vula ku yima movha wu rhula. Hambi ku hava movha lowu vonakaka, u fanele ku yima u rhanga u languta matlhelo mambirhi."
+    }
+  },
+  {
+    "id": "prio-cruz-006",
+    "grupo": "prio-cruz-veiculo-carris",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 1,
+    "tags": ["comboio", "carris", "prioridade-absoluta"],
+    "pergunta": {
+      "pt": "Num cruzamento de via pública com linha férrea onde circula um comboio ou composição sobre carris que se apresenta pela esquerda:",
+      "en": "At a level crossing with a railway line where a train on tracks approaches from the left:",
+      "ch": "Eka mahlanganelo ya gondzo ni xitimela lexi humaka hi tlhelo ra ximatsi:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A25",
+      "alt": {
+        "pt": "Cruzamento com veículo sobre carris",
+        "en": "Railway track intersection",
+        "ch": "Mahlanganelo ya xitimela"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O veículo sobre carris (comboio) tem prioridade absoluta de passagem, mesmo apresentando-se pela esquerda.",
+        "O automóvel ligeiro tem prioridade porque o comboio vem da esquerda.",
+        "A prioridade é decidida pelo condutor que buzinar primeiro.",
+        "O comboio é obrigado a parar e ceder a passagem ao automóvel."
+      ],
+      "en": [
+        "The rail vehicle (train) holds absolute right-of-way, even when approaching from the left.",
+        "The passenger car has priority because the train approaches from the left.",
+        "Priority is settled by whoever sounds their horn first.",
+        "The train is legally required to stop and yield to the automobile."
+      ],
+      "ch": [
+        "Xitimela xi na fanelo hinkwayo yo rhangela (priority absoluta), hambi xi huma hi ximatsi.",
+        "Movha wu na priority hikuva xitimela xi huma ximatsi.",
+        "Loyi a baka buzina hi yena a rhangelaka.",
+        "Xitimela xi fanele ku yima xi nyika ndlela movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Os veículos sobre carris constituem uma das exceções expressas à regra geral da direita: têm sempre prioridade de passagem sobre os demais veículos, venham da direita ou da esquerda.",
+      "en": "Rail-bound vehicles are an explicit statutory exception to the right-hand rule: they always hold priority over road vehicles.",
+      "ch": "Switimela a swi landzeli nawu wa xinene: swi na priority hinkwayo, hambi swi huma ximatsi kumbe xinene."
+    }
+  },
+  {
+    "id": "prio-cruz-007",
+    "grupo": "prio-cruz-amarelo-intermitente",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 2,
+    "tags": ["semáforo", "amarelo-intermitente", "regra-direita"],
+    "pergunta": {
+      "pt": "Num cruzamento onde os semáforos se encontram desligados ou em amarelo intermitente (a piscar), como se processa a passagem?",
+      "en": "At an intersection where traffic lights are off or flashing amber/yellow, how is priority governed?",
+      "ch": "Eka mahlanganelo laha semáforo ri timiweke kumbe ri tshamaka ri phatsima xitshopana (amarelo pisca):"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PRIO_FLASHING_AMBER",
+      "alt": {
+        "pt": "Semáforo amarelo intermitente no cruzamento",
+        "en": "Flashing amber traffic signal at junction",
+        "ch": "Semáforo lexi tshamaka xi phatsima xitshopana"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O condutor deve avançar com prudência redobrada, respeitando os sinais verticais existentes ou, na falta destes, a Regra Geral da Direita.",
+        "O condutor deve acelerar ao máximo para passar antes dos outros.",
+        "Todos os veículos devem ficar imobilizados indefinidamente até que o semáforo volte a verde.",
+        "A passagem torna-se livre sem necessidade de ceder passagem a ninguém."
+      ],
+      "en": [
+        "The driver must advance with increased caution, obeying vertical signs or, in their absence, the General Rule of Priority to the Right.",
+        "The driver must accelerate at maximum speed to cross before others.",
+        "All vehicles must remain stopped until green lights return.",
+        "Passage becomes totally unrestricted with no requirement to yield."
+      ],
+      "ch": [
+        "Muchayeri u fanele ku famba hi vukheta byo tlula mpimo, a landzela swikombiso swa puleki kumbe nawu wa Xinene loko swi nga ri kona.",
+        "Muchayeri u fanele ku tsutsuma ngopfu a rhangela.",
+        "Mimovha hinkwayo yi yima ku fika semáforo ri cinca rihlaza.",
+        "Ku hava munhu loyi a nyikaka ndlela van’wana."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A luz amarela intermitente não confere prioridade nem proíbe a passagem: adverte perigo e manda avançar com prudência, aplicando-se os sinais de cedência ou a regra da direita.",
+      "en": "Flashing amber signals danger and instructs drivers to proceed with extreme caution, falling back on priority signs or the right-hand rule.",
+      "ch": "Mboni ya xitshopana leyi phatsimaka yi komba khombo. Famba katsanana u nyika ndlela movha lowu humaka xinene."
+    }
+  },
+  {
+    "id": "prio-cruz-008",
+    "grupo": "prio-cruz-autoestrada-aceleracao",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 2,
+    "tags": ["autoestrada", "via-aceleracao", "entrada"],
+    "pergunta": {
+      "pt": "O condutor que transita pela via de aceleração para entrar numa autoestrada (ex: EN4 em Moçambique):",
+      "en": "A driver traveling on an acceleration lane to merge into a motorway (e.g., EN4 in Mozambique):",
+      "ch": "Muchayeri loyi a fambaka ka ndlela yo tsutsumisa (via de aceleração) ku nghena ka autoestrada (EN4):"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PRIO_HIGHWAY_MERGE",
+      "alt": {
+        "pt": "Entrada na autoestrada através de via de aceleração",
+        "en": "Merging into motorway via acceleration lane",
+        "ch": "Ku nghena ka autoestrada"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Deve ceder a passagem aos veículos que já circulam na autoestrada, adaptando a velocidade para entrar em segurança sem perturbar o tráfego.",
+        "Tem prioridade absoluta porque está a acelerar pela direita.",
+        "Deve travar a fundo e parar sempre no início da via de aceleração.",
+        "Pode forçar a entrada porque quem circula na autoestrada é obrigado a mudar de faixa."
+      ],
+      "en": [
+        "Must yield right-of-way to vehicles already traveling on the motorway, matching speed to merge safely without impeding traffic.",
+        "Has absolute priority because accelerating from the right.",
+        "Must slam brakes and stop dead at the start of the slip road.",
+        "May force entry because motorway drivers must vacate the lane."
+      ],
+      "ch": [
+        "U fanele ku nyika ndlela mimovha leyi se yi fambaka ka autoestrada, a ringanisa rivengo a nghena handle ko vanga khombo.",
+        "U na priority hikuva u le tlhelo ra xinene.",
+        "U fanele ku yima xikan’we a nga si sungula ku tsutsuma.",
+        "A nga nghena hi matimba a susumeta van’wana."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A entrada na autoestrada é outra exceção legal à regra da direita: quem entra pela via de aceleração tem de ceder a passagem ao trânsito que já nela circula.",
+      "en": "Motorway entry is a statutory exception to the right-hand rule: traffic on the acceleration slip road must yield to mainline highway vehicles.",
+      "ch": "Ku nghena ka autoestrada a ku na priority ya xinene: u fanele ku nyika ndlela mimovha leyi se yi fambaka ka autoestrada."
+    }
+  },
+  {
+    "id": "prio-cruz-009",
+    "grupo": "prio-cruz-agente-policia",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 1,
+    "tags": ["agente", "policia", "gestos", "hierarquia"],
+    "pergunta": {
+      "pt": "Num cruzamento com semáforo no verde, um agente da Polícia de Trânsito encontra-se de braço erguido verticalmente para cima. O que deves fazer?",
+      "en": "At a crossing with a green traffic light, a Traffic Police officer stands with arm raised vertically. What must you do?",
+      "ch": "Loko semáforo ri ri rihlaza kambe phorisa ri tlakusa voko henhla, u fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "AGENTE_TRANSITO",
+      "alt": {
+        "pt": "Agente de trânsito com braço erguido verticalmente",
+        "en": "Traffic officer with arm vertically raised",
+        "ch": "Phorisa ri tlakuse voko henhla"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Parar obrigatoriamente, pois o braço erguido na vertical significa paragem para todos os utentes da via que se aproximem do cruzamento.",
+        "Avançar com precaução, porque o semáforo verde prevalece sobre o agente.",
+        "Acelerar rapidamente para desimpedir o cruzamento antes do agente apitar.",
+        "Parar apenas se conduzir um veículo pesado de passageiros ou de carga."
+      ],
+      "en": [
+        "Stop unconditionally, as an arm raised vertically means stop for all road users approaching the intersection.",
+        "Proceed with caution because the green light takes precedence over the officer.",
+        "Speed up to clear the intersection before the officer blows the whistle.",
+        "Stop only if driving a heavy commercial vehicle."
+      ],
+      "ch": [
+        "Yima xikan’we, hikuva ku tlakusa voko henhla swi vula ku yima ka vanhu hinkwavo.",
+        "Famba hikuva semáforo ri rihlaza.",
+        "Tsutsuma u hatla u hundza.",
+        "Ku yima ka tikamioni ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O gesto do agente da autoridade com braço erguido na vertical significa 'Atenção, paragem obrigatória' para todos os sentidos de tráfego, e sobrepõe-se a qualquer sinalização semafórica verde!",
+      "en": "The police officer's vertically raised arm signals 'Attention, mandatory stop' for all incoming traffic, superseding any green traffic lights.",
+      "ch": "Voko ra phorisa leri tlakusiweke henhla ri vula ku yima ka vanhu hinkwavo, hambi semáforo ri ri rihlaza!"
+    }
+  },
+  {
+    "id": "prio-cruz-010",
+    "grupo": "prio-cruz-tres-veiculos-abc",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 2,
+    "tags": ["tres-veiculos", "ordem-passagem", "cruzamento"],
+    "pergunta": {
+      "pt": "Num cruzamento não sinalizado: o Veículo A quer virar à esquerda, o Veículo B vem à direita de A e segue em frente, e o Veículo C vem à direita de B e segue em frente. Qual é a ordem de passagem?",
+      "en": "At an unsignaled crossroads: Car A turns left, Car B is on A's right going straight, and Car C is on B's right going straight. In what order do they cross?",
+      "ch": "Mimovha minharhu: A u jikela ximatsi, B u le xinene ka A, C u le xinene ka B. I mani a rhangaka ku famba?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "CRUZAMENTO_3_VEICULOS",
+      "alt": {
+        "pt": "Cruzamento com 3 veículos A, B e C",
+        "en": "Intersection with 3 vehicles A, B, and C",
+        "ch": "Mahlanganelo ya mimovha minharhu A, B na C"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "1.º Veículo C (tem a direita desimpedida), 2.º Veículo B, e por último o Veículo A.",
+        "1.º Veículo A (por ter chegado primeiro), 2.º Veículo B, e 3.º Veículo C.",
+        "Passam todos ao mesmo tempo com recurso a sinais sonoros.",
+        "1.º Veículo B, 2.º Veículo A, e por último o Veículo C."
+      ],
+      "en": [
+        "1st Car C (has its right clear), 2nd Car B, and last Car A.",
+        "1st Car A (arrived first), 2nd Car B, and 3rd Car C.",
+        "All pass at the same time using their horns.",
+        "1st Car B, 2nd Car A, and last Car C."
+      ],
+      "ch": [
+        "1º Movha C (xinene xa wona xi basile), 2º Movha B, ku hetelela Movha A.",
+        "1º Movha A, 2º Movha B, 3º Movha C.",
+        "Va famba hinkwavo xikan’we.",
+        "1º Movha B, 2º Movha A, 3º Movha C."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Aplica-se a regra da direita: O veículo A tem o B à sua direita. O veículo B tem o C à sua direita. O veículo C tem a sua direita completamente desimpedida! Logo, o C passa em 1.º lugar. De seguida, fica livre a direita do B, que passa em 2.º lugar. Por fim, passa o A.",
+      "en": "Applying the right-hand rule: Car A has B on its right. Car B has C on its right. Car C has nothing on its right. Thus C proceeds first, unblocking B, and finally A crosses.",
+      "ch": "Ku landza nawu wa xinene: C a nga na munhu tlhelo ra xinene, hi yena a rhangaka. Kutani ku landzela B, ku hetelela A."
+    }
+  },
+  {
+    "id": "prio-cruz-011",
+    "grupo": "prio-cruz-stop-vs-cedencia",
+    "variacao": 1,
+    "subtema": "cruzamentos",
+    "dificuldade": 2,
+    "tags": ["stop", "cedencia", "cruzamento"],
+    "pergunta": {
+      "pt": "Qual é a diferença jurídica fundamental entre o sinal B1 (Cedência de Passagem) e o sinal B2 (STOP)?",
+      "en": "What is the key legal difference between sign B1 (Yield / Give Way) and sign B2 (STOP)?",
+      "ch": "I yini ku hambana ka xikombiso xa Cedência ni STOP?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "B2_STOP",
+      "alt": {
+        "pt": "Sinais B1 Cedência de Passagem e B2 STOP",
+        "en": "B1 Yield and B2 STOP signs",
+        "ch": "Swikombiso swa Cedência ni STOP"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O sinal de STOP exige paragem obrigatória absoluta mesmo sem trânsito à vista; a Cedência só obriga a parar se aproximar algum veículo com prioridade.",
+        "O sinal de Cedência é apenas uma recomendação que pode ser ignorada à noite.",
+        "O STOP só vigora para veículos pesados de carga, enquanto a Cedência é para ligeiros.",
+        "Ambos os sinais têm exatamente o mesmo efeito prático, sendo facultativo imobilizar o carro."
+      ],
+      "en": [
+        "STOP requires a complete, mandatory stop even if no traffic is visible; Yield only requires stopping if priority traffic is approaching.",
+        "Yield is merely an optional suggestion that can be skipped at night.",
+        "STOP applies only to heavy freight trucks, while Yield applies to cars.",
+        "Both signs have the exact same practical effect and stopping is always optional."
+      ],
+      "ch": [
+        "STOP yi lava ku yima hi ku helela hambi ku hava munhu; Cedência u yima ntsena loko ku ri ni movha lowu taka.",
+        "Cedência i ku tsundzuxiwa ntsena.",
+        "STOP i ya tikamioni ntsena.",
+        "Swikombiso leswi swa fana a swi bohi ku yima."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "No sinal B1 (Cedência de Passagem / triângulo invertido), o condutor deve abrandar e só para se vierem veículos aos quais deva ceder a passagem. No sinal B2 (STOP), a imobilização total antes da linha de paragem é SEMPRE OBRIGATÓRIA.",
+      "en": "Sign B1 requires slowing and stopping only if priority traffic is present. Sign B2 (STOP) strictly requires a total stop every single time.",
+      "ch": "Ka Cedência u hunguta rivengo u yima ntsena loko ku ri ni movha. Ka STOP u boheka ku yima movha wu rhula hambi ku hava munhu!"
+    }
+  }
+]

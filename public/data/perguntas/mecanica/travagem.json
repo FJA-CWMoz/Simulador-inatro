@@ -1,0 +1,394 @@
+[
+  {
+    "id": "mec-trv-001",
+    "grupo": "mec-trv-travao-motor",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 1,
+    "tags": ["travao-motor", "descidas", "sobreaquecimento"],
+    "pergunta": {
+      "pt": "Numa descida longa e acentuada de montanha, porque deve o condutor engatar uma mudança baixa e utilizar o 'travão-motor' em vez de usar exclusivamente o pedal do travão?",
+      "en": "On long, steep downhill mountain descents, why should a driver engage a lower gear and use 'engine braking' instead of relying solely on the foot brake?",
+      "ch": "Loko u xika le ntshaveni yo leha, ha yini u fanele ku tirhisa 'travão-motor' (marcha ya le hansi) ematshan’wini yo tshamela ku ba pedale ya travão?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_ENGINE_BRAKE",
+      "alt": {
+        "pt": "Utilização do travão-motor em declive acentuado",
+        "en": "Engine braking technique on steep downhill gradient",
+        "ch": "Ku tirhisa injini ku faya rivengo eku xikeni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Para evitar o sobreaquecimento excessivo dos travões ('fading'), que provocaria a perda total de eficácia de travagem e falha catastrófica dos discos e pastilhas.",
+        "Para que o combustível volte para o depósito por gravidade.",
+        "Para desgastar mais depressa os pneus traseiros.",
+        "Apenas para fazer mais barulho com o tubo de escape."
+      ],
+      "en": [
+        "To prevent brake overheating ('brake fade'), which leads to total loss of braking ability and catastrophic failure of discs and pads.",
+        "To allow fuel to flow backwards into the tank by gravity.",
+        "To wear down rear tyres faster.",
+        "Purely to generate louder exhaust sounds."
+      ],
+      "ch": [
+        "Ku sivela ku hisa ngopfu ka switirho swa mavhilwa (fading), leswi nga endlaka mavhilwa ma hluleka ku khoma kutani movha wu tsandzeka ku yima wu wa.",
+        "Leswaku mafurha ma tlhelela tankini.",
+        "Ku onha mavhilwa ya ndzhaku.",
+        "Ku endla huwa ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O uso continuado dos travões em descidas aquece discos e pastilhas a centenas de graus, fervendo o fluido de travão e anulando o poder de paragem. Engatar 2.ª ou 3.ª mudança faz com que a compressão do motor retenha o carro em segurança.",
+      "en": "Continuous foot braking down slopes superheats brake fluid and pads, causing total brake fade. Downshifting to 2nd or 3rd gear harnesses engine compression to retain speed.",
+      "ch": "Loko u tshamela ku ba travão eku xikeni, switirho swa travão swa hisa ngopfu swi faya, movha wu tsandzeka ku yima. Marcha ya le hansi yi khoma movha hi ntumbuluko wa injini."
+    }
+  },
+  {
+    "id": "mec-trv-002",
+    "grupo": "mec-trv-abs-funcionamento",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 1,
+    "tags": ["abs", "bloqueio", "direcao", "pedal"],
+    "pergunta": {
+      "pt": "Qual é a principal função do sistema ABS (Anti-lock Braking System) numa travagem de emergência a fundo?",
+      "en": "What is the primary function of the ABS (Anti-lock Braking System) during hard emergency braking?",
+      "ch": "I yini ntirho lowukulu wa ABS loko u ba mavhilwa hi matimba hinkwawo (travagem de emergência)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_ABS_SYSTEM",
+      "alt": {
+        "pt": "Sistema ABS impedindo o bloqueio das rodas e mantendo o controlo direcional",
+        "en": "ABS preventing wheel lockup and maintaining steering control",
+        "ch": "Sistemi ya ABS leyi sivelaka mavhilwa ku pfaleka"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Evitar que as rodas fiquem bloqueadas (travadas sem rodar), permitindo ao condutor continuar a controlar a direção e desviar de obstáculos durante a travagem.",
+        "Desligar automaticamente o motor e abrir os airbags antes do embate.",
+        "Acelerar o veículo para saltar por cima do obstáculo.",
+        "Injetar água pressurizada debaixo dos pneus."
+      ],
+      "en": [
+        "Prevent wheels from locking up (skidding), allowing the driver to steer around obstacles while maintaining maximum braking force.",
+        "Automatically cut engine power and trigger airbags before impact.",
+        "Accelerate the car to hop over the obstacle.",
+        "Spray pressurized water under the tyres."
+      ],
+      "ch": [
+        "Ku sivela mavhilwa ku pfaleka (ku khoma ma nga rhendzeleki), leswaku muchayeri a kota ku fambisa xiteringi a pambuka khombo na a ri karhi a ba travão.",
+        "Ku tima injini ni ku pfula ti-airbag.",
+        "Ku tlulisa movha henhla ka khombo.",
+        "Ku chela mati ehansi ka mavhilwa."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Quando as rodas bloqueiam e arrastam, o condutor perde totalmente o controlo do volante. O ABS modula eletronicamente a pressão centenas de vezes por segundo, impedindo o bloqueio e mantendo a capacidade de manobra.",
+      "en": "Locked wheels slide without directional grip. ABS pulses brake pressure rapidly, preventing skidding and preserving steering steerability through emergency stops.",
+      "ch": "Loko mavhilwa ma pfaleka ma gewuka, xiteringi a xa ha tirhi. ABS yi pfula ni ku pfala mavhilwa hi xihatla, leswaku u kota ku pambula movha u ponisa vutomi."
+    }
+  },
+  {
+    "id": "mec-trv-003",
+    "grupo": "mec-trv-pedal-esponjoso",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 2,
+    "tags": ["pedal-esponjoso", "fluido-travao", "ar-circuito"],
+    "pergunta": {
+      "pt": "Se ao pressionar o pedal do travão de serviço sentir o pedal 'esponjoso', elástico e a afundar quase até ao fundo do chão, qual é a anomalia mais provável?",
+      "en": "If upon pressing the service brake pedal it feels 'spongy', soft, and sinks almost to the floorboard, what is the most likely fault?",
+      "ch": "Loko u kandziya pedale ya travão u twa yi olova ngopfu ku fana ni xiponji yi ya fika hansi ka movha, hi xihi xiphiqo?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_SPONGY_PEDAL",
+      "alt": {
+        "pt": "Pedal de travão esponjoso afundando até ao limite",
+        "en": "Spongy brake pedal sinking dangerously to floorboard",
+        "ch": "Pedale ya travão leyi olovaka ngopfu yi nghenaka hansi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Presença de ar nas tubagens do circuito hidráulico de travagem ou fuga de óleo/líquido de travões.",
+        "Depósito de combustível demasiado cheio.",
+        "Pressão excessiva de ar dentro do pneu sobresselente.",
+        "Velas de ignição sujas de carvão."
+      ],
+      "en": [
+        "Presence of air bubbles trapped in hydraulic brake lines or an active brake fluid leak.",
+        "Fuel tank excessively filled to the brim.",
+        "Overinflated spare tyre inside the boot.",
+        "Spark plugs fouled by carbon deposits."
+      ],
+      "ch": [
+        "Ku va kona ka moya endzeni ka maphaphasi ya mafurha ya travão kumbe ku halakeka ka mafurha ya mavhilwa.",
+        "Tanki ya petirolo yi tele ngopfu.",
+        "Moya wo tala ka vhilwa ra le ndzhaku.",
+        "Tivela ta injini ti thyekile."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O fluido de travões é incompressível, mas o ar é compressível. Se houver bolhas de ar no circuito hidráulico ou vazamento, o pedal afunda sem gerar pressão nos êmbolos, exigindo purga mecânica urgente.",
+      "en": "Brake fluid cannot be compressed, whereas air compresses easily. Air bubbles in lines act as cushions, causing the pedal to plunge dangerously without squeezing the pads.",
+      "ch": "Mafurha ya travão a ma pfotloseki kambe moya wa pfotloseka. Loko ku nghena moya ka maphaphasi, pedale yi nghena hansi movha wu nga yimi. Swi lava ku sangarhiwa hi kan’we."
+    }
+  },
+  {
+    "id": "mec-trv-004",
+    "grupo": "mec-trv-puxar-lado",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 2,
+    "tags": ["desvio-travao", "desgaste-desigual", "alinhamento"],
+    "pergunta": {
+      "pt": "Quando o condutor aciona o travão de serviço e o veículo puxa repentinamente com força para o lado esquerdo da via, isso revela:",
+      "en": "When a driver steps on the brake and the vehicle pulls abruptly toward the left side of the road, this indicates:",
+      "ch": "Loko u ba travão movha wu vevukela u khwevela hi matimba eka tlhelo ra ximatsi, swi komba yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_PULL_SIDE",
+      "alt": {
+        "pt": "Desvio de trajetória durante a travagem devido a eficácia desigual",
+        "en": "Trajectory divergence under braking due to asymmetric brake force",
+        "ch": "Movha wu jikela tlhelo loko u ba travão"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Desequilíbrio de travagem: os travões do lado esquerdo estão a atuar com mais força do que os do lado direito (pastilhas gastas, fuga de óleo no lado direito ou pinça presa).",
+        "Que a via tem obrigatoriedade de virar à esquerda.",
+        "Que a bateria do carro está descarregada no polo negativo.",
+        "Comportamento perfeitamente normal e seguro em piso seco."
+      ],
+      "en": [
+        "Brake imbalance: left side brakes are grabbing with significantly more torque than the right side (uneven pad wear, leak on right, or seized caliper).",
+        "That the roadway mandates a left turn.",
+        "That the negative post of the car battery is flat.",
+        "Completely normal and safe behavior on dry pavement."
+      ],
+      "ch": [
+        "Ku nga ringani ka mavhilwa: mavhilwa ya tlhelo ra ximatsi ma khoma hi matimba ku tlula ya xinene (switirho swa mavhilwa swi hlakalile kumbe mafurha ma humile ka tlhelo rin’we).",
+        "Gondzo ri lava ku jika ximatsi.",
+        "Bateria yi herile gezi.",
+        "I swa ntumbuluko swi hlayisekile."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Uma travagem segura deve manter o veículo em linha reta. Se puxa para um lado, há desequilíbrio na força de atrito das rodas esquerdas versus direitas, criando perigo de despiste e capotamento.",
+      "en": "Even braking holds a straight line. If pulling sideways occurs, brake forces differ between sides, posing severe spin-out and rollover danger.",
+      "ch": "Mavhilwa ma fanele ku yimisa movha wu ololoka. Loko wu khwevela tlhelo, ku na xiphiqo xikulu ka mavhilwa ya xinene kumbe ximatsi lexi nga vangaka ku hambukela nhoveni."
+    }
+  },
+  {
+    "id": "mec-trv-005",
+    "grupo": "mec-trv-falha-total",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 2,
+    "tags": ["falha-travoes", "emergencia", "procedimento"],
+    "pergunta": {
+      "pt": "Se os travões de serviço falharem repentina e totalmente em andamento, que sequência de ações de emergência deve o condutor executar?",
+      "en": "If the service brakes fail suddenly and entirely while moving, which emergency action sequence should the driver execute?",
+      "ch": "Loko mavhilwa ya travão ya tsandzeka ku khoma hi xitshuketa movha wu ri karhi wu famba, hi yihi ndlela yo ponisa vutomi?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_BRAKE_FAILURE",
+      "alt": {
+        "pt": "Procedimento de emergência em caso de falha de travões",
+        "en": "Emergency procedure protocol for sudden total brake failure",
+        "ch": "Ndlela yo yimisa movha loko travão yi file"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Bombear o pedal repetidamente; reduzir progressivamente as mudanças de velocidade (usar travão-motor); puxar o travão de mão com suavidade e progressão mantendo o botão premido; e procurar uma berma ou escapatória segura.",
+        "Saltar do veículo em andamento com o carro a 100 km/h.",
+        "Tirar a chave da ignição para trancar o volante imediatamente.",
+        "Cobrir os olhos com as mãos e gritar."
+      ],
+      "en": [
+        "Pump brake pedal rapidly; downshift gears progressively (engine brake); gently and progressively apply the handbrake keeping release button pressed; steer toward safe shoulder or uphill escape lane.",
+        "Jump out of the moving car at 100 km/h.",
+        "Yank ignition key out to instantly lock the steering column.",
+        "Cover eyes with hands and scream."
+      ],
+      "ch": [
+        "Kandziya pedale kanyingi hi xihatla; hunguta timarcha hi ku landzelelana (4ª, 3ª, 2ª); koka travão-de-mão katsanana hi vukheta u khomile botão; u lavisisa tlhelo leri nga ni byanyi kumbe xilungwini xo yima.",
+        "Tlula ka movha wu ri karhi wu tsutsuma hi 100 km/h.",
+        "Humesa xilotlelo xa movha leswaku xiteringi xi pfaleka.",
+        "Pfala mahlo hi mavoko u rila."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Nunca desligue o motor nem tire a chave pois o volante tranca e perde a direção. Bombeia-se o pedal (pode recuperar pressão residual), reduz-se de caixa e usa-se o travão de mão suavemente sem puxar de golpe para não rodopiar.",
+      "en": "Never remove key or kill ignition, which locks the steering wheel. Pump pedal, downshift swiftly through gears to harness engine braking, and gently apply handbrake with button held down.",
+      "ch": "U nga tshuki u humesa xilotlelo hikuva xiteringi xi ta pfaleka movha wu luva gondzo. Hunguta timarcha, koka travão-de-mão hi vukheta u pambula movha ebyanyini."
+    }
+  },
+  {
+    "id": "mec-trv-006",
+    "grupo": "mec-trv-luz-aviso-travoes",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 1,
+    "tags": ["luz-travoes", "oleo-travoes", "pastilhas", "painel"],
+    "pergunta": {
+      "pt": "Se a luz vermelha de travões (círculo vermelho com ponto de exclamação entre parênteses) acender no painel enquanto conduzes com o travão de mão destravado, o que indica?",
+      "en": "If the red brake warning light (exclamation mark in circle between brackets) glows while driving with handbrake off, what does it indicate?",
+      "ch": "Loko mboni yo tshwuka ya travão leyi nga ni (!) yi tshama yi tshivile ka painel u chayeraka, swi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_BRAKE_LAMP",
+      "alt": {
+        "pt": "Luz avisadora de travões no painel",
+        "en": "Brake system red dashboard warning light",
+        "ch": "Mboni ya travão ka painel"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Nível perigosamente baixo do fluido de travões (possível fuga no circuito) ou desgaste excessivo das pastilhas de travão.",
+        "Que o travão de estacionamento está a funcionar perfeitamente em andamento.",
+        "Que as lâmpadas traseiras de marcha-atrás estão desligadas.",
+        "Que a velocidade do automóvel é demasiado reduzida para o trânsito."
+      ],
+      "en": [
+        "Dangerously low brake fluid level (possible circuit leak) or severe brake pad wear.",
+        "That the handbrake is functioning normally while moving.",
+        "That the reverse gear lights are unlit.",
+        "That the car speed is too slow for the road."
+      ],
+      "ch": [
+        "Mafurha ya travão (fluido) ma herile swinene kumbe ku na ndhawu leyi pfutaka mafurha ya travão.",
+        "Travão ya voko yi le ku tirheni.",
+        "Timboni ta marcha-atrás ti timiwile.",
+        "Rivengo ri tsanile ngopfu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A luz de travões vermelha com o travão de mão descido alerta para perda crítica de líquido de travão ou pastilhas no fim de vida. Continuar a conduzir pode resultar na perda total da capacidade de travar o veículo.",
+      "en": "A persistent red brake light indicates critical fluid loss or worn-out pads. Driving further risks immediate total brake failure.",
+      "ch": "Loko mboni leyi yi tshiva, u fanele ku yima u kambela mafurha ya travão. Loko ma herile, movha a wu nge yimi, wu ta vanga mhangu!"
+    }
+  },
+  {
+    "id": "mec-trv-007",
+    "grupo": "mec-trv-pedal-esponjoso",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 2,
+    "tags": ["pedal-esponjoso", "ar-circuito", "oleo-travoes"],
+    "pergunta": {
+      "pt": "Se ao pressionar o pedal de travão o condutor notar que ele está mole ('esponjoso') e desce quase até ao chão da viatura:",
+      "en": "If when pressing the brake pedal, the driver feels it is spongy and sinks nearly to the floorboards:",
+      "ch": "Loko u kandziya pedale ra travão u twa ri olova ngopfu ri ya fika ehansi ka movha:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_BRAKE_PEDAL_SPONGY",
+      "alt": {
+        "pt": "Pedal de travão esponjoso afundando",
+        "en": "Soft spongy brake pedal sinking",
+        "ch": "Pedale ra travão ri olova"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Existe presença de ar no circuito hidráulico de travagem ou fuga de fluido, exigindo reparação mecânica imediata.",
+        "O sistema de travagem está mais eficiente e confortável do que o habitual.",
+        "O condutor deve puxar o pedal para cima com o pé enquanto acelera.",
+        "É normal acontecer sempre que a viatura circula com passageiros pesados."
+      ],
+      "en": [
+        "Air has entered the hydraulic brake circuit or fluid is leaking, requiring immediate mechanical repair.",
+        "The brake system is operating more smoothly than normal.",
+        "The driver should lift the pedal up while stepping on the gas.",
+        "It is standard whenever carrying heavy passengers."
+      ],
+      "ch": [
+        "Ku nghene moya ka circuit ya mafurha ya travão kumbe ku na ndhawu leyi pfutaka mafurha.",
+        "Travão yi le ku tirheni kahle ku tlula masiku hinkwawo.",
+        "Koka pedale ri ya henhla hi nenge.",
+        "Swi tolovelekile loko movha wu tele vanhu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O fluido de travões é incompressível. Se entrar ar no circuito hidráulico, o ar é comprimido pelo pedal, tornando-o 'esponjoso' e ineficaz. O circuito tem de ser sangrado e purgado numa oficina.",
+      "en": "Brake fluid cannot be compressed. Air in the hydraulic lines gets compressed by the pedal, making it feel mushy and dangerously unresponsive.",
+      "ch": "Moya wu nga ngheni ka layini ya travão wu vanga ku olova ka pedale. U fanele ku humesa moya wolowo ka garaji wu nga si vanga mhangu."
+    }
+  },
+  {
+    "id": "mec-trv-008",
+    "grupo": "mec-trv-travao-estacionamento",
+    "variacao": 1,
+    "subtema": "travagem",
+    "dificuldade": 1,
+    "tags": ["travao-estacionamento", "travao-mao", "rodas-traseiras"],
+    "pergunta": {
+      "pt": "O travão de estacionamento (comumente chamado travão de mão) atua geralmente sobre:",
+      "en": "The parking brake (commonly called handbrake) generally acts upon:",
+      "ch": "Travão ya voko (travão de mão) yi khoma mavhilwa wahi ya movha?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_HANDBRAKE",
+      "alt": {
+        "pt": "Alavanca do travão de mão e rodas traseiras",
+        "en": "Handbrake lever and rear wheels mechanism",
+        "ch": "Travão ya voko ni mavhilwa ya ndzhaku"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "As rodas do eixo traseiro do veículo através de um comando mecânico independente (cabos de aço).",
+        "Todas as quatro rodas em simultâneo através da pressão do pedal de embraiagem.",
+        "Apenas sobre a roda dianteira esquerda da viatura.",
+        "Exclusivamente sobre a correia do alternador."
+      ],
+      "en": [
+        "The rear axle wheels via an independent mechanical linkage (steel cables).",
+        "All four wheels simultaneously via clutch pedal pressure.",
+        "Only the front-left wheel.",
+        "Exclusively on the alternator belt."
+      ],
+      "ch": [
+        "Mavhilwa ya le ndzhaku ntsena hi tintambhu ta nsimbi leti tiyeke.",
+        "Mavhilwa hinkwawo ya 4 hi embraiagem.",
+        "Vhilwa ra le phambheni ra ximatsi ntsena.",
+        "Eka bhandi ra alternador."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O travão de estacionamento é um sistema mecânico que atua nas rodas traseiras do veículo para o manter imobilizado quando parqueado ou estacionado em declives.",
+      "en": "The handbrake mechanically locks the vehicle's rear axle wheels to immobilize it when stationary or parked on inclines.",
+      "ch": "Travão ya voko yi khoma mavhilwa ya le ndzhaku ku sivela movha ku famba loko wu pakile ka gome kumbe ndlela leyi ololokeke."
+    }
+  }
+]

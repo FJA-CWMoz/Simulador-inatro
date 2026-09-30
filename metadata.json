@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Exame Teórico INATRO",
+  "description": "Simulador de treino e exame teórico de condução para Moçambique (INATRO) em Português, Inglês e Changana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

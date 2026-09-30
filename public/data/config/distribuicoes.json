@@ -1,0 +1,31 @@
+{
+  "inatro-oficial-40": {
+    "id": "inatro-oficial-40",
+    "titulo": {
+      "pt": "Distribuição Oficial INATRO (40 Perguntas)",
+      "en": "Official INATRO Distribution (40 Questions)",
+      "ch": "Kuava ka Mahanyelo ya INATRO (Swivutiso swa 40)"
+    },
+    "total": 40,
+    "distribuicao": {
+      "sinalizacao/perigo": 3,
+      "sinalizacao/proibicao": 3,
+      "sinalizacao/obrigacao": 3,
+      "sinalizacao/informacao": 2,
+      "sinalizacao/marcas-rodoviarias": 2,
+      "prioridade/cruzamentos": 3,
+      "prioridade/rotundas": 3,
+      "prioridade/passadeiras": 2,
+      "velocidade/limites": 3,
+      "velocidade/distancias": 3,
+      "seguranca/conduta": 2,
+      "seguranca/equipamento": 2,
+      "seguranca/condicoes": 2,
+      "infracoes/leis": 2,
+      "infracoes/penalidades": 2,
+      "mecanica/motor": 1,
+      "mecanica/travagem": 1,
+      "mecanica/pneus": 1
+    }
+  }
+}

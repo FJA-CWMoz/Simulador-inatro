@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": "pt",
+    "nome": "Português",
+    "bandeira": "🇲🇿",
+    "nativo": "Português"
+  },
+  {
+    "codigo": "en",
+    "nome": "English",
+    "bandeira": "🇬🇧",
+    "nativo": "English"
+  },
+  {
+    "codigo": "ch",
+    "nome": "Changana",
+    "bandeira": "🇲🇿",
+    "nativo": "Xichangana"
+  }
+]

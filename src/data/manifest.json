@@ -1,0 +1,252 @@
+{
+  "versao": "1.0.0",
+  "dataAtualizacao": "2025-01-01",
+  "categorias": [
+    {
+      "id": "sinalizacao",
+      "nome": {
+        "pt": "Sinalização Rodoviária",
+        "en": "Road Signs & Signals",
+        "ch": "Swikombiso swa le Magondzweni"
+      },
+      "icone": "fa-solid fa-traffic-light",
+      "subtemas": [
+        {
+          "id": "perigo",
+          "ficheiro": "perguntas/sinalizacao/perigo.json",
+          "nome": {
+            "pt": "Sinais de Perigo",
+            "en": "Danger / Warning Signs",
+            "ch": "Swikombiso swa Khombo"
+          },
+          "icone": "fa-solid fa-triangle-exclamation"
+        },
+        {
+          "id": "proibicao",
+          "ficheiro": "perguntas/sinalizacao/proibicao.json",
+          "nome": {
+            "pt": "Sinais de Proibição",
+            "en": "Prohibitory Signs",
+            "ch": "Swikombiso swo Tsirika"
+          },
+          "icone": "fa-solid fa-ban"
+        },
+        {
+          "id": "obrigacao",
+          "ficheiro": "perguntas/sinalizacao/obrigacao.json",
+          "nome": {
+            "pt": "Sinais de Obrigação",
+            "en": "Mandatory Signs",
+            "ch": "Swikombiso swo Boheka"
+          },
+          "icone": "fa-solid fa-circle-arrow-right"
+        },
+        {
+          "id": "informacao",
+          "ficheiro": "perguntas/sinalizacao/informacao.json",
+          "nome": {
+            "pt": "Sinais de Informação e Indicação",
+            "en": "Information Signs",
+            "ch": "Swikombiso swo Byela Mahungu"
+          },
+          "icone": "fa-solid fa-circle-info"
+        },
+        {
+          "id": "marcas-rodoviarias",
+          "ficheiro": "perguntas/sinalizacao/marcas-rodoviarias.json",
+          "nome": {
+            "pt": "Marcas Rodoviárias no Pavimento",
+            "en": "Road Markings",
+            "ch": "Mfungho ya le Hansi ka Gondzo"
+          },
+          "icone": "fa-solid fa-road"
+        }
+      ]
+    },
+    {
+      "id": "prioridade",
+      "nome": {
+        "pt": "Cedência de Passagem e Prioridade",
+        "en": "Right of Way & Priority",
+        "ch": "Ku Nyika Ndlela ni Mahanyelo"
+      },
+      "icone": "fa-solid fa-arrows-split-up-and-left",
+      "subtemas": [
+        {
+          "id": "cruzamentos",
+          "ficheiro": "perguntas/prioridade/cruzamentos.json",
+          "nome": {
+            "pt": "Cruzamentos e Entroncamentos",
+            "en": "Intersections & Junctions",
+            "ch": "Mahlanganelo ya Magondzo"
+          },
+          "icone": "fa-solid fa-code-fork"
+        },
+        {
+          "id": "rotundas",
+          "ficheiro": "perguntas/prioridade/rotundas.json",
+          "nome": {
+            "pt": "Circulação em Rotundas",
+            "en": "Roundabouts",
+            "ch": "Mawurukelo (Rotundas)"
+          },
+          "icone": "fa-solid fa-arrows-spin"
+        },
+        {
+          "id": "passadeiras",
+          "ficheiro": "perguntas/prioridade/passadeiras.json",
+          "nome": {
+            "pt": "Passadeiras e Peões",
+            "en": "Pedestrian Crossings",
+            "ch": "Ndlela ya Vafambi va Milenge"
+          },
+          "icone": "fa-solid fa-person-walking"
+        }
+      ]
+    },
+    {
+      "id": "velocidade",
+      "nome": {
+        "pt": "Velocidade e Distâncias",
+        "en": "Speed & Distances",
+        "ch": "Rivengo ni Mpfhuka"
+      },
+      "icone": "fa-solid fa-gauge-high",
+      "subtemas": [
+        {
+          "id": "limites",
+          "ficheiro": "perguntas/velocidade/limites.json",
+          "nome": {
+            "pt": "Limites Gerais de Velocidade",
+            "en": "Speed Limits",
+            "ch": "Mimbimi ya Rivengo"
+          },
+          "icone": "fa-solid fa-tachograph-digital"
+        },
+        {
+          "id": "distancias",
+          "ficheiro": "perguntas/velocidade/distancias.json",
+          "nome": {
+            "pt": "Distâncias de Segurança e Travagem",
+            "en": "Safety & Braking Distances",
+            "ch": "Mpfhuka wa Vuhlayiseki"
+          },
+          "icone": "fa-solid fa-ruler-horizontal"
+        }
+      ]
+    },
+    {
+      "id": "seguranca",
+      "nome": {
+        "pt": "Segurança Rodoviária e Conduta",
+        "en": "Road Safety & Conduct",
+        "ch": "Vuhlayiseki ni Mahanyelo ya le Gondzweni"
+      },
+      "icone": "fa-solid fa-shield-halved",
+      "subtemas": [
+        {
+          "id": "conduta",
+          "ficheiro": "perguntas/seguranca/conduta.json",
+          "nome": {
+            "pt": "Conduta do Condutor e Passageiros",
+            "en": "Driver & Passenger Conduct",
+            "ch": "Mahanyelo ya Muchayeri ni Vapandzi"
+          },
+          "icone": "fa-solid fa-user-shield"
+        },
+        {
+          "id": "equipamento",
+          "ficheiro": "perguntas/seguranca/equipamento.json",
+          "nome": {
+            "pt": "Equipamentos Obrigatórios de Segurança",
+            "en": "Mandatory Safety Equipment",
+            "ch": "Switirho swo Boheka swa Vuhlayiseki"
+          },
+          "icone": "fa-solid fa-triangle-exclamation"
+        },
+        {
+          "id": "condicoes",
+          "ficheiro": "perguntas/seguranca/condicoes.json",
+          "nome": {
+            "pt": "Condições Meteorológicas e Ambientais",
+            "en": "Adverse Weather & Conditions",
+            "ch": "Swiyimo swa Maxelo (Mpfula, Munhu)"
+          },
+          "icone": "fa-solid fa-cloud-showers-heavy"
+        }
+      ]
+    },
+    {
+      "id": "infracoes",
+      "nome": {
+        "pt": "Infracções, Álcool e Penalidades",
+        "en": "Violations, Alcohol & Penalties",
+        "ch": "Swihoxo, Byala ni Tihlawulelo"
+      },
+      "icone": "fa-solid fa-gavel",
+      "subtemas": [
+        {
+          "id": "leis",
+          "ficheiro": "perguntas/infracoes/leis.json",
+          "nome": {
+            "pt": "Regras Gerais e Contra-ordenações",
+            "en": "Rules & Road Offenses",
+            "ch": "Milawu ya le Gondzweni"
+          },
+          "icone": "fa-solid fa-scale-balanced"
+        },
+        {
+          "id": "penalidades",
+          "ficheiro": "perguntas/infracoes/penalidades.json",
+          "nome": {
+            "pt": "Multas, Cassação e Álcool",
+            "en": "Fines, Revocation & Alcohol Rules",
+            "ch": "Tihlawulelo ni Ku Humesa Carteira"
+          },
+          "icone": "fa-solid fa-wine-bottle"
+        }
+      ]
+    },
+    {
+      "id": "mecanica",
+      "nome": {
+        "pt": "Mecânica Elementar do Veículo",
+        "en": "Basic Vehicle Mechanics",
+        "ch": "Swilo swa Movha (Mecanica)"
+      },
+      "icone": "fa-solid fa-wrench",
+      "subtemas": [
+        {
+          "id": "motor",
+          "ficheiro": "perguntas/mecanica/motor.json",
+          "nome": {
+            "pt": "Motor e Fluidos",
+            "en": "Engine & Fluids",
+            "ch": "Njini ni Mafurha"
+          },
+          "icone": "fa-solid fa-oil-can"
+        },
+        {
+          "id": "travagem",
+          "ficheiro": "perguntas/mecanica/travagem.json",
+          "nome": {
+            "pt": "Sistema de Travagem",
+            "en": "Braking System",
+            "ch": "Switirho swa Tirava (Travões)"
+          },
+          "icone": "fa-solid fa-stopwatch"
+        },
+        {
+          "id": "pneus",
+          "ficheiro": "perguntas/mecanica/pneus.json",
+          "nome": {
+            "pt": "Pneus e Rodagem",
+            "en": "Tyres & Wheels",
+            "ch": "Mavhilwa (Pneus)"
+          },
+          "icone": "fa-solid fa-circle-notch"
+        }
+      ]
+    }
+  ]
+}

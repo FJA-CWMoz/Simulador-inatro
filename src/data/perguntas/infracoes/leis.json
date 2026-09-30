@@ -1,0 +1,394 @@
+[
+  {
+    "id": "inf-lei-001",
+    "grupo": "inf-lei-documentos-obrigatorios",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 1,
+    "tags": ["documentos", "fiscalizacao", "carta-conducao"],
+    "pergunta": {
+      "pt": "Quando interpelado por um agente da autoridade policial em fiscalização de trânsito em Moçambique, que documentos do condutor e da viatura devem ser apresentados obrigatoriamente?",
+      "en": "When pulled over by traffic police officers during road inspections in Mozambique, which driver and vehicle documents must be mandatorily presented?",
+      "ch": "Loko u yimisiwa hi phorisa ya trânsito eMoçambique, hi wapi mapapila ya muchayeri ni movha lama faneleke ku kombisiwa hi ku boheka?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "INFRAC_DOCUMENTS",
+      "alt": {
+        "pt": "Conjunto de documentos obrigatórios: Carta, Livreete, Seguro e Inspeção",
+        "en": "Mandatory document set: Driving license, vehicle registration, insurance, and roadworthiness inspection",
+        "ch": "Mapapila lama bohekaka ya movha ni muchayeri"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Carta de Condução válida, Livrete ou Título de Registo de Propriedade do veículo, Certificado de Inspeção Periódica Obrigatória e Certificado do Seguro de Responsabilidade Civil Obrigatório.",
+        "Apenas o bilhete de identidade pessoal do condutor.",
+        "Fotocópias simples não autenticadas de qualquer documento antigo.",
+        "Recibo de compra do combustível e cartão de compras de supermercado."
+      ],
+      "en": [
+        "Valid Driver's License, Vehicle Registration Book / Title, Mandatory Periodic Roadworthiness Inspection Certificate, and Mandatory Third-Party Liability Insurance Certificate.",
+        "Only the personal national identity card of the driver.",
+        "Simple unnotarized photocopies of any expired documents.",
+        "Fuel purchase receipt and supermarket store loyalty card."
+      ],
+      "ch": [
+        "Carteira ya ku chayela leyi tirhaka, Livrete kumbe Título da Viatura, Xitifiketi xa Inspeção ya movha, ni Inxuranse (Seguro) leyi bohekaka.",
+        "BI ntsena ra munhu.",
+        "Fotocópias leti nga tiyisisiwangiki ta khale.",
+        "Talão ra petirolo ni kadi ra mavhengele."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A lei exige o porte permanente de 4 documentos fundamentais: Carta de Condução, Documento do Veículo (livrete/título), Seguro Obrigatório válido e Inspeção Periódica em dia.",
+      "en": "Mozambican traffic law requires 4 core documents carried at all times: Driving License, Vehicle Title/Logbook, Valid Insurance, and Valid Roadworthiness Certificate.",
+      "ch": "Nawu wu lava mapapila ya mune ya nkoka: Carteira, Livrete ra movha, Seguro leyi nga helangiki ni Inspeção leyi tirhaka."
+    }
+  },
+  {
+    "id": "inf-lei-002",
+    "grupo": "inf-lei-classificacao-contraordenacoes",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 2,
+    "tags": ["classificacao", "leves", "graves", "muito-graves"],
+    "pergunta": {
+      "pt": "Como se classificam as contra-ordenações rodoviárias no Código da Estrada de Moçambique?",
+      "en": "How are road traffic infractions classified in the Mozambique Highway Code?",
+      "ch": "Swihoxo swa le gondzweni (contra-ordenações) swi avanyisiwa njhani hi ku ya hi nawu wa le Moçambique?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "INFRAC_LEVELS",
+      "alt": {
+        "pt": "Graus de contra-ordenações: Leves, Graves e Muito Graves",
+        "en": "Infraction severity degrees: Minor, Serious, and Very Serious",
+        "ch": "Mimpimo ya swihoxo: Litsongo, Lexikulu, Lexikulu swinene"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Leves, Graves e Muito Graves.",
+        "Simples, Criminosas e Internacionais.",
+        "Diurnas e Noturnas.",
+        "De primeira categoria e de segunda categoria apenas."
+      ],
+      "en": [
+        "Minor (Leves), Serious (Graves), and Very Serious (Muito Graves).",
+        "Simple, Criminal, and International.",
+        "Daytime and Nighttime.",
+        "First category and second category only."
+      ],
+      "ch": [
+        "Letsongo (Leves), Lexikulu (Graves) ni Lexikulu swinene (Muito Graves).",
+        "Swotshembeka, swa vugevenga ni swa matiko mambe.",
+        "Swa nhlikanhi ni swa vusiku.",
+        "Swa categoria yo sungula ni ya vumbirhi ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "As infrações ao trânsito dividem-se em contra-ordenações Leves, Graves e Muito Graves, acarretando sanções pecuniárias (multas) graduadas e, para as duas últimas, sanções acessórias de inibição de conduzir.",
+      "en": "Traffic infractions are tiered as Minor, Serious, and Very Serious. Serious and Very Serious offenses incur license suspensions in addition to monetary fines.",
+      "ch": "Swihoxo swi avanyisiwe hi swiyimo swinharhu: Switsongo, Swikulu ni Swikulu swinene. Loko u endla xihoxo lexikulu, u nga tekeriwa carteira ku tlhela u fayiwa multa."
+    }
+  },
+  {
+    "id": "inf-lei-003",
+    "grupo": "inf-lei-abandono-veiculo",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 2,
+    "tags": ["abandono", "reuniao", "estacionamento-indevido"],
+    "pergunta": {
+      "pt": "Considera-se abandono de veículo na via pública quando a viatura permanece ininterruptamente no mesmo local por período superior a:",
+      "en": "A vehicle is legally deemed abandoned on public roads when left stationary uninterruptedly at the same spot for longer than:",
+      "ch": "Movha wu tekiwa tanihi lowu tshikiweke (abandonado) egondzweni loko wu tshamile ndhawu yin’we ku tlula masiku mangani?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "INFRAC_ABANDONED",
+      "alt": {
+        "pt": "Veículo imobilizado por tempo excessivo na via pública",
+        "en": "Vehicle left stationary on public roadway for extended duration",
+        "ch": "Movha lowu tshikiweke egondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "30 dias consecutivos (ou 48 horas se apresentar evidentes sinais exteriores de degradação e impossibilidade de circulação).",
+        "2 horas em qualquer dia útil.",
+        "12 meses completos.",
+        "Apenas após 5 anos sem pagamento de imposto sobre veículos."
+      ],
+      "en": [
+        "30 consecutive days (or 48 hours if displaying evident exterior signs of dereliction and inability to move).",
+        "2 hours on any working weekday.",
+        "12 whole consecutive months.",
+        "Only after 5 years of non-payment of vehicle road tax."
+      ],
+      "ch": [
+        "30 wa masiku lama landzelelanaka (kumbe 48 wa tiawara loko wu onhake ngopfu wu nga ha kotiki ku famba).",
+        "2 wa tiawara hi masiku ya ntirho.",
+        "12 wa tinhweti hinkwato.",
+        "Ntsena endzhaku ka 5 wa malembe u nga hakeli imposto."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Veículos estacionados ininterruptamente por 30 dias na via pública ou 48 horas com sinais de ruína ou avaria grave são considerados abandonados, sendo rebocados e sujeitos a reversão a favor do Estado.",
+      "en": "Vehicles left idle for 30 consecutive days, or 48 hours when derelict, are declared legally abandoned, impounded, and subject to state auction.",
+      "ch": "Movha lowu tshamaka 30 wa masiku egondzweni kumbe 48 wa tiawara wu file wu bola wu tekiwa hi maphorisa wu kokeriwa Parque ya mfumo."
+    }
+  },
+  {
+    "id": "inf-lei-004",
+    "grupo": "inf-lei-sinalizacao-agente",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 1,
+    "tags": ["agente", "prioridade-sinais", "hierarquia"],
+    "pergunta": {
+      "pt": "Qual é a ordem correta de prevalência / hierarquia entre os diferentes tipos de sinalização rodoviária?",
+      "en": "What is the correct order of precedence / hierarchy among different road signage types?",
+      "ch": "Hi yihi ndlela leyi landzelelaka ya matimba exikarhi ka swikombiso swa le gondzweni?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "INFRAC_HIERARCHY",
+      "alt": {
+        "pt": "Hierarquia: 1.º Agente, 2.º Temporária/Obras, 3.º Semáforos, 4.º Sinais Verticais, 5.º Marcas, 6.º Regras Gerais",
+        "en": "Hierarchy: 1st Police Agent, 2nd Temporary signs, 3rd Lights, 4th Vertical signs, 5th Markings, 6th Rules",
+        "ch": "Hierarquia ya swikombiso swa le gondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "1.º Ordens dos Agentes da Autoridade; 2.º Sinalização Temporária; 3.º Sinalização Luminosa (Semáforos); 4.º Sinais Verticais; 5.º Marcas Rodoviárias; 6.º Regras Gerais do Código.",
+        "1.º Semáforos; 2.º Regras Gerais; 3.º Agente da Polícia; 4.º Sinais Verticais.",
+        "1.º Marcas no pavimento; 2.º Semáforos; 3.º Agentes de Trânsito.",
+        "Todos os sinais têm exatamente a mesma força e prevalece o que o condutor escolher."
+      ],
+      "en": [
+        "1st Traffic Police Officer instructions; 2nd Temporary roadwork signage; 3rd Traffic Lights; 4th Vertical signs; 5th Road markings; 6th General code rules.",
+        "1st Traffic lights; 2nd General rules; 3rd Police officer; 4th Vertical signs.",
+        "1st Pavement markings; 2nd Traffic lights; 3rd Police officers.",
+        "All signs have identical legal weight and the driver chooses which to follow."
+      ],
+      "ch": [
+        "1º Swileriso swa Maphorisa ya Trânsito; 2º Swikombiso swa nkarhinyana (mintirho); 3º Timboni ta semáforo; 4º Swikombiso swa puleki; 5º Mfungho ya le hansi; 6º Milawu ya tiko.",
+        "1º Semáforo; 2º Milawu ya hinkwavo; 3º Maphorisa; 4º Swikombiso.",
+        "1º Layini ya le hansi; 2º Semáforo; 3º Maphorisa.",
+        "Hinkwaswo swi ringana u hlawula lexi u xi lavaka."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "As ordens dos agentes de trânsito sobrepõem-se a todos os sinais (mesmo com semáforo verde, se o agente mandar parar, deve-se parar). Seguem-se os sinais temporários, luminosos, verticais e marcas no chão.",
+      "en": "Direct signals given by traffic police officers supersede all electronic signals and signs. Temporary works come next, followed by lights, vertical signs, and pavement lines.",
+      "ch": "Rito ra phorisa ri hlula hinkwaswo: hambi semáforo ri ri rihlaza, loko phorisa ri ku 'yima', u fanele ku yima. Endzhaku ka maphorisa ku landzela semáforo, puleki ni layini."
+    }
+  },
+  {
+    "id": "inf-lei-005",
+    "grupo": "inf-lei-modificacao-veiculo",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 2,
+    "tags": ["modificacao", "caracteristicas", "homologacao"],
+    "pergunta": {
+      "pt": "A alteração das características originais do veículo (cor, motor, tipo de combustível, suspensão ou vidros escurecidos sem autorização prévia):",
+      "en": "Modifying a vehicle's original technical characteristics (color, engine, fuel type, suspension, or unauthorized dark tinted windows):",
+      "ch": "Ku cinca swilo swa ntumbuluko swa movha (muvala, injini, mafurha, kumbe ku chela magalasi ya ntima handle ka mpfumelelo):"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "INFRAC_MODS",
+      "alt": {
+        "pt": "Alteração não homologada de características e vidros fumados",
+        "en": "Unauthorized tuning modification and dark window tinting",
+        "ch": "Ku cinca muvala ni magalasi ya ntima ya movha"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Constitui contra-ordenação grave sujeita a multa e apreensão do veículo até inspeção extraordinária e averbamento no livrete pelo INATRO.",
+        "É totalmente livre desde que o proprietário pague a portagem.",
+        "Apenas requer a assinatura de duas testemunhas da vizinhança.",
+        "É permitida durante os fins-de-semana sem qualquer formalidade."
+      ],
+      "en": [
+        "Constitutes a serious traffic infraction subject to fine and vehicle impoundment pending extraordinary inspection and INATRO endorsement.",
+        "Is completely unrestricted provided toll fees are settled.",
+        "Only requires two neighbors' witness signatures.",
+        "Is permitted on weekends without any official registration."
+      ],
+      "ch": [
+        "I xihoxo lexikulu lexi fayiweke multa ni ku kokiwa ka movha ku kondza wu ya kamberiwa hi vuntshwa hi INATRO wu tlhela wu tsariwa ka livrete.",
+        "Swi pfumeleriwa loko u hakela toll gate.",
+        "Swi lava ntsena ku sayina ka vaakelani.",
+        "Swi pfumeleriwa ka mahelo ya vhiki handle ko vutisa munhu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Qualquer alteração substancial nas características averbadas no livrete exige inspeção extraordinária e autorização prévia do INATRO. Circular sem averbamento leva à apreensão dos documentos e do veículo.",
+      "en": "Substantial vehicle modifications require prior testing and formal endorsement in the registration certificate by INATRO to remain road-legal.",
+      "ch": "Loko u lava ku cinca muvala, injini kumbe ku fihla magalasi, u fanele ku rhanga u kuma mpfumelelo wa INATRO wu tsariwa ka livrete, loko ku nga ri tano movha wu ta khomiwa."
+    }
+  },
+  {
+    "id": "inf-lei-006",
+    "grupo": "inf-lei-carta-caducada",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 1,
+    "tags": ["carta-caducada", "validade", "renovacao"],
+    "pergunta": {
+      "pt": "Conduzir um veículo com o título de condução (carta de condução) fora do prazo de validade (caducada):",
+      "en": "Driving a vehicle with an expired driver's license:",
+      "ch": "Ku chayela movha na carteira leyi nga hela nkarhi wa yona (caducada):"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "INFRAC_EXPIRED_LICENSE",
+      "alt": {
+        "pt": "Carta de condução com data de validade expirada",
+        "en": "Expired driver license document",
+        "ch": "Carteira leyi nga hela nkarhi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Constitui contraordenação punível com coima e apreensão da carta até à sua devida renovação.",
+        "É permitido se o condutor conduzir devagar e apenas perto de casa.",
+        "Não tem qualquer consequência legal durante os primeiros 5 anos após expirar.",
+        "Permite ao condutor fazer um novo exame teórico gratuito."
+      ],
+      "en": [
+        "Is a traffic offense punishable by fine and confiscation of the license until renewal.",
+        "Is permitted if the driver drives slowly near home.",
+        "Carries no legal consequences for the first 5 years after expiration.",
+        "Entitles the driver to a free theoretical test."
+      ],
+      "ch": [
+        "I nandzu lowu biwaka hi multa ni ku tekiwa ka carteira ku kondza u yi yisa ku yi vuyelela.",
+        "Swi pfumeleriwa loko u chayela kusuhi ni le kaya ntsena.",
+        "A swi na mhaka ku fika 5 wa malembe.",
+        "Swi nyika xikambelo xa mahala."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O condutor é obrigado a revalidar a carta nos prazos legais. Circular com a carta caducada é infração que dá direito a multa e recolha da carta para regularização junto do INATRO.",
+      "en": "Drivers must renew licenses before expiry. Driving with an expired license triggers fines and license impoundment by traffic authorities.",
+      "ch": "Muchayeri u fanele ku vuyelela carteira yakwe nkarhi wu nga si hela. Ku chayela hi leyi nga hela swi teka carteira ni ku biwa hi multa."
+    }
+  },
+  {
+    "id": "inf-lei-007",
+    "grupo": "inf-lei-dever-parar-fiscalizacao",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 1,
+    "tags": ["fiscalizacao", "paragem-obrigatoria", "policia-transito"],
+    "pergunta": {
+      "pt": "Ao receber sinal de paragem emitido por um agente da autoridade fardado (Polícia de Trânsito ou brigada INATRO), o condutor deve:",
+      "en": "Upon being signaled to stop by a uniformed traffic officer (Police or INATRO patrol), the driver must:",
+      "ch": "Loko phorisa ri ku komba ku yima lomu gondzweni, u fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "AGENTE_TRANSITO",
+      "alt": {
+        "pt": "Sinal de paragem regulamentar em fiscalização",
+        "en": "Regulatory inspection stop signal",
+        "ch": "Xikombiso xo yimisa movha hi phorisa"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Parar a marcha no local indicado com segurança e facultar os documentos exigidos para fiscalização.",
+        "Acelerar e fugir para evitar ser autuado se souber que cometeu uma infração.",
+        "Fazer marcha-atrás na via pública para fugir em contramão.",
+        "Ignorar o sinal se for de noite ou se estiver a chover."
+      ],
+      "en": [
+        "Safely bring the vehicle to a halt at the directed spot and present the required documents.",
+        "Speed away to evade citation if aware of an existing violation.",
+        "Reverse vehicle in oncoming lane to flee.",
+        "Ignore the signal at night or in rain."
+      ],
+      "ch": [
+        "Yimisa movha hi vuhlayiseki laha u kombiwaka kona, u nyika mapapila lama lavekaka.",
+        "Tsutsuma u baleka u chava multa.",
+        "Famba hi marcha-atrás u tsutsuma.",
+        "Tshika u nga yimi loko ku ri vusiku."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O desrespeito ao sinal de paragem emitido por agente da autoridade no exercício das suas funções é infração grave e pode configurar crime de desobediência com perseguição policial e detenção.",
+      "en": "Disobeying an officer's stop signal is a grave offense that can constitute criminal disobedience, triggering vehicular pursuit and arrest.",
+      "ch": "Ku tsutsuma loko phorisa ri ku yimisa i nandzu lowukulu wa vugevenga lowu endlaka u hlongorisiwa u pfaleriwa ejele."
+    }
+  },
+  {
+    "id": "inf-lei-008",
+    "grupo": "inf-lei-atualizacao-residencia",
+    "variacao": 1,
+    "subtema": "leis",
+    "dificuldade": 2,
+    "tags": ["residencia", "atualizacao", "prazo", "inatro"],
+    "pergunta": {
+      "pt": "Em caso de mudança de residência (domicílio), em que prazo deve o titular da carta de condução comunicar a nova morada ao INATRO?",
+      "en": "In the event of changing residential address, within what legal timeframe must the driver report the new address to INATRO?",
+      "ch": "Loko u cinca muti (kaya), u fanele ku tivisa INATRO ndhawu ya wena leyintshwa eka nkarhi muni?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "INFRAC_RESIDENCE",
+      "alt": {
+        "pt": "Atualização de domicílio e morada no INATRO",
+        "en": "Address update registration with INATRO",
+        "ch": "Ku cinca kaya ka mapapila"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "No prazo de 30 dias subsequentes à alteração de residência.",
+        "No prazo de 2 anos ou apenas quando for renovar a carta.",
+        "Nunca é necessário comunicar, sendo a morada um dado confidencial irrelevante.",
+        "Apenas se mudar para outro país fora da África Austral."
+      ],
+      "en": [
+        "Within 30 days following the address change.",
+        "Within 2 years or only upon next renewal.",
+        "Never required, as address is strictly irrelevant.",
+        "Only if moving outside Southern Africa."
+      ],
+      "ch": [
+        "Endzeni ka masiku ya 30 endzhaku ka loko u cincile kaya.",
+        "Endzhaku ka 2 wa malembe.",
+        "A swi bohi ku tivisa munhu.",
+        "Loko u rhurhela kule ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A lei rodoviária estipula que qualquer mudança de residência do titular de carta ou de proprietário de veículo deve ser comunicada ao INATRO no prazo impreterível de 30 dias.",
+      "en": "Traffic law mandates that any change of address must be reported to INATRO within 30 days to keep official registries accurate.",
+      "ch": "Loko u cincile kaya, u fanele ku tivisa INATRO eka masiku ya 30 leswaku mapapila ya wena ma tshama ma ri karhi ma tsariwa kahle."
+    }
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "sin-mar-001",
+    "grupo": "sin-mar-linha-continua",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 1,
+    "tags": ["linha-continua", "pisar", "marcas"],
+    "pergunta": {
+      "pt": "Uma linha longitudinal contínua marcada no pavimento:",
+      "en": "A continuous longitudinal white line marked on the road pavement:",
+      "ch": "Layini yo basa leyi nga tsekatsekiki (contínua) ehansi ka gondzo yi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M1",
+      "alt": {
+        "pt": "Linha contínua longitudinal na faixa de rodagem",
+        "en": "Continuous longitudinal road center line",
+        "ch": "Layini leyi pfariweke ya le gondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Não pode ser pisada nem transposta em circunstância alguma de circulação normal.",
+        "Pode ser transposta sempre que a viatura da frente circule a menos de 40 km/h.",
+        "Serve unicamente como orientação visual facultativa para a condução noturna.",
+        "Permite ultrapassagens com aviso prévio de quatro piscas."
+      ],
+      "en": [
+        "Must not be crossed or stepped on under any normal driving circumstances.",
+        "May be crossed whenever the vehicle ahead is moving at under 40 km/h.",
+        "Serves purely as an optional visual aid for night driving.",
+        "Permits overtaking provided hazard warning lights are flashing."
+      ],
+      "ch": [
+        "A yi kandziyeki hambi ku tsemakanyiwa hi siku ni vusiku.",
+        "U nga yi tsemakanya loko movha lowu nga phambheni wu famba katsanana.",
+        "I mfungho wo vona nivusiku ntsena.",
+        "Yi pfumelela ku hundza loko u tshive timboni ta mune."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A linha contínua longitudinal separa correntes de trânsito ou sentidos opostos. O Código da Estrada estipula que a linha contínua significa para o condutor a proibição estrita de a pisar ou transpor.",
+      "en": "A solid longitudinal line strictly prohibits stepping onto or crossing over it to preserve traffic separation.",
+      "ch": "Layini leyi nga tsemeki a yi kandziyeki hambi ku tsemakanya hi movha eka xiyimo xin’wana ni xin’wana."
+    }
+  },
+  {
+    "id": "sin-mar-002",
+    "grupo": "sin-mar-linha-descontinua",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 1,
+    "tags": ["linha-descontinua", "tracos", "ultrapassagem"],
+    "pergunta": {
+      "pt": "Uma linha longitudinal descontínua (tracejada) indica:",
+      "en": "A broken (dashed) longitudinal line indicates:",
+      "ch": "Layini leyi nga ni swiphemu-phemu (descontínua) yi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M2",
+      "alt": {
+        "pt": "Linha descontínua na faixa de rodagem",
+        "en": "Dashed road lane markings",
+        "ch": "Layini ya swiphemu ya le gondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Que pode ser pisada ou transposta para efetuar manobras como ultrapassagem ou mudança de via, desde que com segurança.",
+        "Que é estritamente proibido mudar de faixa de rodagem.",
+        "Que a via termina nos próximos 50 metros.",
+        "Obrigação de reduzir a velocidade para 20 km/h."
+      ],
+      "en": [
+        "That it may be crossed or straddled to execute maneuvers like overtaking or lane changes when safe.",
+        "That lane changing is strictly forbidden.",
+        "That the road terminates in the next 50 meters.",
+        "A requirement to decelerate to 20 km/h."
+      ],
+      "ch": [
+        "Swi pfumeleriwa ku yi tsemakanya loko u lava ku hundza kumbe ku cincelela layini hi vuhlayiseki.",
+        "Ku yirisiwa ku cincelela layini.",
+        "Gondzo ra hela kusuhi.",
+        "Ku hunguta rivengo swinene."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A linha descontínua destina-se a separar vias de trânsito e adverte que pode ser transposta para manobras de ultrapassagem, viragem ou mudança de via quando não haja perigo para os demais utilizadores.",
+      "en": "A broken lane marking permits safe overtaking, lane changing, or turning maneuvers without impeding traffic flow.",
+      "ch": "Layini ya swiphemu yi pfumelela ku hundza movha wun’wana loko ndlela yi basile yi nga ri na khombo."
+    }
+  },
+  {
+    "id": "sin-mar-003",
+    "grupo": "sin-mar-linha-mista",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 2,
+    "tags": ["linha-mista", "continua-descontinua", "lado"],
+    "pergunta": {
+      "pt": "Quando existem duas linhas paralelas no eixo da via, uma contínua e outra descontínua, o condutor deve respeitar:",
+      "en": "When two parallel lines sit in the center of the road, one solid and one dashed, the driver must obey:",
+      "ch": "Loko ku ri ni tilayini timbirhi exikarhi, yin’we yi pfariwile yin’wana yi na swiphemu, muchayeri u landzela yihi?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M3",
+      "alt": {
+        "pt": "Linha longitudinal mista (contínua e descontínua)",
+        "en": "Mixed solid and broken road line",
+        "ch": "Tilayini timbirhi to hambana"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "A linha que se encontrar mais próxima do seu sentido de marcha.",
+        "Sempre a linha contínua, ignorando a tracejada.",
+        "Apenas a linha tracejada, independentemente do lado em que estiver.",
+        "Nenhuma delas se for num dia de sol claro."
+      ],
+      "en": [
+        "The line that lies closest to their side and direction of travel.",
+        "Always the solid line, disregarding the broken line.",
+        "Only the broken line regardless of placement.",
+        "Neither line on clear sunny days."
+      ],
+      "ch": [
+        "Layini leyi nga kusuhi swinene ni tlhelo leri a fambaka ha rona.",
+        "Minkarhi hinkwayo u landzela leyi pfariweke ntsena.",
+        "U landzela leyi nga ni swiphemu hambi yi ri kule.",
+        "A ku na leyi tirhaka loko dyambu ri hisa."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Na presença de linha mista (contínua adjacente a descontínua), o condutor deve obedecer à linha que estiver do seu lado. Se a linha mais próxima for contínua, não pode transpor; se for descontínua, pode transpor para manobras.",
+      "en": "In a double mixed line system, the driver obeys the line closest to their vehicle. If solid on their side, do not cross; if dashed, crossing is permissible.",
+      "ch": "U languta layini leyi nga tlhelo ra wena. Loko ku ri leyi pfariweke, u nga yi tsemakanyi; loko ku ri ya swiphemu, u nga hundza."
+    }
+  },
+  {
+    "id": "sin-mar-004",
+    "grupo": "sin-mar-linha-paragem-stop",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 1,
+    "tags": ["paragem", "stop", "transversal"],
+    "pergunta": {
+      "pt": "A linha transversal contínua desenhada no pavimento antes de um cruzamento com sinal de STOP indica:",
+      "en": "The solid transverse line painted across the lane before an intersection with a STOP sign indicates:",
+      "ch": "Layini yo tsemakanya leyi nga phambheni ka xikombiso xa STOP yi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M8",
+      "alt": {
+        "pt": "Linha transversal de paragem de STOP",
+        "en": "STOP transverse stop line marking",
+        "ch": "Layini yo yimisa movha phambheni ka STOP"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O local exato onde o condutor tem a obrigação de imobilizar completamente o veículo.",
+        "O ponto a partir do qual deve acelerar para passar o semáforo.",
+        "Uma área reservada para lavagem rápida de rodas de camião.",
+        "O início da via rápida para veículos prioritários."
+      ],
+      "en": [
+        "The precise location where the driver must come to a complete, full stop.",
+        "The trigger point to accelerate swiftly through the light.",
+        "A dedicated area for washing heavy truck wheels.",
+        "The start of an express lane for emergency responders."
+      ],
+      "ch": [
+        "Ndhawu yo hetelela laha muchayeri a bohekaka ku yimisa movha hi ku hetiseka.",
+        "Laha u faneleke ku gagamela rivengo.",
+        "Ndhawu yo hlantswela mavhilwa.",
+        "Ndlela ya mabazi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A linha de paragem é uma marca transversal contínua que determina o ponto limite antes do qual o veículo deve parar obrigatoriamente perante um sinal de STOP ou sinal vermelho luminoso.",
+      "en": "The stop line is a transverse marking indicating the mandatory stopping boundary ahead of a STOP sign or red traffic light.",
+      "ch": "Layini leyi yi komba ndhawu leyi movha wu faneleke ku yima hi ku hela emahlweni ka xikombiso xa STOP."
+    }
+  },
+  {
+    "id": "sin-mar-005",
+    "grupo": "sin-mar-zebrado",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 2,
+    "tags": ["marcas", "zebrado", "ilha"],
+    "pergunta": {
+      "pt": "As marcas de segurança formadas por linhas oblíquas paralelas delimitadas por linha contínua ('marcas zebradas / ilhéu direcional') no pavimento significam:",
+      "en": "Safety chevrons/stripes enclosed within a solid continuous line (channelizing islands) mean:",
+      "ch": "Tilayini to rhendzeleka to fana ni matlhari ya mangwa (zebradas) ehansi ka gondzo ti vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M17",
+      "alt": {
+        "pt": "Marcação zebrada no pavimento (Ilhéu delimitado)",
+        "en": "Road pavement channelizing island markings",
+        "ch": "Ndhawu ya ku avanyisa timmovha ehansi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Zona interdita ao trânsito, onde é proibido circular, parar ou estacionar qualquer veículo.",
+        "Zona reservada ao estacionamento de emergência de motociclos.",
+        "Área destinada à aceleração livre para entrar na autoestrada.",
+        "Espaço para carga e descarga de mercadorias volumosas."
+      ],
+      "en": [
+        "Prohibited zone where driving, stopping, or parking any vehicle is strictly barred.",
+        "Area dedicated for emergency motorbike parking.",
+        "Unrestricted acceleration lane for merging onto motorways.",
+        "Loading and unloading bay for heavy commercial goods."
+      ],
+      "ch": [
+        "Ndhawu leyi yirisiweke ku nghena, ku famba, ku yima kumbe ku paka movha.",
+        "Ndhawu yo paka mithuthuthu ya xilamulelo.",
+        "Ndhawu yo tsutsumisa movha.",
+        "Ndhawu yo rurula tinhundhu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Os ilhéus direcionais pintados (zebrados) com linha contínua têm o valor de um obstáculo físico. É expressamente proibido circular sobre eles ou utilizá-los para paragem ou estacionamento.",
+      "en": "Painted traffic islands with solid borders serve as virtual physical obstructions. Driving on them, stopping, or parking on them is strictly prohibited.",
+      "ch": "Ndhawu leyi ya tilayini to tsariwa ehansi yi fana ni khumbi; a swi pfumeleriwi ku fambisa movha henhla ka yona."
+    }
+  },
+  {
+    "id": "sin-mar-006",
+    "grupo": "sin-mar-amarela-continua",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 1,
+    "tags": ["linha-amarela", "continua", "paragem", "estacionamento"],
+    "pergunta": {
+      "pt": "Uma linha amarela contínua pintada no bordo da faixa de rodagem ou sobre o lancil do passeio significa:",
+      "en": "A continuous yellow line painted along the edge of the carriageway or on the curb stone means:",
+      "ch": "Layini ya xitshopana leyi pfariweke leyi nga kusuhi ni paseio yi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M1_YELLOW_CONTINUOUS",
+      "alt": {
+        "pt": "Linha amarela contínua no bordo da via",
+        "en": "Continuous yellow edge line",
+        "ch": "Layini ya xitshopana leyi nga pfaleka"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Proibição absoluta de parar e de estacionar em qualquer circunstância ao longo de toda a sua extensão.",
+        "Proibição apenas de estacionar, permitindo paragens até 15 minutos.",
+        "Zona onde apenas é permitido estacionar viaturas oficiais do Estado.",
+        "Reserva exclusiva para paragem de transportes semicoletivos (chapas)."
+      ],
+      "en": [
+        "Absolute prohibition of both stopping and parking under any circumstance along its entire length.",
+        "Prohibition of parking only, allowing quick stops up to 15 minutes.",
+        "Zone reserved exclusively for official government vehicles.",
+        "Exclusive bay for semi-collective minibuses (chapas)."
+      ],
+      "ch": [
+        "Ku yirisiwa hi ku helela ku yima hambi ku paka movha ka ndhawu leyi hinkwayo.",
+        "Ku yirisiwa ku paka ntsena, u nga yima 15 minit.",
+        "Ndhawu ya mimovha ya Mfumo ntsena.",
+        "Ndhawu ya machapa ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A linha amarela CONTÍNUA junto ao lancil do passeio proíbe expressamente tanto a paragem momentânea (mesmo com condutor ao volante) quanto o estacionamento em toda a sua extensão.",
+      "en": "A continuous solid yellow line along the curb explicitly bans both temporary stopping and parking.",
+      "ch": "Layini ya xitshopana leyi pfariweke yi yirisa ku yima hambi ku ri ku paka movha!"
+    }
+  },
+  {
+    "id": "sin-mar-007",
+    "grupo": "sin-mar-amarela-descontinua",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 1,
+    "tags": ["linha-amarela", "descontinua", "paragem", "estacionamento"],
+    "pergunta": {
+      "pt": "Uma linha amarela descontínua pintada junto ao lancil do passeio permite:",
+      "en": "A broken (dashed) yellow line painted along the curb allows:",
+      "ch": "Layini ya xitshopana ya swiphemu leyi nga kusuhi ni paseio yi pfumelela yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M2_YELLOW_DASHED",
+      "alt": {
+        "pt": "Linha amarela descontínua junto ao passeio",
+        "en": "Broken yellow line along curb",
+        "ch": "Layini ya xitshopana ya swiphemu"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "A paragem estritamente necessária para a rápida entrada ou saída de passageiros, mas proíbe o estacionamento.",
+        "O estacionamento prolongado durante todo o período diurno.",
+        "A inversão do sentido de marcha em cima do passeio.",
+        "Apenas a passagem de peões e bicicletas."
+      ],
+      "en": [
+        "Stopping strictly for quick passenger boarding/alighting, but forbids parking.",
+        "Prolonged parking throughout the daytime.",
+        "Making a U-turn across the pedestrian pavement.",
+        "Only pedestrian and bicycle crossings."
+      ],
+      "ch": [
+        "Ku yima nkarhi wutsongo ku xika vanhu, kambe ku paka ka yirisiwa.",
+        "Ku paka nkarhi hinkwawo nhlikanhi.",
+        "Ku hundzuluka henhla ka paseio.",
+        "Ku famba ka vanhu ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A linha amarela DESCONTÍNUA proíbe o estacionamento (deixar a viatura desocupada ou prolongada), mas autoriza a paragem rápida indispensável para entrada/saída de pessoas ou descargas breves.",
+      "en": "A broken yellow curb marking prohibits parking but explicitly permits brief halts for passenger embarkation or quick loading.",
+      "ch": "Layini ya xitshopana ya swiphemu yi yirisa ku paka, kambe yi pfumelela ku yima ntsena ku xika kumbe ku nghenisa munhu."
+    }
+  },
+  {
+    "id": "sin-mar-008",
+    "grupo": "sin-mar-setas-selecao",
+    "variacao": 1,
+    "subtema": "marcas-rodoviarias",
+    "dificuldade": 2,
+    "tags": ["setas", "selecao", "mudanca-direcao"],
+    "pergunta": {
+      "pt": "As setas de seleção pintadas no pavimento no interior das vias de trânsito à aproximação de um cruzamento:",
+      "en": "Lane selection arrows painted on the road surface approaching an intersection:",
+      "ch": "Miseve leyi tsariweke ehansi ka gondzo kusuhi ni mahlanganelo yi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "M11_ARROWS",
+      "alt": {
+        "pt": "Setas de seleção no pavimento",
+        "en": "Directional arrows on pavement",
+        "ch": "Miseve ya ku komba ndlela ehansi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Obrigam os condutores a seguir a direção ou direções indicadas pela seta da via em que se encontram.",
+        "São meras sugestões turísticas que o condutor pode desrespeitar se estiver atrasado.",
+        "Permitem qualquer manobra desde que o condutor acione a buzina.",
+        "Indicam a velocidade mínima obrigatória em cada faixa de rodagem."
+      ],
+      "en": [
+        "Mandate drivers to follow the direction or directions indicated by the arrow in their occupied lane.",
+        "Are merely tourist guidance suggestions that can be ignored.",
+        "Permit any maneuver as long as driver honks horn.",
+        "Indicate the minimum mandatory speed in each lane."
+      ],
+      "ch": [
+        "Swi sindzisa muchayeri ku famba hi ndlela leyi museve wu yi kombaka eka layini yakwe.",
+        "I switsundzuxo swa xilamulelo ntsena.",
+        "U nga endla xin’wana ni xin’wana loko u ba buzina.",
+        "Swi komba rivengo ra le hansi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "As setas de seleção têm valor regulamentar obrigatório. Uma vez posicionado numa via canalizada por setas, o condutor é obrigado a seguir o sentido apontado pela marcação.",
+      "en": "Directional selection arrows are regulatory mandates. Once in the channeled lane, the driver must follow the arrow's heading.",
+      "ch": "Miseve leyi yi na matimba ya nawu: u fanele ku landzela lomu museve wu kombaka kona ka layini leyi u nga ka yona."
+    }
+  }
+]

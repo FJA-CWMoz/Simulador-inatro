@@ -1,0 +1,394 @@
+[
+  {
+    "id": "sin-per-001",
+    "grupo": "sin-per-curva-perigosa",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 1,
+    "tags": ["curva", "perigo", "velocidade"],
+    "pergunta": {
+      "pt": "O que indica este sinal triangular com orla vermelha e símbolo de curva à direita?",
+      "en": "What does this triangular sign with a red border and right curve symbol indicate?",
+      "ch": "Xikombiso lexi xa 3-yinhla ni rimba ro tshwuka xi komba yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A1a",
+      "alt": {
+        "pt": "Sinal de curva perigosa à direita",
+        "en": "Dangerous bend to the right sign",
+        "ch": "Xikombiso xa jiko ra khombo ra xinene"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aproximação de uma curva perigosa à direita, exigindo redução de velocidade.",
+        "Obrigação de virar imediatamente à direita na próxima esquina.",
+        "Fim de via com prioridade e início de via de sentido único à direita.",
+        "Trabalhos na berma direita da faixa de rodagem."
+      ],
+      "en": [
+        "Approach of a dangerous bend to the right, requiring speed reduction.",
+        "Obligation to turn immediately right at the next corner.",
+        "End of priority road and start of a one-way road to the right.",
+        "Road works on the right shoulder of the carriageway."
+      ],
+      "ch": [
+        "Ku tshinela ka jiko ra khombo ra xinene, swi lava ku hunguta rivengo.",
+        "Ku sindzisiwa ku jikela xinene ka kona.",
+        "Kuhela ka gondzo ra nkoka ni kusungula ka lin’we.",
+        "Mintirho ya gondzo etlhelo ra xinene."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Os sinais triangulares com vértice para cima e orla vermelha indicam perigo. Este sinal (A1a) adverte sobre curva perigosa à direita onde a força centrífuga pode desestabilizar o veículo se a velocidade não for moderada.",
+      "en": "Triangular signs with an upward apex and red border warn of danger. Sign A1a warns of a dangerous right turn where centrifugal force may affect vehicle stability.",
+      "ch": "Swikombiso swa tinhla tinharhu swi tsundzuxa hi khombo. Xikombiso lexi xi lava ku hunguta rivengo eka jiko ra xinene."
+    }
+  },
+  {
+    "id": "sin-per-002",
+    "grupo": "sin-per-lomba",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 1,
+    "tags": ["lomba", "obstaculo", "suspensao"],
+    "pergunta": {
+      "pt": "Perante o sinal de perigo com o símbolo de 'lomba ou desnível', que procedimento deve adotar?",
+      "en": "Facing the danger sign depicting a speed bump/uneven road, what procedure should you follow?",
+      "ch": "Loko u vona xikombiso xa 'lomba' (duku-duku ra gondzo), u fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A2a",
+      "alt": {
+        "pt": "Sinal de perigo: Lomba ou pavimento irregular",
+        "en": "Warning sign: Speed bump or uneven surface",
+        "ch": "Xikombiso xa lomba eka gondzo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aumentar a velocidade para transpor o obstáculo mais rapidamente.",
+        "Reduzir a velocidade e segurar firmemente o volante para evitar perda de aderência e danos.",
+        "Travar a fundo exatamente no cimo da lomba.",
+        "Desviar o veículo bruscamente para a berma esquerda sem abrandar."
+      ],
+      "en": [
+        "Increase speed to pass the obstacle more quickly.",
+        "Reduce speed and firmly grip the steering wheel to maintain control and avoid vehicle damage.",
+        "Slam the brakes abruptly right on top of the speed bump.",
+        "Swerve abruptly onto the left verge without slowing down."
+      ],
+      "ch": [
+        "Ku tlakusa rivengo leswaku u tlula khombo hi ku hlwela.",
+        "Ku hunguta rivengo ni ku khoma xiteringi hi matimba ku sivela khombo.",
+        "Ku ba travão hi matimba henhla ka lomba.",
+        "Ku phatukela tlhelo ka gondzo handle ko hunguta."
+      ]
+    },
+    "correta": 1,
+    "explicacao": {
+      "pt": "A lomba ou deformação na via pode causar ressaltos violentos, perda de contacto dos pneus e danos estruturais. O condutor deve moderar a velocidade antes do obstáculo e transpor com suavidade.",
+      "en": "A speed bump or road irregularity can cause severe bouncing and loss of traction. Drivers must decelerate prior to the hump and pass smoothly.",
+      "ch": "Lomba ri nga onha movha ri tlhela ri susa ku namarhela ka mavhilwa. Hunguta rivengo u nga si ri fikelela."
+    }
+  },
+  {
+    "id": "sin-per-003",
+    "grupo": "sin-per-peoes",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 2,
+    "tags": ["peoes", "escola", "criancas"],
+    "pergunta": {
+      "pt": "O sinal de perigo com figuras de crianças ou peões a atravessar adverte o condutor sobre:",
+      "en": "The danger sign depicting children or pedestrians crossing warns the driver of:",
+      "ch": "Xikombiso xa vana kumbe vafambi va milenge xi tivisa yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A16",
+      "alt": {
+        "pt": "Sinal de passagem de peões / crianças",
+        "en": "Pedestrians / school children crossing sign",
+        "ch": "Xikombiso xa vana ni vafambi va milenge"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Proximidade de local frequentado por crianças (escola/parque) ou passagem de peões.",
+        "Obrigação exclusiva de circulação apeada na faixa de rodagem.",
+        "Proibição absoluta de trânsito a veículos motorizados durante o horário escolar.",
+        "Paragem obrigatória mesmo sem peões à vista."
+      ],
+      "en": [
+        "Proximity to a location frequented by children (schools/playgrounds) or a pedestrian crossing.",
+        "Mandatory pedestrian-only zone on the carriageway.",
+        "Absolute ban on motorized vehicles during school hours.",
+        "Mandatory stop even if no pedestrians are in sight."
+      ],
+      "ch": [
+        "Ku tshinela ka xikolo kumbe lomu vana va tsemakanyaka hi vunyingi.",
+        "Ndlela ya milenge ntsena ya vanhu.",
+        "Ku yirisiwa ka mimovha loko xikolo xi pfulekile.",
+        "Ku yima hambi ku hava munhu leri vonakaka."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Este sinal alerta para a presença potencial ou travessia frequente de crianças ou peões. O condutor deve redobrar a atenção, moderar a velocidade e estar pronto a imobilizar o veículo.",
+      "en": "This sign warns that pedestrians, particularly children near schools, may unexpectedly cross the road. Extreme caution and readiness to stop are required.",
+      "ch": "Xi komba leswaku ku nga ha va ni vana lava tsutsumaka ehandle ka xikolo. Chayeri hi ku langutela ku yima."
+    }
+  },
+  {
+    "id": "sin-per-004",
+    "grupo": "sin-per-estreitamento",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 2,
+    "tags": ["estreitamento", "faixa", "cruzamento"],
+    "pergunta": {
+      "pt": "Ao deparar-se com o sinal de 'Estreitamento de via', o que se deduz quanto ao cruzamento com outros veículos?",
+      "en": "When encountering the 'Road Narrows' sign, what should be deduced regarding oncoming traffic?",
+      "ch": "Loko gondzo ri titsongahata (ri pfala tindhawu), u fanele ku langutela yini eka mimovha leyi taka?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A4a",
+      "alt": {
+        "pt": "Sinal de estreitamento da faixa de rodagem",
+        "en": "Road narrows sign",
+        "ch": "Xikombiso xa ku lumbuka ka gondzo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "A largura útil da via diminui, podendo exigir cedência de passagem ao cruzar com veículos em sentido contrário.",
+        "O trânsito passa a circular apenas na berma direita.",
+        "O condutor tem sempre prioridade sobre todos os veículos que circulam em sentido inverso.",
+        "A ultrapassagem torna-se livre e permitida sem restrições."
+      ],
+      "en": [
+        "The usable width decreases, possibly requiring giving way when meeting oncoming traffic.",
+        "Traffic is now required to move solely onto the right shoulder.",
+        "The driver always has absolute priority over oncoming vehicles.",
+        "Overtaking becomes unrestricted and permitted."
+      ],
+      "ch": [
+        "Gondzo ra titsongahata, swi nga lava ku nyika ndlela loko mimovha yi hlangana.",
+        "Mimovha yi fanele kufamba ehenhla ka maribye.",
+        "Muchayeri u na matimba hinkwawo yo rhangela.",
+        "Ku hundza swi pfumeleriwa mahala handle ko chavela."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O estreitamento da via reduz o espaço lateral de segurança. Se o cruzamento não for possível em simultâneo, aplicam-se as regras de prioridade ou sinalização complementar de cedência.",
+      "en": "A road narrowing diminishes lateral safety margins. If vehicles cannot pass at the same time, priority rules or complementary signs apply.",
+      "ch": "Gondzo ri hundzuka litsongo. Loko ku nga ringanelani mimovha yimbirhi, fanele ku landzeleriwa nawu wa priority."
+    }
+  },
+  {
+    "id": "sin-per-005",
+    "grupo": "sin-per-animais",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 2,
+    "tags": ["animais", "gado", "selvagens"],
+    "pergunta": {
+      "pt": "Nas estradas nacionais em Moçambique, o sinal de 'Animais à solta / Gado' impõe ao condutor:",
+      "en": "On national highways in Mozambique, the 'Loose Animals / Cattle' warning sign obliges the driver to:",
+      "ch": "Eka magondzo ya le Mozambiki, xikombiso xa swifuwo kumbe swiharhi swa nhova xi lava yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A13a",
+      "alt": {
+        "pt": "Sinal de animais selvagens ou domésticos na via",
+        "en": "Wild or domestic animals crossing sign",
+        "ch": "Xikombiso xa swifuwo swa le gondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Moderar a velocidade e não buzinar bruscamente, pois pode assustar os animais e causar reações imprevistas.",
+        "Acelerar e buzinar insistentemente com luzes máximas para afugentar o gado.",
+        "Parar imediatamente no meio da estrada e desligar todas as luzes do veículo.",
+        "Ultrapassar os animais a alta velocidade pela berma contrária."
+      ],
+      "en": [
+        "Moderate speed and avoid sudden horn honking, which may startle animals into erratic movement.",
+        "Accelerate and honk loudly with high beams to scare away livestock.",
+        "Stop immediately in the middle of the road and turn off all lights.",
+        "Overtake animals at high speed along the opposite shoulder."
+      ],
+      "ch": [
+        "Ku hunguta rivengo ni ku nga chayi xingelengele (buzina) lexi nga tsemaka tinhlana swifuwo.",
+        "Ku tsutsuma ni ku ba buzina hi matimba ku hlongola tihomu.",
+        "Ku yima exikarhi ka gondzo u tima timboni hinkwato.",
+        "Ku hundza hi rivengo leri tlulaka mpimo."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Animais na via comportam-se de forma imprevisível. Buzinar alto ou usar máximos pode assustá-los, provocando atropelamentos graves ou colisão lateral.",
+      "en": "Animals are unpredictable. Loud horns and flashing high beams can panic them into the vehicle's path. Drivers must slow down gently.",
+      "ch": "Swifuwo a swi tivi milawu. Ku ba buzina ku nga swi chavisa swi tsutsumela phambheni ka movha."
+    }
+  },
+  {
+    "id": "sin-per-006",
+    "grupo": "sin-per-pavimento-escorregadio",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 2,
+    "tags": ["escorregadio", "derrapagem", "aderencia"],
+    "pergunta": {
+      "pt": "O sinal de perigo com a silhueta de um automóvel a ziguezaguear com rastos de derrapagem (A9) adverte sobre:",
+      "en": "The warning sign depicting a skidding vehicle with swerving tyre tracks (A9) indicates:",
+      "ch": "Xikombiso xa movha lowu gewukaka (A9) xi tsundzuxa yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A9",
+      "alt": {
+        "pt": "Sinal de Pavimento Escorregadio",
+        "en": "Slippery Road Surface warning sign",
+        "ch": "Gondzo leri rherhelekaka"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Troço de via com pavimento escorregadio por motivo de chuva, óleo ou gravilha solta, devendo evitar-se travagens bruscas.",
+        "Proibição de ultrapassar qualquer tipo de veículo.",
+        "Pista exclusiva para corridas desportivas automóveis.",
+        "Obrigação de desligar a tração às quatro rodas."
+      ],
+      "en": [
+        "Road section with slippery surface due to rain, oil, or loose gravel; sudden braking must be avoided.",
+        "Prohibition on overtaking any type of vehicle.",
+        "Track reserved for auto racing competitions.",
+        "Obligation to disengage four-wheel drive."
+      ],
+      "ch": [
+        "Gondzo leri rherhelekaka hikwalaho ka mpfula kumbe mafurha, u fanele ku papalata ku ba travão hi matimba.",
+        "Ku yirisiwa ku hundza movha wun’wana.",
+        "Ndlela ya miphalisano ya mimovha.",
+        "Ku tima tração ya 4x4."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal A9 adverte para pavimento anormalmente escorregadio. O condutor deve moderar a velocidade, aumentar a distância de segurança e evitar manobras bruscas de direção e travagem.",
+      "en": "Sign A9 warns of slippery pavement conditions requiring gentler inputs, slower speeds, and longer following gaps.",
+      "ch": "Xikombiso lexi xi tsundzuxa leswaku gondzo ra rherheleka. Hunguta rivengo u nga bi mavhilwa hi matimba."
+    }
+  },
+  {
+    "id": "sin-per-007",
+    "grupo": "sin-per-passagem-nivel",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 1,
+    "tags": ["comboio", "passagem-nivel", "carris"],
+    "pergunta": {
+      "pt": "O sinal de perigo com o desenho de uma locomotiva a vapor (A25) adverte o condutor de:",
+      "en": "The danger sign depicting a steam locomotive engine (A25) warns drivers of:",
+      "ch": "Xikombiso xa xitimela xi tsundzuxa yini muchayeri?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A25",
+      "alt": {
+        "pt": "Passagem de nível sem guarda",
+        "en": "Unguarded railway level crossing sign",
+        "ch": "Mahlanganelo ya xitimela handle ka murindzi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aproximação de passagem de nível sem cancelas nem guarda, exigindo paragem e escuta atenta antes de transpor a linha férrea.",
+        "Estação de comboios de passageiros com parque de estacionamento gratuito.",
+        "Ponto de encontro exclusivo para condutores de locomotivas.",
+        "Proibição de ultrapassar camiões carregados de carvão."
+      ],
+      "en": [
+        "Approach of an unguarded level crossing without gates, demanding stopping and looking both ways before crossing tracks.",
+        "Passenger railway station with free parking area.",
+        "Meeting point designated for locomotive engineers.",
+        "Ban on passing coal freight trucks."
+      ],
+      "ch": [
+        "Ku tshinela ka mahlanganelo ya xitimela handle ka murindzi kumbe xivalelo, u fanele ku yima u rhiya ndleve u nga si tsemakanya.",
+        "Xitichi xa xitimela xo paka mimovha.",
+        "Ndhawu ya vachayeri va xitimela.",
+        "Ku yirisiwa ka mimovha ya makala."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A passagem de nível sem guarda (A25) é um dos pontos mais perigosos das estradas. O comboio nunca pode parar a tempo; a obrigação de verificar e parar pertence exclusivamente ao condutor do automóvel.",
+      "en": "An unguarded railway crossing requires utmost vigilance: trains have immense momentum and cannot stop quickly. Drivers must look and listen.",
+      "ch": "Xitimela a xi koti ku yima hi xihatla. Muchayeri wa movha hi yena a faneleke ku yima a languta matlhelo mambirhi a nga si nghena ka tinsimbi."
+    }
+  },
+  {
+    "id": "sin-per-008",
+    "grupo": "sin-per-obras-via",
+    "variacao": 1,
+    "subtema": "perigo",
+    "dificuldade": 1,
+    "tags": ["obras", "trabalhos", "operarios"],
+    "pergunta": {
+      "pt": "O sinal triangular com fundo amarelo ou branco que ilustra um operário a trabalhar com pá (A15) significa:",
+      "en": "The triangular sign featuring a worker shoveling (A15) indicates:",
+      "ch": "Xikombiso xa munhu a tirhaka hi foxolo (A15) xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "A15",
+      "alt": {
+        "pt": "Trabalhos na via / Obras",
+        "en": "Road works ahead sign",
+        "ch": "Mintirho ya le gondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Trabalhos na via (obras na estrada), exigindo moderação imediata de velocidade e atenção a operários e máquinas em circulação.",
+        "Paragem obrigatória para compra de materiais de construção.",
+        "Fim de todas as restrições de velocidade na autoestrada.",
+        "Via reservada ao transporte agrícola manual."
+      ],
+      "en": [
+        "Road works ahead, demanding immediate speed reduction and alertness for workers and heavy machinery.",
+        "Mandatory stop to purchase construction materials.",
+        "End of all motorway speed restrictions.",
+        "Lane reserved for manual agricultural carts."
+      ],
+      "ch": [
+        "Mintirho ya ku lulamisa gondzo (obras), u fanele ku hunguta rivengo u chavela vatirhi ni michini ya le ndleleni.",
+        "Ku yima u xava swilo swo aka.",
+        "Ku hela ka mimbimi ya rivengo.",
+        "Ndlela ya swikochikochi swa le masin’wini."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Sinal A15 adverte para troço em obras ou manutenção. O piso pode ter gravilha solta ou ressaltos, e há risco de atropelamento de trabalhadores.",
+      "en": "Sign A15 warns of maintenance or roadworks. Pavement may feature debris, and road crews may be present.",
+      "ch": "Xikombiso xi komba ku lulamisiwa ka gondzo. Ku nga ha va ni maribye kumbe vatirhi, hikwalaho famba hi vukheta."
+    }
+  }
+]

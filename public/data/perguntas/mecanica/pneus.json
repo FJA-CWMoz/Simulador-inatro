@@ -1,0 +1,394 @@
+[
+  {
+    "id": "mec-pne-001",
+    "grupo": "mec-pne-profundidade-sulcos",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 1,
+    "tags": ["sulcos", "profundidade-minima", "milimetros", "inspecao"],
+    "pergunta": {
+      "pt": "Qual é a profundidade mínima legal dos desenhos/sulcos do piso do pneu para automóveis ligeiros em Moçambique?",
+      "en": "What is the mandatory legal minimum tread depth of tyre grooves for passenger cars in Mozambique?",
+      "ch": "Hi kwihi ku eta ka le hansi (profundidade mínima) loku bohekaka hi nawu ka swiphemu swa vhilwa (sulcos) ka mimovha leyitsongo eMoçambique?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_TREAD_DEPTH",
+      "alt": {
+        "pt": "Medição da profundidade dos sulcos do pneu (mínimo 1,6 mm)",
+        "en": "Measurement of tyre tread depth (minimum 1.6 mm)",
+        "ch": "Ku pima ku eta ka mavhilwa (1,6 mm)"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "1,6 mm em toda a banda de rodagem (indicada pelos testemunhos TWI).",
+        "0,1 mm desde que a lona de arame ainda não esteja à vista.",
+        "5,0 mm obrigatórios para qualquer tipo de estrada.",
+        "Não existe limite de desgaste, o pneu pode ser liso ('careca')."
+      ],
+      "en": [
+        "1.6 mm across the entire principal tread band (indicated by TWI wear bars).",
+        "0.1 mm as long as inner steel cords are not yet protruding.",
+        "5.0 mm compulsory for any roadway category.",
+        "There is no legal wear limit; bald slicks are permitted."
+      ],
+      "ch": [
+        "1,6 mm eka vhilwa hinkwaro (ku landza mfungho wa TWI lowu nga endzeni ka vhilwa).",
+        "0,1 mm ntsena loko nsimbi ya le ndzeni yi nga si vonaka.",
+        "5,0 mm egondzweni rin’wana ni rin’wana.",
+        "A ku na mimbimi; vhilwa ri nga sala ri ku khee ri nga ri na milawu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O Código da Estrada estabelece 1,6 mm como o limite mínimo absoluto para ligeiros. Pneus abaixo deste limite (ou 'carecas') perdem a capacidade de evacuar água, provocando aquaplanagem e multas em fiscalização.",
+      "en": "The legal threshold is 1.6 mm. Below this, tyres cannot disperse water, leading to deadly aquaplaning crashes and immediate police failure at inspections.",
+      "ch": "Nawu wu veka 1,6 mm tanihi mpimo wo hetelela ehansi. Vhilwa leri nga riki na milawu leyi (careca) ri tsandzeka ku hlongola mati ya mpfula, movha wu gewuka wu vanga timhangu."
+    }
+  },
+  {
+    "id": "mec-pne-002",
+    "grupo": "mec-pne-pressao-frio",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 1,
+    "tags": ["pressao", "pneu-frio", "calibragem"],
+    "pergunta": {
+      "pt": "Quando e com que regularidade deve ser verificada a pressão de ar dos pneus do automóvel (incluindo o sobresselente)?",
+      "en": "When and how frequently should tyre inflation pressure (including the spare) be inspected?",
+      "ch": "U fanele ku kambisisa moya wa mavhilwa ya movha rini (ku katsa ni vhilwa ra reserva)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_TYRE_PRESSURE",
+      "alt": {
+        "pt": "Calibragem correta dos pneus com manómetro a frio",
+        "en": "Checking correct tyre pressure with gauge when cold",
+        "ch": "Ku chela moya lowu ringaneke ka mavhilwa ma ha horile"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Quinzenalmente ou antes de viagens longas, sempre com os pneus 'a frio' (sem terem rodado mais de 2 a 3 km).",
+        "Apenas quando o pneu estiver completamente no chão sem ar.",
+        "Sempre com os pneus a ferver logo após conduzir 300 km em autoestrada.",
+        "Uma vez a cada dez anos aquando da renovação da carta de condução."
+      ],
+      "en": [
+        "Every two weeks or prior to long journeys, always with cold tyres (having driven less than 2-3 km).",
+        "Only when the tyre has totally collapsed flat to the rim.",
+        "Always when tyres are blistering hot immediately after 300 km on the highway.",
+        "Once every decade when renewing driver's licenses."
+      ],
+      "ch": [
+        "Kambirhi hi nhweti (mavhiki mambirhi) kumbe u nga si teka pfhuka wo leha, mavhilwa ma ha HORILE (u nga si famba ku tlula 2 ku ya ka 3 km).",
+        "Ntsena loko vhilwa se ri pfalekile hi ku helela.",
+        "Loko mavhilwa ma hisa ngopfu endzhaku ka ku tsutsuma kule.",
+        "Kan’we endzhaku ka khume ra malembe."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Ao rodar, o ar aquece e expande, elevando a leitura no manómetro. Se medir a quente, obterá um valor falsamente alto. A verificação a frio garante a pressão exata prescrita pelo fabricante no manual ou pilar da porta.",
+      "en": "Driving generates internal friction that heats air and inflates gauge readings. Checking while cold guarantees correct baseline settings matching manufacturer specs.",
+      "ch": "Loko u famba kule, moya wa hisa wu tlakuka ka manómetro. U fanele ku pima mavhilwa ma ha horile leswaku u kuma nomboro ya ntiyiso leyi lavekaka."
+    }
+  },
+  {
+    "id": "mec-pne-003",
+    "grupo": "mec-pne-desgaste-pressao-baixa",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 2,
+    "tags": ["pressao-baixa", "desgaste-bordos", "consumo"],
+    "pergunta": {
+      "pt": "Um pneu a circular continuamente com pressão de ar muito abaixo da recomendada apresenta que consequências?",
+      "en": "A tyre continuously driven with air pressure significantly lower than recommended suffers what consequences?",
+      "ch": "Vhilwa leri fambaka nkarhi hinkwawo ri ri ni moya wutsongo leri nga ringanangiki ri va ni swiphiqo swihi?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_UNDERINFLATION",
+      "alt": {
+        "pt": "Pneu com pressão insuficiente: desgaste excessivo nos bordos exteriores",
+        "en": "Underinflated tyre: accelerated shoulder and edge wear with overheating",
+        "ch": "Vhilwa leri nga riki na moya wo ringana ri dyekaka etlhelo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Desgaste acelerado nos bordos exteriores dos ombros do pneu, aumento do consumo de combustível e alto risco de sobreaquecimento e rebentamento.",
+        "Desgaste unicamente no centro exato do piso.",
+        "Redução de 50% do consumo de combustível.",
+        "Aumento da velocidade máxima do automóvel."
+      ],
+      "en": [
+        "Accelerated wear on outer shoulder edges, increased fuel consumption, and severe risk of sidewall overheating and blowout.",
+        "Wear confined exclusively to the exact center ridge.",
+        "A 50% reduction in vehicle fuel consumption.",
+        "An increase in the car's top theoretical speed."
+      ],
+      "ch": [
+        "Ku dyeka ka matlhelo ya vhilwa (ombros), ku dya mafurha yo tala ngopfu ka movha ni khombo lerikulu ra ku hisa ni ku buluka ka vhilwa.",
+        "Ku dyeka exikarhi ka vhilwa ntsena.",
+        "Ku hunguta mafurha hi 50%.",
+        "Ku endla movha wu tsutsuma ngopfu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Pressão a menos faz o pneu apoiar apenas nos bordos exteriores, dobrando as telas laterais até romper por fadiga. Pelo contrário, pressão a mais desgasta o centro do pneu.",
+      "en": "Underinflation causes the contact patch to bow upward, bearing load exclusively on shoulders while flexing sidewalls until blowouts occur. Overinflation wears the center.",
+      "ch": "Moya wutsongo wu endla vhilwa ri kandziya matlhelo ntsena, swi hisa ti-telas ta le tlhelo ku kondza ri buluka. Moya wo tala wu dyisa xikarhi ka vhilwa."
+    }
+  },
+  {
+    "id": "mec-pne-004",
+    "grupo": "mec-pne-rebentamento-controlo",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 1,
+    "tags": ["rebentamento", "furo", "volante", "estabilidade"],
+    "pergunta": {
+      "pt": "Se um pneu dianteiro rebentar repentinamente a 100 km/h numa estrada nacional, qual é o procedimento de sobrevivência correto?",
+      "en": "If a front tyre suddenly blows out at 100 km/h on a national highway, what is the correct survival technique?",
+      "ch": "Loko vhilwa ra phambheni ri buluka hi xitshuketa movha wu ri ka 100 km/h egondzweni lerikulu, u fanele ku endla yini ku ponisa vutomi?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_BLOWOUT_CONTROL",
+      "alt": {
+        "pt": "Controlo firme do volante em caso de rebentamento de pneu dianteiro",
+        "en": "Holding steering wheel firmly in sudden front blowout emergency",
+        "ch": "Ku khoma xiteringi hi matimba loko vhilwa ri bulukile"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Segurar firmemente o volante com as duas mãos para manter o carro em linha reta, NÃO travar bruscamente a fundo, aliviar o acelerador suavemente e imobilizar o carro gradualmente na berma.",
+        "Travar com toda a força no pedal e puxar violentamente o travão de mão.",
+        "Virar o volante com toda a força para a direção do mato.",
+        "Soltar o volante e saltar da janela."
+      ],
+      "en": [
+        "Grip steering wheel firmly with both hands keeping vehicle straight, DO NOT slam brakes, gently ease off accelerator, and guide car smoothly onto the verge.",
+        "Stomp on the brake pedal with maximum fury and yank handbrake up.",
+        "Yank the steering wheel hard towards the roadside bush.",
+        "Let go of steering and bail out through the window."
+      ],
+      "ch": [
+        "Khoma xiteringi hi mavoko mambirhi hi ku tiya u lulamisa movha wu nga jiki, U NGA TSHUKI u ba travão hi matimba, ntshunxa pedale ya famba katsanana, u yimisa movha hi ku rhula etlhelo ka gondzo.",
+        "Kandziya travão hi matimba u koka travão-de-mão hi xihatla.",
+        "Khwevela xiteringi enhoveni.",
+        "Tshika xiteringi u tlula hi fasitere."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Travar a fundo com um pneu rebentado desestabiliza imediatamente o veículo, provocando capotamento violento. Segurar com força a direção e deixar o carro desacelerar naturalmente salva vidas.",
+      "en": "Hard braking on a shredded tyre creates immediate yaw torque, inducing catastrophic rollover. Countering steering pull while letting drag coast the vehicle down prevents flips.",
+      "ch": "Ku ba travão hi matimba loko vhilwa ri bulukile swi endla movha wu penduka wu rhendzeleka enhoveni. Khoma xiteringi xi tiya, movha wu ta hunguta rivengo hi woxe wu yima hi ku rhula."
+    }
+  },
+  {
+    "id": "mec-pne-005",
+    "grupo": "mec-pne-deformacoes-bolhas",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 2,
+    "tags": ["bolha", "deformacao", "pneu-danificado"],
+    "pergunta": {
+      "pt": "Ao inspecionar o flanco (lado lateral) de um pneu, o condutor descobre uma 'bolha', 'galo' ou corte profundo na borracha provocado por bater num buraco. O que deve fazer?",
+      "en": "While inspecting a tyre's sidewall, the driver discovers a bulge/bubble or deep rupture caused by a pothole impact. What must be done?",
+      "ch": "Loko u langutisisa vhilwa hi tlhelo, u kuma ri ri ni 'bula' kumbe xikandza lexi vangiweke hi ku ba nkhele. U fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_SIDEWALL_BULGE",
+      "alt": {
+        "pt": "Bolha estrutural perigosa no flanco lateral do pneu",
+        "en": "Dangerous structural bulge blister on tyre sidewall",
+        "ch": "Bula ra khombo ka tlhelo ra vhilwa"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Substituir o pneu imediatamente; a lona interna de arame partiu e o pneu pode rebentar a qualquer momento sob pressão.",
+        "Colocar fita adesiva ou cola plástica sobre a bolha e continuar a viajar a 120 km/h.",
+        "Esvaziar todo o ar do pneu e voltar a encher para desinflar a bolha.",
+        "Picar a bolha com uma agulha para sair o ar retido."
+      ],
+      "en": [
+        "Replace the tyre immediately; internal cord plies have ruptured and the tyre is primed to explode catastrophically under load.",
+        "Apply duct tape or superglue over the bubble and travel at 120 km/h.",
+        "Deflate the tyre fully and re-inflate hoping the bubble disappears.",
+        "Pierce the blister with a needle to vent trapped air."
+      ],
+      "ch": [
+        "Cinca vhilwa hi ku hatlisa; tinsimbi ta le ndzeni ti tsemekile naswona vhilwa ri nga ha buluka nkarhi wun’wana ni wun’wana ri dlayisa vanhu.",
+        "Chela fita u famba hi 120 km/h.",
+        "Humesa moya hinkwawo u tlhela u chela.",
+        "Tlhava bula hi ntsindzi leswaku ri pfuta moya."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Uma bolha no flanco significa que a estrutura interna de nylon/aço rompeu. A borracha fina exterior não resiste à pressão e rebenta subitamente, sendo proibido circular com esse pneu.",
+      "en": "Sidewall bubbles prove internal ply rupture. Thin outer rubber cannot withstand driving stress and will rupture violently. Such tyres must be scrapped immediately.",
+      "ch": "Bula ka tlhelo ra vhilwa ri komba leswaku lona ya nsimbi ya le ndzeni yi tsemekile. Raba ya le handle a yi na matimba yo tiya; vhilwa ri ta buluka hi nkarhi lowu u nga wu langutelangiki. Cinca vhilwa xikan’we."
+    }
+  },
+  {
+    "id": "mec-pne-006",
+    "grupo": "mec-pne-estepe-temporario",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 1,
+    "tags": ["estepe", "pneu-sobresselente", "limite-80kmh", "emergencia"],
+    "pergunta": {
+      "pt": "Quando se monta a roda sobresselente temporária de emergência (o chamado 'pneu estepe fino' ou 'galette'):",
+      "en": "When mounting a temporary compact spare wheel (the space-saver 'donut' tyre):",
+      "ch": "Loko u vekela vhilwa ritsongo ra xilamulelo (estepe ritsongo ra emergência):"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_SPARE_DONUT",
+      "alt": {
+        "pt": "Pneu sobresselente fino temporário de emergência",
+        "en": "Compact space-saver spare wheel",
+        "ch": "Vhilwa ritsongo ra reserva"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Não se deve ultrapassar a velocidade máxima de 80 km/h e deve-se proceder à reparação do pneu normal o mais breve possível.",
+        "Pode circular a qualquer velocidade normalmente sem necessidade de consertar o pneu original.",
+        "Deve esvaziar o pneu até atingir 10 libras de pressão.",
+        "É proibido circular em qualquer estrada pública."
+      ],
+      "en": [
+        "Maximum speed must not exceed 80 km/h and the regular tyre should be repaired and refitted as soon as possible.",
+        "You may drive at any speed indefinitely without fixing original tyre.",
+        "You must deflate tyre down to 10 psi.",
+        "Driving on public roads is illegal."
+      ],
+      "ch": [
+        "U nga tshuki u tlula 80 km/h naswona u fanele ku ya lunghisa vhilwa ra wena ra ntiyiso hi xihatla.",
+        "U nga tsutsuma hi rivengo rin’wana ni rin’wana.",
+        "Humesa moya hinkwawo.",
+        "Swi yirisiwile ku famba ka gondzo."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A roda de emergência reduzida destina-se unicamente a permitir a deslocação cautelosa até à oficina de pneus mais próxima, com velocidade restrita por lei a 80 km/h para preservar a estabilidade da viatura.",
+      "en": "Space-saver spares are engineered solely for short-distance limping to repair workshops at a regulated maximum speed ceiling of 80 km/h.",
+      "ch": "Vhilwa leri ritsongo ri vekeriwe ku ku fikisa ka garaji ntsena. A wu fanelanga ku tlula 80 km/h hikuva movha a wu tiyanga kahle."
+    }
+  },
+  {
+    "id": "mec-pne-007",
+    "grupo": "mec-pne-alinhamento-direcao",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 2,
+    "tags": ["alinhamento", "direcao", "desgaste-irregular"],
+    "pergunta": {
+      "pt": "Se ao circular em linha reta em estrada plana o volante tremer ou o carro puxar insistentemente para um dos lados ao largar ligeiramente as mãos:",
+      "en": "If driving in a straight line on a flat road, the steering wheel shakes or the car vigorously pulls to one side:",
+      "ch": "Loko u famba gondzweni ro ololoka u twa xiteringi xi tsekatseka kumbe movha wu kokela tlhelo rin’we:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_WHEEL_ALIGNMENT",
+      "alt": {
+        "pt": "Desalinhamento e descalibragem das rodas da direção",
+        "en": "Wheel misalignment and imbalance symptoms",
+        "ch": "Ku tsandzeka ku ringana ka mavhilwa"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "As rodas necessitam de alinhamento da direção ou calibragem/equilíbrio dos pneus, que quando defeituosos provocam desgaste irregular acelerado.",
+        "O condutor deve trocar de motor imediatamente.",
+        "É sinal de que a gasolina no depósito tem qualidade superior.",
+        "Significa que os travões foram lubrificados com graxa."
+      ],
+      "en": [
+        "The wheels require steering alignment or wheel balancing, which when faulty cause rapid asymmetric tread wear.",
+        "The driver should replace the car engine.",
+        "It proves the fuel in the tank is premium grade.",
+        "It indicates the brakes were greased."
+      ],
+      "ch": [
+        "Mavhilwa ma lava alinhamento kumbe calibragem; loko swi nga lulamisiwanga swi heta mavhilwa hi xihatla.",
+        "Injini yi lava ku cinciwa.",
+        "I xikombiso xa petroli ya kahle.",
+        "Travão yi totiwile mafurha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O puxar da direção indica desalinhamento das rodas ou pressão desigual entre os pneus. A vibração no volante a certas velocidades denota falta de calibração/balanceamento das rodas dianteiras.",
+      "en": "Steering pull stems from alignment defects or uneven tyre pressures. Wheel vibrations reveal unbalance requiring balancing counterweights.",
+      "ch": "Xiteringi xo koka xi komba ku kala alinhamento; ku tsekatseka ka xona xi komba ku kala calibragem ka mavhilwa ya phambheni."
+    }
+  },
+  {
+    "id": "mec-pne-008",
+    "grupo": "mec-pne-twi-indicador",
+    "variacao": 1,
+    "subtema": "pneus",
+    "dificuldade": 1,
+    "tags": ["twi", "indicador-desgaste", "limite-legal", "sulcos"],
+    "pergunta": {
+      "pt": "O que são e para que servem as marcas TWI (Tread Wear Indicator) gravadas no pneu?",
+      "en": "What are the TWI (Tread Wear Indicator) marks and what is their purpose?",
+      "ch": "I yini mfungho wa TWI lowu tsariweke ka mavhilwa naswona wu pfuna yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_TWI_MARK",
+      "alt": {
+        "pt": "Indicador de desgaste TWI nos canais do pneu",
+        "en": "Tread wear indicator TWI inside tyre groove",
+        "ch": "Mfungho wa TWI ka vhilwa"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "São pequenos ressaltos de borracha de 1,6 mm no fundo dos sulcos; quando a superfície do pneu fica ao nível desses ressaltos, o pneu atingiu o limite legal e deve ser trocado.",
+        "Indicam a data de fabrico do veículo e o nome do mecânico.",
+        "Servem para prender correntes de neve nas praias de Moçambique.",
+        "São pontos para pregar pregos em caso de emergência."
+      ],
+      "en": [
+        "They are 1.6 mm rubber bumps in the groove base; when tyre wear reaches their height, the legal limit is hit and replacement is compulsory.",
+        "They reveal the car manufacturing date and mechanic name.",
+        "They attach snow chains on Mozambique beaches.",
+        "They provide nail spots for emergencies."
+      ],
+      "ch": [
+        "I switsumburhana swa raba swa 1,6 mm ehansi ka mifulelo ya vhilwa; loko vhilwa ri fika ka swona ri fikile ka ndzilekani wa nawu, ri fanele ku cinciwa.",
+        "Swi komba siku leri movha wu endliweke.",
+        "Swi tlhoma tiketani ta ritshwa.",
+        "I ndhawu yo belela swipikiri."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Os ressaltos TWI têm exatamente 1,6 mm de altura. Se a borracha da banda de rodagem desgastar até ficar nivelada com esses ressaltos, o pneu já não drena água da chuva e é ilegal conduzir com ele.",
+      "en": "TWI bumps stand exactly 1.6 mm tall. When the tread wears flush with them, tyre water channeling ceases and the vehicle becomes legally unroadworthy.",
+      "ch": "Mfungho wa TWI wu pima 1,6 mm. Loko vhilwa ri helile ri fika laha, a ri ha koti ku chela mati ya mpfula ehandle, naswona u ta khomiwa hi maphorisa."
+    }
+  }
+]

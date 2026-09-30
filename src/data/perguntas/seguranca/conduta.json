@@ -1,0 +1,247 @@
+[
+  {
+    "id": "seg-con-001",
+    "grupo": "seg-con-telemovel",
+    "variacao": 1,
+    "subtema": "conduta",
+    "dificuldade": 1,
+    "tags": ["telemovel", "distracao", "infracao"],
+    "pergunta": {
+      "pt": "O uso de telemóvel (celular) durante a condução de veículos automóveis em Moçambique:",
+      "en": "Using a mobile phone while driving motor vehicles in Mozambique:",
+      "ch": "Ku tirhisa foni (selula) loko u chayela movha eMoçambique:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "CONDUTA_PHONE",
+      "alt": {
+        "pt": "Proibição do uso de telemóvel na condução",
+        "en": "Prohibition of handheld mobile phone while driving",
+        "ch": "Ku yirisiwa ka ku khoma foni loko u chayela"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "É expressamente proibido ao condutor manusear ou utilizar o telemóvel com as mãos, sendo permitido apenas sistema mãos-livres com microfone e altifalante.",
+        "É permitido para envio de mensagens de texto desde que circule a menos de 40 km/h.",
+        "É livre em todas as autoestradas com portagem.",
+        "Apenas é proibido se o condutor estiver a falar com passageiros dentro do carro."
+      ],
+      "en": [
+        "Is strictly prohibited handheld, permissible only via integrated hands-free speakerphone systems.",
+        "Is allowed for sending text messages provided vehicle speed is below 40 km/h.",
+        "Is unrestricted on all tolled motorways.",
+        "Is prohibited only if conversing with passengers inside the vehicle."
+      ],
+      "ch": [
+        "Swi yirisiwile swinene ku khoma foni hi mavoko loko u chayela; u nga vulavula ntsena hi michini ya manos-livres (moya).",
+        "Swi pfumeleriwa ku tsala SMS loko u famba katsanana.",
+        "Swi pfumeleriwa ka magondzo hinkwawo ya toll gate.",
+        "Swi yirisiwa ntsena loko u vulavula ni vanhu va le ndzeni."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O uso do telemóvel ao volante divide a atenção visual, cognitiva e manual, multiplicando por 4 o risco de colisão grave. É contra-ordenação com aplicação de multa e apreensão em caso de reincidência.",
+      "en": "Handheld phone use diverts visual, manual, and cognitive attention, quadrupling collision hazards. It carries substantial fines.",
+      "ch": "Ku tirhisa foni hi mavoko swi lahlekisela miehleketo ni ku vona, swi vanga timhangu to biha. Swi fayiwa multa leyikulu."
+    }
+  },
+  {
+    "id": "seg-con-002",
+    "grupo": "seg-con-transporte-criancas",
+    "variacao": 1,
+    "subtema": "conduta",
+    "dificuldade": 1,
+    "tags": ["criancas", "cadeirinha", "banco-frente"],
+    "pergunta": {
+      "pt": "Em relação ao transporte de crianças com menos de 12 anos em automóveis ligeiros:",
+      "en": "Regarding the transport of children under 12 years of age in passenger cars:",
+      "ch": "Mayelana ni ku fambisa vana lava nga ehansi ka 12 wa malembe eka mimovha leyitsongo:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "CONDUTA_CHILD_SEAT",
+      "alt": {
+        "pt": "Criança em cadeira de retenção no banco traseiro",
+        "en": "Child secured in rear safety restraint seat",
+        "ch": "N’wana a bohiwe ka xitulu xa ndzhaku"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Devem ser transportadas nos bancos traseiros utilizando sistema de retenção homologado (cadeirinha) e cinto adaptado à sua estatura e peso.",
+        "Podem viajar no colo do passageiro dianteiro sem cinto.",
+        "Podem viajar soltas no banco da frente desde que as portas estejam trancadas.",
+        "Devem viajar na bagageira ou caixa de carga para não desconcentrar o condutor."
+      ],
+      "en": [
+        "Must be transported in rear seats using approved child safety seats and belts adapted to their height and weight.",
+        "May ride on the front passenger's lap without a seat belt.",
+        "May sit unrestrained in the front seat as long as doors are locked.",
+        "Should ride in the luggage boot to prevent driver distraction."
+      ],
+      "ch": [
+        "Va fanele ku fambisiwa ka switulu swa le ndzhaku va bohiwile ka switulu swa vona (cadeirinhas) ni mabhandi lama va ringanaka.",
+        "Va nga tlhaveka exifuveni xa munhu loyi a nga phambheni.",
+        "Va nga tshama phambheni va nga bohiwanga.",
+        "Va fanele ku ya eka bagageira."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Crianças menores de 12 anos e de estatura inferior a 135 cm devem viajar obrigatoriamente no banco traseiro com dispositivo de retenção aprovado (cadeirinha de bebé ou assento elevatório) devidamente fixo.",
+      "en": "Children under 12 must travel secured in rear seats with certified child restraint systems calibrated to their build.",
+      "ch": "Vana lava nga si fiki 12 wa malembe va fanele ku tshama ndzhaku va bohiwa ka switulu swo hlayiseka leswaku va nga khomiwi hi khombo loko movha wu yima hi matimba."
+    }
+  },
+  {
+    "id": "seg-con-003",
+    "grupo": "seg-con-encandeamento-maximos",
+    "variacao": 1,
+    "subtema": "conduta",
+    "dificuldade": 1,
+    "tags": ["maximos", "medios", "encandeamento"],
+    "pergunta": {
+      "pt": "Ao cruzar-se de noite com outro veículo que transita em sentido oposto, que atitude deve tomar com os faróis?",
+      "en": "When meeting an oncoming vehicle at night, what headlight action must you take?",
+      "ch": "Loko u hlangana ni movha wun’wana nivusiku wu huma emahlweni, u fanele ku endla yini hi timboni (faróis)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "CONDUTA_HEADLIGHTS",
+      "alt": {
+        "pt": "Passagem de luzes de estrada (máximos) para luzes de cruzamento (médios)",
+        "en": "Switching high beams to low beams when meeting oncoming cars",
+        "ch": "Ku cinca timboni ta le henhla (máximos) ku ya ka letitsongo (médios)"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Mudar imediatamente as luzes de estrada (máximos) para luzes de cruzamento (médios) para não encandear nem cegar o condutor que se aproxima.",
+        "Manter os máximos e acelerar para ver melhor a faixa de rodagem.",
+        "Apagar totalmente os faróis durante o cruzamento.",
+        "Ligar as luzes de nevoeiro e buzinar demoradamente."
+      ],
+      "en": [
+        "Switch immediately from high beams to low beams to prevent blinding and dazzling the oncoming driver.",
+        "Keep high beams on and accelerate to illuminate the road better.",
+        "Extinguish headlights entirely while passing.",
+        "Turn on fog lamps and sound the horn persistently."
+      ],
+      "ch": [
+        "Cinca hi ku hatlisa timboni ta le henhla (máximos) ti ya ka letitsongo (médios) leswaku u nga twisi vusiwana kumbe ku dlayisa mahlo muchayeri loyi a taka.",
+        "Tshika timboni ta le henhla u tlhela u tsutsuma.",
+        "Tima timboni hinkwato loko ma hundzana.",
+        "Chaya timboni ta munhu ni buzina."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O encandeamento provocado pelos faróis de máximos cega momentaneamente o condutor que vem de frente, sendo causa de graves saídas de estrada e colisões frontais. A mudança para médios é obrigatória a pelo menos 100 metros de distância.",
+      "en": "High beam glare causes temporary flash blindness in oncoming drivers. Dimming to low beams is mandatory well before crossing paths.",
+      "ch": "Timboni ta le henhla ti fa mahlo ya muchayeri wa phambheni, swi vanga ku chaya vanhu kumbe ku luva gondzo. Swi boha ku cinca timboni ti ya ehansi."
+    }
+  },
+  {
+    "id": "seg-con-004",
+    "grupo": "seg-con-angulos-mortos",
+    "variacao": 1,
+    "subtema": "conduta",
+    "dificuldade": 2,
+    "tags": ["angulo-morto", "espelhos", "retrovisor"],
+    "pergunta": {
+      "pt": "O que são os chamados 'ângulos mortos' de um automóvel e como deve o condutor preveni-los antes de mudar de faixa?",
+      "en": "What are 'blind spots' in a motor vehicle and how should a driver check them prior to changing lanes?",
+      "ch": "I yini 'tindhawu leti nga vonakiki' (ângulos mortos) eka movha, naswona u ti vonisa ku yini u nga si cincelela gondzo?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "CONDUTA_BLIND_SPOT",
+      "alt": {
+        "pt": "Ilustração dos ângulos mortos ao redor da viatura",
+        "en": "Illustration of vehicle blind spots beside rear quarter panels",
+        "ch": "Tindhawu leti nga vonakiki eka swivoni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "São zonas ao redor da viatura que não são visíveis através dos espelhos retrovisores, devendo o condutor rodar brevemente a cabeça pelo ombro para confirmar antes da manobra.",
+        "São os cantos da caixa de velocidades onde o óleo não lubrifica.",
+        "São zonas de estacionamento onde os carros ficam invisíveis à polícia.",
+        "São buracos profundos que não se veem no pavimento molhado."
+      ],
+      "en": [
+        "Areas around the vehicle not visible in rear-view mirrors, requiring the driver to perform a quick shoulder check before maneuvering.",
+        "Corners of the gearbox where oil fails to lubricate.",
+        "Secret parking spots invisible to traffic police.",
+        "Deep potholes hidden under wet rainwater."
+      ],
+      "ch": [
+        "I tindhawu ta le matlhelo ka movha leti nga vonakiki eka swivoni (espelhos), laha muchayeri a faneleke ku langutanyana hi le katleni u nga si jika.",
+        "Makumu ya caixa de velocidades.",
+        "Tindhawu to tumbela maphorisa.",
+        "Minkhele ya le ndleleni leyi fihliweke hi mati."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Mesmo com espelhos bem regulados, há áreas laterais e traseiras que ficam ocultas. Olhar rapidamente por cima do ombro antes de mudar de via ou ultrapassar evita colisões com viaturas ou motociclos.",
+      "en": "Even properly adjusted mirrors leave lateral blind spots. A brief glance over the shoulder (shoulder check) is vital before lane changes.",
+      "ch": "Swivoni a swi koti ku vona hinkwaswo. Languta hi le kusuhi ka katla ka wena hi ku hatlisa u nga si hundza kumbe ku cincelela layini."
+    }
+  },
+  {
+    "id": "seg-con-005",
+    "grupo": "seg-con-fuga-acidente",
+    "variacao": 1,
+    "subtema": "conduta",
+    "dificuldade": 1,
+    "tags": ["acidente", "socorro", "omissao"],
+    "pergunta": {
+      "pt": "Um condutor envolvido num acidente de viação de que resultem mortos ou feridos tem a estrita obrigação de:",
+      "en": "A driver involved in a road traffic crash resulting in fatalities or injuries is legally bound to:",
+      "ch": "Muchayeri loyi a katsakanyekeke ka mhangu ya le gondzweni leyi nga vanga ku vaviseka kumbe rifu u boheka ku:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "CONDUTA_ACCIDENT_AID",
+      "alt": {
+        "pt": "Prestação obrigatória de socorro a sinistrados de viação",
+        "en": "Mandatory rendering of aid to road crash victims",
+        "ch": "Ku lamulela vanhu lava vavisetiweke hi mhangu"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Parar imediatamente no local, prestar ou providenciar socorro às vítimas, proteger o trânsito e avisar as autoridades competentes.",
+        "Abandonar rapidamente o local em fuga para evitar responsabilização e multa.",
+        "Remover as vítimas para longe da estrada e prosseguir a sua viagem sem avisar ninguém.",
+        "Negociar dinheiro com transeuntes para esconder a viatura."
+      ],
+      "en": [
+        "Stop immediately at the scene, render or summon aid for victims, secure traffic, and notify police authorities.",
+        "Flee the scene quickly to avoid liability and prosecution.",
+        "Move victims away from the road and proceed traveling without notifying authorities.",
+        "Bribe bystanders with money to conceal the vehicle."
+      ],
+      "ch": [
+        "Ku yima xikan’we, ku lamulela kumbe ku vitana vatirhi va xibedlhela (socorro) eka lava vavisekeke, ku sirhelela traffic ni ku tivisa maphorisa.",
+        "Ku tsutsuma a baleka leswaku a nga khomiwi.",
+        "Ku teka vavabyi a va lahla handle a famba.",
+        "Ku hakela vanhu mali leswaku va fihla movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A omissão de auxílio e a fuga do local do acidente constituem crime punível com pena de prisão e cassação da carta de condução segundo as leis de Moçambique.",
+      "en": "Failing to assist victims and hit-and-run constitute severe criminal offenses punishable by imprisonment and license revocation.",
+      "ch": "Ku baleka ka mhangu ya gondzo u siya vanhu va vavisekile i nandzu lowukulu wa vugevenga lowu ku yisaka jele ni ku susiwa carteira hi ku helela."
+    }
+  }
+]

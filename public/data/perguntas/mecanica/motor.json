@@ -1,0 +1,394 @@
+[
+  {
+    "id": "mec-mot-001",
+    "grupo": "mec-mot-nivel-oleo",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 1,
+    "tags": ["oleo", "vareta", "lubrificacao"],
+    "pergunta": {
+      "pt": "Como e quando deve ser verificado corretamente o nível de óleo do motor através da vareta de medição?",
+      "en": "How and when should engine oil level be properly checked using the dipstick?",
+      "ch": "Kambisisiwa njhani mafurha ya injini (óleo) hi ndlela leyinene hi ku tirhisa vareta?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_OIL_DIPSTICK",
+      "alt": {
+        "pt": "Vareta de medição de óleo entre as marcas Mínimo e Máximo",
+        "en": "Engine oil dipstick showing Min and Max level marks",
+        "ch": "Vareta ya mafurha ya injini exikarhi ka Min na Max"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Com o veículo em terreno plano, com o motor desligado e frio (ou repousado alguns minutos), devendo o nível estar entre as marcas 'MÍN' e 'MÁX'.",
+        "Com o motor a acelerar ao máximo a subir uma rampa íngreme.",
+        "Com a viatura inclinada e com a chave na ignição ligada.",
+        "Apenas quando o óleo começar a transbordar pelo tampão."
+      ],
+      "en": [
+        "With the vehicle parked on flat level ground, engine turned off and cold (or rested for several minutes), level sitting between 'MIN' and 'MAX' marks.",
+        "With the engine revving to maximum while climbing a steep incline.",
+        "With the vehicle tilted sideways and ignition switched on.",
+        "Only when oil starts spilling out of the filler neck cap."
+      ],
+      "ch": [
+        "Loko movha wu yime hansi laha ku pfumalekaka ku voyama, injini yi timiwile yi horile, mafurha ma fanele ku va exikarhi ka 'MIN' na 'MAX'.",
+        "Loko injini ya ha tsutsuma hi matimba u le ku gandeleni.",
+        "Loko movha wu voyamile hi tlhelo.",
+        "Loko mafurha se ma halakeka ehandle."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A medição do óleo requer solo plano e motor parado para que o óleo desça todo ao cárter. Retira-se a vareta, limpa-se com um pano limpo, insere-se novamente e verifica-se se a marca está entre o mínimo e o máximo.",
+      "en": "Oil checking requires level ground and a cold, resting engine so oil drains to the sump. Wipe dipstick clean, re-insert fully, and ensure film rests between MIN and MAX.",
+      "ch": "Yimisa movha lomu ku ololokeke, tima injini yi hola leswaku mafurha ma wela hansi ka cárter. Sula vareta hi lapi ro basa, yi tlhometele u tlhela u humesa u vona loko yi ri xikarhi ka MIN na MAX."
+    }
+  },
+  {
+    "id": "mec-mot-002",
+    "grupo": "mec-mot-luz-oleo",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 1,
+    "tags": ["luz-oleo", "pressao", "alerta-vermelho"],
+    "pergunta": {
+      "pt": "Se a luz avisadora vermelha com o símbolo de uma almotolia de óleo acender no painel de instrumentos em andamento:",
+      "en": "If the red warning light depicting an oil can illuminates on the instrument dashboard while driving:",
+      "ch": "Loko timboni to tshwuka ta ku fana ni xiketlele xa mafurha (óleo) ti tshiva ka painel movha wu ri karhi wu famba:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_OIL_WARNING",
+      "alt": {
+        "pt": "Luz avisadora da pressão de óleo no painel (cor vermelha)",
+        "en": "Engine oil pressure red warning lamp on cluster",
+        "ch": "Mboni yo tshwuka ya mafurha ka painel"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O condutor deve imobilizar imediatamente o veículo em segurança e desligar o motor de imediato, pois indica falta grave de pressão de óleo que pode fundir o motor.",
+        "Deve acelerar mais para empurrar o óleo até ao topo do motor.",
+        "Pode continuar viagem normalmente e verificar apenas na revisão do próximo ano.",
+        "Significa apenas que o ar condicionado precisa de gás."
+      ],
+      "en": [
+        "The driver must immediately pull over safely and shut off the engine, as it warns of severe loss of oil pressure which can seize the engine in seconds.",
+        "Floor the throttle harder to force oil up into the engine block.",
+        "Continue driving normally and verify during next year's maintenance service.",
+        "Simply indicates the air conditioning compressor needs refrigerant gas."
+      ],
+      "ch": [
+        "Muchayeri u fanele ku yimisa movha hi ku hatlisa lomu ku hlayisekeke a tima injini, hikuva swi komba ku lahlekeriwa hi matimba ya mafurha (pressão) leswi nga hisaka injini yi fa.",
+        "Gagamela pedale ku susumeta mafurha henhla.",
+        "Famba na swona u ya vona ka lembe leri taka.",
+        "Swi vula leswaku AC yi lava gasi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A luz da pressão de óleo é de emergência máxima (vermelha). Indica que a bomba não está a lubrificar as peças móveis. Continuar a rodar por meros segundos pode fundir as bielas e cambota.",
+      "en": "The red oil lamp denotes critical loss of hydraulic lubrication pressure. Running the engine without lubrication causes fatal mechanical seizure within moments.",
+      "ch": "Mboni yo tshwuka ya óleo i xitsundzuxo xa khombo lerikulu. Injini a ya ha kumi mafurha yo yi sula. Loko u nga timi xikan’we, injini yi ta faya yi fa hi ku hisa."
+    }
+  },
+  {
+    "id": "mec-mot-003",
+    "grupo": "mec-mot-radiador-tampa",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 1,
+    "tags": ["radiador", "temperatura", "queimaduras"],
+    "pergunta": {
+      "pt": "Porque NUNCA se deve abrir a tampa do reservatório de expansão ou do radiador com o motor quente ou a sobreaquecer?",
+      "en": "Why must you NEVER unscrew the coolant expansion tank cap or radiator cap while the engine is hot or overheating?",
+      "ch": "Ha yini swi NGA PFUMELERIWI ku pfula xipfalo xa radiador kumbe tanki ya mati injini ya ha hisa?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_RADIATOR_HOT",
+      "alt": {
+        "pt": "Perigo de queimaduras graves por vapor sob pressão no radiador",
+        "en": "Extreme scald hazard from pressurized boiling coolant in radiator",
+        "ch": "Khombo ro hisiwa hi mati yo virisa ya radiador"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Porque o circuito está sob alta pressão e o líquido fervente e vapor serão projetados violentamente para fora, provocando queimaduras graves no rosto e corpo.",
+        "Porque o radiador pode enferrujar instantaneamente em contacto com o oxigénio.",
+        "Porque apaga a programação do rádio do automóvel.",
+        "Porque provoca o esvaziamento imediato dos pneus dianteiros."
+      ],
+      "en": [
+        "Because the cooling circuit is under high pressure and boiling liquid/steam will erupt violently outward, causing catastrophic scalding burns to face and body.",
+        "Because the radiator will rust instantly upon contact with air.",
+        "Because it erases vehicle radio channel memory presets.",
+        "Because it instantly deflates both front tyres."
+      ],
+      "ch": [
+        "Hikuva mati ma le hansi ka pressure leyikulu ma virisa, ma ta buluka ma ku tlhava xikandza ni miri hi mati yo hisa ni musi, swi ku vanga timbanga to chavisa.",
+        "Hikuva radiador yi ta nwa moya yi bola.",
+        "Hikuva swi tima radio ya movha.",
+        "Hikuva mavhilwa ya phambheni ma ta pfaleka moya."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sistema de refrigeração trabalha pressurizado a temperaturas superiores a 90°C. Ao aliviar a tampa a quente, o líquido ferve instantaneamente e explode em forma de vapor escaldante.",
+      "en": "Engine cooling systems operate under sealed pressure above boiling point (90-105°C). Releasing the cap explosively depressurizes boiling coolant directly onto the operator.",
+      "ch": "Mati ya injini ma hisa ku tlula 90°C naswona ma le ndzeni ka pressure. Loko u pfula, mati ma buluka henhla ku fana ni xigwagwa ma hisa munhu swinene."
+    }
+  },
+  {
+    "id": "mec-mot-004",
+    "grupo": "mec-mot-fumo-escape",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 2,
+    "tags": ["escape", "fumo-azul", "diagnostico"],
+    "pergunta": {
+      "pt": "Se um motor a combustão expelir continuamente pelo tubo de escape um fumo azulado com cheiro característico a óleo queimado, o que indica?",
+      "en": "If an internal combustion engine steadily discharges bluish smoke from the exhaust pipe with a characteristic burnt oil odor, what does it indicate?",
+      "ch": "Loko movha wu humesa musi wa muvala wa wasi (azulado) ka escape wu nunhwaka mafurha lama tshwaka, swi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_EXHAUST_SMOKE",
+      "alt": {
+        "pt": "Fumo azulado no tubo de escape indicando queima de óleo do motor",
+        "en": "Bluish exhaust smoke indicating engine oil combustion in cylinders",
+        "ch": "Musi wa wasi lowu humaka ka escape ya movha"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Que o motor está a queimar óleo lubrificante nos cilindros, geralmente devido a desgaste acentuado nos segmentos dos êmbolos ou vedantes das válvulas.",
+        "Que a viatura está a consumir excesso de água limpa do limpa-para-brisas.",
+        "Que os travões traseiros estão novos e a amaciar.",
+        "Que a bateria está com carga acima de 100%."
+      ],
+      "en": [
+        "That lubricating oil is entering the combustion chambers, typically caused by worn piston rings or dried cylinder valve stem seals.",
+        "That the vehicle is burning windshield wiper washer fluid.",
+        "That brand new rear brake pads are currently breaking in.",
+        "That the vehicle battery is overcharged beyond 100%."
+      ],
+      "ch": [
+        "Swi komba leswaku injini yi le ku hiseni ka mafurha ya yona ya xikarhi (óleo) endzeni ka swivalelo hikwalaho ka ku hlakala ka tisegmentos kumbe tiválvulas.",
+        "Swi vula leswaku movha wu nwa mati ya fasitere.",
+        "Swi komba mavhilwa lamantshwa.",
+        "Bateria yi tele ngopfu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Fumo azul = queima de óleo (segmentos ou guias gastos). Fumo preto = excesso de combustível na mistura (filtro de ar entupido ou injetores). Fumo branco denso persistente = passagem de água da refrigeração pela junta da colaça.",
+      "en": "Blue smoke indicates burning engine oil (worn piston rings/seals). Black smoke means excess fuel rich mixture. Thick white sweet smoke signifies coolant leaking via blown head gasket.",
+      "ch": "Musi wa wasi = injini yi nwa óleo ya yona; Musi wa ntima = mafurha yo tala ngopfu ka injini; Musi wo basa lowukulu = mati ya radiador ma nghena ka injini."
+    }
+  },
+  {
+    "id": "mec-mot-005",
+    "grupo": "mec-mot-bateria-bornes",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 1,
+    "tags": ["bateria", "bornes", "arranque"],
+    "pergunta": {
+      "pt": "O que deve fazer o condutor se os bornes (terminais) da bateria do veículo apresentarem crostas esbranquiçadas ou esverdeadas de azinhavre (oxidação)?",
+      "en": "What maintenance should be performed if vehicle battery terminals accumulate crusty whitish/greenish sulfation oxidation?",
+      "ch": "U fanele ku endla yini loko tinhloko ta bateria (bornes) ti tele xirhendzevutana xo basa kumbe rihlaza xa xikwama (oxidação)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_BATTERY_TERMINALS",
+      "alt": {
+        "pt": "Bateria automóvel e bornes com terminal limpo",
+        "en": "Car battery terminals and maintenance inspection",
+        "ch": "Bateria ya movha ni tinhloko ta yona"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Limpar os bornes com água morna e escova metálica, apertar firmemente as abraçadeiras e aplicar vaselina pura ou massa consistente para proteger contra nova corrosão.",
+        "Cobrir os bornes com fita isoladora sem limpar a sujidade.",
+        "Verter meio litro de gasolina sobre a bateria com o motor em funcionamento.",
+        "Bater nos bornes com uma pedra pesada até partirem."
+      ],
+      "en": [
+        "Clean terminals with warm water and wire brush, secure clamps tightly, and apply petroleum jelly/grease to insulate against future corrosion.",
+        "Cover the crust with duct tape without removing debris.",
+        "Pour half a liter of gasoline over the battery while the motor is idling.",
+        "Pound the battery posts with heavy rocks until snapped."
+      ],
+      "ch": [
+        "Hlantswa tinhloko ta bateria hi mati yo kufumela ni buraso ya nsimbi, boha tinhloko ti tiya, u se u tota vaselina kumbe mafurha yo tiya ku sivela ku bola nakambe.",
+        "Fihla hi fitelapi u nga basisanga.",
+        "Chela petirolo henhla ka bateria movha wu ri karhi wu tirha.",
+        "Faya bateria hi ribye."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O azinhavre nos bornes da bateria isola a passagem da corrente elétrica, provocando falhas de arranque do motor e defeitos na carga pelo alternador. A limpeza regular com proteção de vaselina assegura boa condutividade.",
+      "en": "Lead sulfate crusting insulates electrical contacts, causing starting failures and poor alternator charging. Brushing and coating with petroleum jelly ensures high conductivity.",
+      "ch": "Xikwama eka tinhloko ta bateria xi sivela gezi ku famba, movha wu tsandzeka ku sungula (ku duma). Ku hlantswa ni ku tota vaselina swi tiyisa ku famba ka gezi."
+    }
+  },
+  {
+    "id": "mec-mot-006",
+    "grupo": "mec-mot-luz-bateria-alternador",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 1,
+    "tags": ["alternador", "bateria", "luz-painel", "eletrico"],
+    "pergunta": {
+      "pt": "Se a luz vermelha com o símbolo de uma bateria permanecer acesa no painel de instrumentos com o motor em funcionamento, o que significa?",
+      "en": "If the red battery symbol lamp remains illuminated on the dashboard while the engine is running, what does it signify?",
+      "ch": "Loko mboni yo tshwuka ya bateria yi tshama yi tshivile ka painel movha wu ri karhi wu famba, swi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_BATTERY_LAMP",
+      "alt": {
+        "pt": "Luz avisadora da bateria / alternador no painel",
+        "en": "Battery alternator warning light",
+        "ch": "Mboni ya bateria ka painel"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Que o alternador não está a carregar a bateria (possível quebra da correia do alternador ou avaria elétrica no circuito).",
+        "Que a bateria está 100% cheia e deve ser desligada da viatura.",
+        "Que as lâmpadas dos faróis de máximos se encontram fundidas.",
+        "Que o condutor deve acelerar ao máximo para carregar mais depressa."
+      ],
+      "en": [
+        "That the alternator is not charging the battery (possible broken alternator belt or circuit failure).",
+        "That the battery is 100% charged and should be disconnected.",
+        "That the high-beam headlamp bulbs are blown.",
+        "That the driver must rev the engine to maximum to charge faster."
+      ],
+      "ch": [
+        "Alternador a yi le ku cheleni gezi ka bateria (kumbexana bhandi ra alternador ri file).",
+        "Bateria yi tele 100%.",
+        "Timboni ta timovha ti file.",
+        "U fanele ku tsutsumisa ngopfu movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A luz da bateria acesa com o motor a trabalhar avisa que o alternador não está a gerar corrente para recarregar a bateria. O carro consumirá a reserva da bateria até desligar subitamente em poucos quilómetros.",
+      "en": "A glowing battery lamp during driving indicates alternator failure. The vehicle is running exclusively off battery reserve, which will deplete rapidly.",
+      "ch": "Loko mboni ya bateria yi tshiva, alternador a yi le ku tirheni. Movha wu ta tima xikan’we loko gezi leri nga sala ka bateria ri hela."
+    }
+  },
+  {
+    "id": "mec-mot-007",
+    "grupo": "mec-mot-sobreaquecimento",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 2,
+    "tags": ["temperatura", "sobreaquecimento", "radiador", "junta-colaca"],
+    "pergunta": {
+      "pt": "Durante a marcha, o ponteiro da temperatura do motor sobe para a zona vermelha e acende o termómetro de sobreaquecimento. Qual é a conduta correta?",
+      "en": "While driving, the engine coolant gauge spikes into the red zone and temperature warning lights up. What is the correct action?",
+      "ch": "Loko pointer ya ku hisa ka injini yi ya ka ndhawu yo tshwuka (sobreaquecimento), u fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_TEMP_RED",
+      "alt": {
+        "pt": "Luz avisadora de temperatura do motor no vermelho",
+        "en": "Engine temperature red indicator",
+        "ch": "Ku hisa ka injini ka painel"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Imobilizar o veículo em local seguro assim que possível, desligar o motor e deixar arrefecer sem nunca abrir o radiador a quente.",
+        "Continuar a marcha em alta velocidade para que o vento exterior arrefeça o motor.",
+        "Abrir de imediato a tampa do radiador com as mãos desprotegidas.",
+        "Deitar água gelada diretamente sobre o bloco do motor a ferver."
+      ],
+      "en": [
+        "Pull over safely as soon as possible, turn off engine, and allow it to cool down without ever opening the hot radiator.",
+        "Keep driving at high speed so outside airflow cools the engine.",
+        "Immediately twist off the radiator cap with bare hands.",
+        "Pour ice water directly over the red-hot engine cylinder block."
+      ],
+      "ch": [
+        "Yimisa movha hi vuhlayiseki, tima injini u yi tshika yi hora handle ko pfula tampa ya radiador leyi hisaka.",
+        "Tsutsuma ngopfu leswaku moya wu horisa injini.",
+        "Pfula tampa ya radiador hi mavoko ma hisa.",
+        "Chela mati yo titimela ka injini leyi hisaka."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Sobreaquecimento excessivo queima a junta da colaça e deforma o bloco do motor. Deve-se parar e desligar a viatura. Nunca se abre a tampa do radiador com o motor a ferver, sob risco de explosão de vapor pressurizado e queimaduras graves.",
+      "en": "Severe overheating warps the cylinder head and blows the head gasket. Stop and cut ignition immediately. Opening a boiling radiator causes dangerous steam explosions.",
+      "ch": "Loko injini yi hisa ngopfu yi nga faya. Yima u tima movha. U nga tshuki u pfula radiador yi hisa, mati ma nga ku hisa mavoko ni xikandza!"
+    }
+  },
+  {
+    "id": "mec-mot-008",
+    "grupo": "mec-mot-liquido-refrigeracao",
+    "variacao": 1,
+    "subtema": "motor",
+    "dificuldade": 1,
+    "tags": ["liquido-refrigeracao", "vaso-expansao", "anticongelante"],
+    "pergunta": {
+      "pt": "Onde deve ser verificado o nível do líquido de refrigeração do motor e qual deve ser o seu estado?",
+      "en": "Where should the engine coolant level be inspected and what condition should it meet?",
+      "ch": "Mati ya ku horisa injini ma kamberiwa kwihi naswona ma fanele ku va njhani?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "MECH_COOLANT_TANK",
+      "alt": {
+        "pt": "Depósito do líquido de refrigeração (vaso de expansão)",
+        "en": "Engine coolant expansion tank",
+        "ch": "Bokisi ra mati ya radiador (vaso de expansão)"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "No depósito transparente de expansão com o motor frio, devendo o líquido estar situado entre os limites MÍN e MÁX.",
+        "No tubo de escape com o motor em aceleração contínua.",
+        "Dentro da caixa de velocidades com o carro engrenado em ponto-morto.",
+        "No reservatório do limpa-para-brisas com detergente de vidros."
+      ],
+      "en": [
+        "In the translucent expansion bottle with a cold engine, situated strictly between MIN and MAX marks.",
+        "Inside the exhaust tailpipe while revving engine.",
+        "Inside the gearbox while shifted in neutral.",
+        "In the windshield washer tank with detergent."
+      ],
+      "ch": [
+        "Eka xibye xo vonikela xa vaso de expansão injini yi horile, mati ma va exikarhi ka MIN na MAX.",
+        "Eka scape ya movha.",
+        "Endzeni ka caixa de velocidades.",
+        "Eka mati yo hlantswa mivoni."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O controlo do líquido refrigerante (mistura de água desmineralizada e anticongelante/anticorrosivo) faz-se no vaso de expansão semitransparente, com o motor frio e em piso plano, entre as marcas MÍN e MÁX.",
+      "en": "Engine coolant inspections are done on level ground with a cold engine via the transparent expansion reservoir markings (between MIN and MAX).",
+      "ch": "Kambela mati eka xibye xo vonikela injini yi horile. Mati ma fanele ku tshama exikarhi ka MIN na MAX."
+    }
+  }
+]

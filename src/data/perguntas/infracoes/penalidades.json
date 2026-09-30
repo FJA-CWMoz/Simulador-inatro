@@ -1,0 +1,394 @@
+[
+  {
+    "id": "inf-pen-001",
+    "grupo": "inf-pen-taxa-alcool",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 1,
+    "tags": ["alcool", "alcoolemia", "limite-legal"],
+    "pergunta": {
+      "pt": "Conduzir com taxa de álcool no sangue superior ao limite legal permitido pelo Código da Estrada moçambicano resulta em:",
+      "en": "Driving with a blood alcohol concentration exceeding the statutory limit in Mozambique results in:",
+      "ch": "Ku chayela movha u nwe byala lebyi tlulaka mpimo lowu pfumeleriweke eMoçambique swi vanga yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_ALCOHOL_TEST",
+      "alt": {
+        "pt": "Teste de alcoolemia por bafómetro / ar expirado",
+        "en": "Breathalyzer alcohol testing on road checkpoint",
+        "ch": "Xikambelo xa byala (bafómetro) egondzweni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aplicação de multa pesada, inibição de conduzir (apreensão da carta) e eventual detenção criminal se a taxa for muito elevada.",
+        "Apenas uma advertência verbal amigável para beber café.",
+        "Um desconto na próxima taxa de circulação do veículo.",
+        "Obrigação de lavar viaturas policiais durante duas horas."
+      ],
+      "en": [
+        "Heavy financial fine, driver's license suspension/confiscation, and criminal arrest if the level reaches severe intoxication.",
+        "A friendly verbal caution to go drink coffee.",
+        "A rebate discount on next year's road circulation fee.",
+        "Obligation to wash police cruisers for two hours."
+      ],
+      "ch": [
+        "Ku fayiwa multa leyikulu swinene, ku tekeriwa carteira ni ku pfaleriwa ejele loko byala byi tlula mpimo swinene.",
+        "Ku tsundzuxiwa hi nomu u ya nwa kofi.",
+        "Ku hunguteriwa mariha ya road tax.",
+        "Ku basisa mimovha ya maphorisa."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A condução sob efeito de álcool é uma das maiores causas de mortalidade nas estradas de Moçambique. É punida com coima elevada e inibição temporária ou definitiva de conduzir, constituindo crime público quando atinge taxas críticas.",
+      "en": "Drunk driving is severely sanctioned under Mozambican law with hefty fines, license disqualification, and immediate jail time above criminal thresholds.",
+      "ch": "Byala byi dlaya vanhu vo tala emagondzweni. Nawu wu tsitsirita: u hakela multa leyikulu, va teka carteira ya wena, u tlhela u pfaleriwa ejele."
+    }
+  },
+  {
+    "id": "inf-pen-002",
+    "grupo": "inf-pen-recusa-bafometro",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 1,
+    "tags": ["recusa", "bafometro", "desobediencia"],
+    "pergunta": {
+      "pt": "Qual é a consequência legal para o condutor que se recusa a soprar o bafómetro ou a submeter-se ao exame de deteção de álcool?",
+      "en": "What is the legal consequence for a driver who refuses to blow into the breathalyzer or submit to an alcohol screening test?",
+      "ch": "Ku humelela yini hi ku ya hi nawu loko muchayeri a ala ku hefemula ka bafómetro (xikambela byala)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_REFUSAL",
+      "alt": {
+        "pt": "Recusa de teste de alcoolemia e crime de desobediência",
+        "en": "Breathalyzer test refusal and crime of disobedience",
+        "ch": "Ku ala ku kamberiwa byala ni nandzu wa desobediência"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Incorre imediatamente em crime de desobediência qualificada, sendo detido e punido com as sanções agravadas correspondentes à taxa máxima de alcoolemia.",
+        "É dispensado da fiscalização e pode seguir viagem imediatamente.",
+        "Paga uma taxa simbólica de estacionamento e continua a conduzir.",
+        "O agente policial é obrigado a pedir desculpas ao condutor."
+      ],
+      "en": [
+        "Immediately incurs criminal prosecution for disobedience, is detained, and faces the maximum aggravated penalties applicable to the highest alcohol tier.",
+        "Is exempted from the checkpoint and permitted to drive on immediately.",
+        "Pays a symbolic token fee and proceeds driving unhindered.",
+        "The police officer is required to apologize to the driver."
+      ],
+      "ch": [
+        "U wela ka nandzu wa vugevenga wa ku ala ku yingisa mfumo (desobediência), a khomiwa a pfaleriwa a tlhela a tekeriwa swilo hinkwaswo ku fana ni loyi a nweke byala byo tlula mpimo.",
+        "A tsundzuxiwa a famba.",
+        "A hakela mali yitsongo a famba.",
+        "Phorisa ri n’wi kombelela rivalelo."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A recusa em realizar os testes de álcool ou substâncias psicotrópicas constitui crime de desobediência nos termos da lei penal e rodoviária, implicando detenção imediata e a sanção máxima prevista.",
+      "en": "Refusal to take legally mandated breath or blood alcohol tests is a criminal offense of disobedience, resulting in arrest and maximum penalty application.",
+      "ch": "Ku ala xikambelo xa byala a swi ku ponisi; swi ku vanga nandzu wa ku delela nawu, maphorisa ma ku khoma ma ku pfalela xikan’we."
+    }
+  },
+  {
+    "id": "inf-pen-003",
+    "grupo": "inf-pen-sem-carta",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 1,
+    "tags": ["sem-carta", "habilitacao", "crime"],
+    "pergunta": {
+      "pt": "Conduzir um veículo automóvel na via pública sem nunca ter obtido carta de condução ou título de habilitação legal constitui:",
+      "en": "Driving a motor vehicle on public roads without ever having obtained a driving license or legal qualification constitutes:",
+      "ch": "Ku chayela movha egondzweni u nga ri na carteira naswona u nga si tshama u yi kuma swi tekiwa njhani?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_NO_LICENSE",
+      "alt": {
+        "pt": "Condução ilegal sem habilitação legal",
+        "en": "Illegal driving without a driver's license",
+        "ch": "Ku chayela handle ka carteira"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Crime de condução ilegal/sem habilitação, punido com pena de prisão e/ou multa pesada, com apreensão imediata da viatura.",
+        "Uma mera falta administrativa regularizável em 30 dias com desconto.",
+        "Uma prática comum autorizada desde que tenha mais de 18 anos.",
+        "Motivo para receber uma carta de condução gratuita do tribunal."
+      ],
+      "en": [
+        "Criminal offense of unlicensed driving, punished with imprisonment and/or heavy fines, and immediate vehicle impoundment.",
+        "A minor administrative oversight redeemable within 30 days with discounts.",
+        "An accepted practice as long as the driver is aged 18 or above.",
+        "A reason to receive a free driving license from the court."
+      ],
+      "ch": [
+        "I nandzu wa vugevenga wo chayela handle ka mpfumelelo, lowu xupuriwaka hi jele kumbe multa leyikulu, movha wu tekiwa hi maphorisa.",
+        "I xihoxonyana lexi u nga xi lulamisaka hi ku rhula.",
+        "Swi pfumeleriwa loko u ri na 18 wa malembe.",
+        "Khuvo ro nyikiwa carteira mahala hi khoto."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A condução sem carta de condução é crime em Moçambique. O veículo é imediatamente apreendido e o condutor é detido e encaminhado para tribunal para julgamento sumário.",
+      "en": "Unlicensed driving is a serious criminal act in Mozambique. Vehicles are impounded on the spot and offenders are placed under arrest for court trial.",
+      "ch": "Ku chayela handle ka carteira a hi xihoxonyana ntsena, i nandzu wa le khoto. Movha wu khomiwa naswona muchayeri a yisiwa jele ku ya tengisiwa."
+    }
+  },
+  {
+    "id": "inf-pen-004",
+    "grupo": "inf-pen-inibicao-conduzir",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 2,
+    "tags": ["inibicao", "suspensao", "carta"],
+    "pergunta": {
+      "pt": "Em que consiste a sanção acessória de 'Inibição de Conduzir'?",
+      "en": "What does the accessory sanction of 'Driving Prohibition/Disqualification' consist of?",
+      "ch": "Xana xupuro xa 'Ku yirisiwa ku chayela' (Inibição de Conduzir) xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_SUSPENSION",
+      "alt": {
+        "pt": "Suspensão temporária do direito de conduzir veículos a motor",
+        "en": "Temporary driving license suspension banner",
+        "ch": "Ku yirisiwa ku chayela ka nkarhinyana"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "A proibição legal temporária de conduzir veículos a motor por um período determinado (de 1 mês a vários anos), devendo a carta ser entregue às autoridades.",
+        "A obrigação de conduzir exclusivamente no banco de trás da viatura.",
+        "A obrigação de circular apenas a 10 km/h em todas as estradas.",
+        "A perda definitiva dos documentos de nascimento do condutor."
+      ],
+      "en": [
+        "A temporary legal ban on driving motor vehicles for a specified term (ranging from 1 month to several years), requiring surrendering the license.",
+        "The obligation to drive solely while seated in the back seat.",
+        "A mandate to travel exclusively at 10 km/h on all roads.",
+        "Permanent forfeiture of the driver's birth certificate."
+      ],
+      "ch": [
+        "Ku yirisiwa hi nawu ku fambisa movha wa njini eka nkarhi wo karhi (ku sukela ka nhweti yin’we ku ya ka malembe), carteira yi fanele ku nyikeriwa eka maphorisa.",
+        "Ku sindzisiwa ku chayela u tshame ndzhaku.",
+        "Ku famba hi 10 km/h emagondzweni hinkwawo.",
+        "Ku lahlekeriwa hi xitifiketi xa ku velekiwa."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A inibição de conduzir é aplicada nas contra-ordenações graves (1 a 12 meses) e muito graves (2 meses a 2 anos ou mais). Conduzir durante o período de inibição é crime de desobediência qualificada.",
+      "en": "Driving bans accompany serious (1-12 months) and very serious (2-24+ months) offenses. Driving while suspended constitutes a criminal offense.",
+      "ch": "Loko u yirisiwile ku chayela, carteira ya wena yi tshama eka mfumo. Loko u phikelela u chayela u yirisiwile, u ta nghena ejele xikan’we."
+    }
+  },
+  {
+    "id": "inf-pen-005",
+    "grupo": "inf-pen-prazo-pagamento",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 2,
+    "tags": ["multa", "prazo", "recurso", "notificacao"],
+    "pergunta": {
+      "pt": "Após ser notificado do auto de notícia de uma contra-ordenação rodoviária, o que pode o condutor fazer?",
+      "en": "Upon being served a traffic violation citation ticket, what course of action may the driver take?",
+      "ch": "Endzhaku ka loko muchayeri a nyikiwile papila ra multa (auto de notícia), u na fanelo yihi hi ku ya hi nawu?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_FINE_TICKET",
+      "alt": {
+        "pt": "Auto de contra-ordenação rodoviária e prazos legais",
+        "en": "Traffic violation ticket and legal deadlines",
+        "ch": "Papila ra multa ni nkarhi wa ku hakela kumbe ku vilela"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Pagar a coima voluntariamente no prazo legal estabelecido ou apresentar defesa escrita (recurso) fundamentada junto da autoridade competente.",
+        "Rasgar o papel imediatamente em frente ao agente policial.",
+        "Publicar a foto da multa nas redes sociais sem qualquer procedimento legal.",
+        "Mudar de residência para outro país para anular a dívida."
+      ],
+      "en": [
+        "Pay the fine voluntarily within the statutory deadline or file a reasoned written defense/appeal with the competent authority.",
+        "Tear up the ticket immediately in front of the police officer.",
+        "Post the ticket photo on social media without taking any legal action.",
+        "Emigrate to another country to void the pending fine."
+      ],
+      "ch": [
+        "Ku hakela multa hi ku tirhandzela eka nkarhi lowu vekiweke kumbe ku tsala papila ra ku vilela (recurso) eka vahlayisi va nawu loko a vona a nga dyohelanga.",
+        "Ku handzula papila emahlweni ka phorisa.",
+        "Ku tlhoma xifaniso ka Facebook handle ko teka goza.",
+        "Ku balekela tiko rimbe ku balekela multa."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O cidadão tem garantido o direito de pagar a multa voluntariamente ou contestar os factos através de recurso administrativo fundamentado no prazo legal indicado na notificação.",
+      "en": "Citizens hold constitutional rights to settle the fine voluntarily or lodge a formal administrative defense within the specified statutory period.",
+      "ch": "Muchayeri u na mfanelo yo hakela kumbe ku tsala papila ro tibyela (recurso) loko a tiyiseka leswaku a nga tlulanga nawu, a ri yisa eka valanguteri va trânsito."
+    }
+  },
+  {
+    "id": "inf-pen-006",
+    "grupo": "inf-pen-omissao-auxilio",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 2,
+    "tags": ["omissao-auxilio", "acidente", "crime", "prisao"],
+    "pergunta": {
+      "pt": "O condutor interveniente num acidente de viação que abandone o local sem prestar ou providenciar socorro a vítimas feridas comete:",
+      "en": "A driver involved in a traffic accident who abandons the scene without providing or seeking aid for injured victims commits:",
+      "ch": "Muchayeri loyi a vangelaka mhangu a baleka handle ko pfuna vanhu lava vavaliweke u vanga yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_HIT_AND_RUN",
+      "alt": {
+        "pt": "Abandono de sinistro e omissão de auxílio",
+        "en": "Hit and run / failure to assist victims",
+        "ch": "Ku balekela mhangu ya movha"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Um crime de omissão de auxílio punível com pena de prisão e sanção acessória de inibição de conduzir.",
+        "Apenas uma infração leve punida com admoestação verbal.",
+        "Um procedimento normal se o condutor estiver com pressa para chegar ao trabalho.",
+        "Uma contraordenação simples com redução de 10% no imposto de circulação."
+      ],
+      "en": [
+        "The crime of failure to provide assistance, punishable by imprisonment and mandatory driving disqualification.",
+        "Only a minor infraction punishable by verbal reprimand.",
+        "An acceptable procedure if the driver is in a hurry to get to work.",
+        "A simple violation with a 10% road tax discount."
+      ],
+      "ch": [
+        "Nandzu lowukulu wa vugevenga wa ku tsutsuma mhangu, wu yisaka ejele ni ku tekeriwa carteira hi ku helela.",
+        "Xidyoho xitsongo xo layiwa hi nomo ntsena.",
+        "Swi pfumeleriwa loko muchayeri a tsutsumela entirhweni.",
+        "I multa yitsongo ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Abandonar o local de um acidente com feridos sem prestar socorro é crime grave tipificado na lei moçambicana (omissão de auxílio), implicando procedimento criminal com pena de prisão efetiva e perda da carta de condução.",
+      "en": "Leaving the scene of an injury accident without rendering assistance is a major crime under Mozambican law, carrying prison sentences and license revocation.",
+      "ch": "Ku baleka lomu ku nga ni mhangu ku vavaliwe vanhu i nandzu wa le khoto lowu yisaka ejele ni ku dlaya carteira!"
+    }
+  },
+  {
+    "id": "inf-pen-007",
+    "grupo": "inf-pen-falta-seguro",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 1,
+    "tags": ["seguro", "apreensao", "veiculo", "fiscalizacao"],
+    "pergunta": {
+      "pt": "O que acontece ao veículo automóvel que seja fiscalizado a circular na via pública sem seguro obrigatório de responsabilidade civil válido?",
+      "en": "What happens to a motor vehicle caught traveling on public roads without valid third-party insurance?",
+      "ch": "Ku humelela yini eka movha lowu fambaka handle ka Seguro (Inxuranse) leyi tirhaka?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_SEIZE_CAR",
+      "alt": {
+        "pt": "Apreensão do veículo por falta de seguro",
+        "en": "Vehicle impoundment for lack of insurance",
+        "ch": "Ku kokiwa ka movha hi maphorisa"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O veículo é imediatamente apreendido pelas autoridades policiais e o proprietário autuado com pesada coima.",
+        "O condutor recebe um aviso verbal para regularizar o seguro no prazo de seis meses.",
+        "O veículo pode continuar a circular desde que ligue as luzes de emergência.",
+        "O condutor tem apenas de pagar uma taxa de portagem adicional."
+      ],
+      "en": [
+        "The vehicle is immediately seized/impounded by police and the owner slapped with a heavy fine.",
+        "The driver receives a verbal warning to obtain insurance within six months.",
+        "The vehicle may continue circulating provided hazard lights remain on.",
+        "The driver only needs to pay an extra toll fee."
+      ],
+      "ch": [
+        "Movha wu tekiwa wu kokiwa xikan’we hi maphorisa kutani n’wini a biwa hi multa leyikulu swinene.",
+        "Muchayeri u tsundzuxiwa ku endla seguro endzhaku ka 6 wa tinhweti.",
+        "Movha wu famba loko wu tshive 4 wa ti pisca.",
+        "Ku hakela portagem yo engetela ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Circular sem o seguro de responsabilidade civil obrigatório determina a apreensão imediata do veículo até que o seguro seja contratado e a coima devida seja liquidada.",
+      "en": "Driving without mandatory liability insurance leads to instant impoundment of the vehicle until insurance is secured and all fines paid.",
+      "ch": "Ku famba handle ka Seguro swi vanga ku kokiwa ka movha xikan’we hi maphorisa wu pfaleriwa!"
+    }
+  },
+  {
+    "id": "inf-pen-008",
+    "grupo": "inf-pen-estupefacientes",
+    "variacao": 1,
+    "subtema": "penalidades",
+    "dificuldade": 2,
+    "tags": ["drogas", "substancias-psicotropicas", "infracao-muito-grave"],
+    "pergunta": {
+      "pt": "A condução sob influência de substâncias legalmente consideradas estupefacientes ou psicotrópicas (drogas) é classificada como:",
+      "en": "Driving under the influence of narcotic drugs or psychotropic substances is classified as:",
+      "ch": "Ku chayela u dzehe mbangi kumbe mirhi ya ku dlaya nhloko (swidzidziharisi) swi tekiwa njhani?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PENAL_DRUGS_CHECK",
+      "alt": {
+        "pt": "Fiscalização de substâncias psicotrópicas",
+        "en": "Psychotropic drugs screening check",
+        "ch": "Xikambelo xa swidzidziharisi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Uma contraordenação muito grave, com inibição de conduzir de 2 meses a 2 anos, além de eventual responsabilidade criminal.",
+        "Uma infração leve, desde que a substância tenha sido consumida há mais de 2 horas.",
+        "Uma situação irrelevante para o trânsito se a viatura estiver em perfeito estado mecânico.",
+        "Um comportamento permitido exclusivamente a condutores profissionais de longo curso."
+      ],
+      "en": [
+        "A very serious traffic offense with license disqualification from 2 months to 2 years, plus potential criminal charges.",
+        "A light offense if the substance was consumed over 2 hours earlier.",
+        "An irrelevant situation if vehicle mechanics are sound.",
+        "Permitted behavior exclusively for long-haul commercial drivers."
+      ],
+      "ch": [
+        "I nandzu lowukulu swinene lowu sivelaka ku chayela ku suka ka 2 tinhweti ku ya ka 2 wa malembe ni ku yisiwa ejele.",
+        "Xidyoho xitsongo loko u nwe khale.",
+        "A swi na mhaka loko movha wu tiyile.",
+        "Swi pfumeleriwa ka machayeri ya kule ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Conduzir sob efeito de drogas ou psicotrópicos anula os reflexos e altera a perceção da realidade. É contraordenação muito grave com inibição de conduzir até 2 anos e responsabilidade penal.",
+      "en": "Operating a motor vehicle under the influence of narcotics impairs cognitive reflexes; it is a very serious infraction with driving disqualification up to 2 years.",
+      "ch": "Ku chayela u dzehe swidzidziharisi swi dlaya nhloko; i nandzu lowukulu swinene lowu ku yirisaka ku chayela ku ya fika 2 wa malembe."
+    }
+  }
+]

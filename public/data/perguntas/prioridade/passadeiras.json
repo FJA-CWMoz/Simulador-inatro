@@ -1,0 +1,394 @@
+[
+  {
+    "id": "prio-pas-001",
+    "grupo": "prio-pas-peao-travessia",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 1,
+    "tags": ["passadeira", "peoes", "prioridade"],
+    "pergunta": {
+      "pt": "Ao aproximar-se de uma passagem para peões (passadeira) devidamente assinalada, onde um peão iniciou ou manifesta intenção de iniciar a travessia:",
+      "en": "When approaching a marked pedestrian crossing where a pedestrian has begun or clearly indicates intention to begin crossing:",
+      "ch": "Loko u tshinela ka passadeira (ndlela ya vafambi va milenge) laha munhu a sungulaka kumbe a lavaka ku tsemakanya:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_PEAO",
+      "alt": {
+        "pt": "Peão a atravessar a passadeira com viatura a parar",
+        "en": "Pedestrian crossing road on zebra crossing as vehicle stops",
+        "ch": "Mufambi wa milenge a tsemakanya ka passadeira"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O condutor deve reduzir a velocidade e, se necessário, parar para dar passagem ao peão.",
+        "O condutor tem prioridade e deve buzinar para que o peão recue para o passeio.",
+        "O condutor só tem de parar se o peão estiver acompanhado por agente da autoridade.",
+        "O condutor deve acelerar para passar antes que o peão chegue à sua faixa."
+      ],
+      "en": [
+        "The driver must reduce speed and, if necessary, stop to yield right-of-way to the pedestrian.",
+        "The driver has right of way and should honk so the pedestrian steps back onto the pavement.",
+        "The driver only stops if the pedestrian is accompanied by a police officer.",
+        "The driver should accelerate to pass before the pedestrian reaches the lane."
+      ],
+      "ch": [
+        "Muchayeri u fanele ku hunguta rivengo, a tlhela a yima loko swi laveka ku nyika ndlela mufambi wa milenge.",
+        "Muchayeri u na fanelo yo rhangela a ba buzina leswaku munhu a tlhelela.",
+        "U yima ntsena loko ku ri ni phorisa kusuhi.",
+        "U fanele ku tsutsuma leswaku a rhangela mufambi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Nas passadeiras não reguladas por semáforos nem agentes, os peões têm prioridade absoluta de passagem sobre todos os veículos motorizados.",
+      "en": "At marked zebra crossings devoid of traffic signals or officers, pedestrians hold absolute priority over motorized traffic.",
+      "ch": "Eka passadeira leyi nga riki na semáforo, vafambi va milenge va na fanelo yo rhangela mimovha hinkwayo."
+    }
+  },
+  {
+    "id": "prio-pas-002",
+    "grupo": "prio-pas-ultrapassagem-proibida",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 1,
+    "tags": ["passadeira", "ultrapassagem", "perigo"],
+    "pergunta": {
+      "pt": "É permitido ultrapassar outro veículo imediatamente antes ou sobre uma passagem para peões?",
+      "en": "Is it permitted to overtake another vehicle immediately before or upon a pedestrian crossing?",
+      "ch": "Swi pfumeleriwa ku hundzana ni movha wun’wana kusuhi kumbe henhla ka passadeira?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_NO_OVERTAKE",
+      "alt": {
+        "pt": "Veículo ultrapassando junto a passadeira (manobra proibida)",
+        "en": "Vehicle overtaking at pedestrian zebra crossing (prohibited)",
+        "ch": "Ku hundzana kusuhi ni passadeira (swi yirisiwile)"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Não, é expressamente proibido ultrapassar imediatamente antes ou sobre as passadeiras de peões.",
+        "Sim, desde que a ultrapassagem seja feita pela berma direita.",
+        "Sim, se o condutor buzinar com três toques curtos.",
+        "Apenas é permitido no período da noite com iluminação fraca."
+      ],
+      "en": [
+        "No, overtaking immediately before or upon pedestrian crossings is strictly forbidden.",
+        "Yes, provided the maneuver takes place along the right shoulder.",
+        "Yes, if the driver sounds the horn three quick times.",
+        "Permitted only at night under poor street lighting."
+      ],
+      "ch": [
+        "E-e, swi yirisiwile swinene ku hundza movha wun’wana emahlweni kumbe henhla ka passadeira.",
+        "Ina, loko u famba hi le xilungwini xa le tlhelo.",
+        "Ina, loko u ba buzina kanharhu.",
+        "Nivusiku ntsena loko ku ri ni munyama."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A ultrapassagem imediatamente antes ou sobre passadeiras é uma infração grave porque o veículo ultrapassado tapa a visibilidade sobre peões que estejam a atravessar.",
+      "en": "Overtaking before or on crossings blinds drivers to pedestrians obscured by the vehicle being passed, posing fatal danger.",
+      "ch": "Movha lowu u lavaka ku wu hundza wu nga ku fihlela vanhu lava tsemakanyaka. Swi yirisiwe swinene hi nawu."
+    }
+  },
+  {
+    "id": "prio-pas-003",
+    "grupo": "prio-pas-fila-transito",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 2,
+    "tags": ["congestionamento", "passadeira", "paragem"],
+    "pergunta": {
+      "pt": "Em situação de trânsito lento ou congestionamento ('engarrafamento'), o que deve fazer se a fila parar junto a uma passadeira?",
+      "en": "In slow traffic or traffic jams, what must a driver do if traffic halts near a pedestrian crossing?",
+      "ch": "Loko ku ri ni ntsindzo wa mimovha (engarrafamento), u fanele ku endla yini kusuhi ni passadeira?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_FILA",
+      "alt": {
+        "pt": "Carro imobilizado antes da passadeira sem a bloquear",
+        "en": "Vehicle waiting behind crossing without blocking it",
+        "ch": "Movha wu yima u nga pfaleli vafambi ndlela"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Imobilizar o veículo antes da passadeira, deixando-a totalmente desimpedida para os peões.",
+        "Parar em cima das riscas brancas da passadeira para encurtar a distância da fila.",
+        "Ligar as luzes de perigo e mandar os peões contornarem a viatura pela estrada.",
+        "Subir para o passeio para não ocupar espaço na faixa de rodagem."
+      ],
+      "en": [
+        "Stop the vehicle before the crossing, leaving it completely clear for pedestrians.",
+        "Halt directly atop the crossing stripes to minimize convoy gap.",
+        "Turn on hazard lights and instruct pedestrians to walk into roadway traffic.",
+        "Mount the sidewalk to prevent occupying road space."
+      ],
+      "ch": [
+        "Yimisa movha phambheni ka passadeira, u siya ndlela yi pfulekile leswaku vanhu va famba.",
+        "Yima henhla ka passadeira leswaku u nga siyi pfhuka.",
+        "Tshiva timboni ta khombo u byela vanhu va hundza hi handle.",
+        "Kandziya passeio hi movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "É proibido imobilizar o veículo sobre passadeiras de peões. Se o trânsito parar à frente, o condutor deve prever a paragem e deter o veículo antes das listas brancas.",
+      "en": "Blocking pedestrian crossings is prohibited. Anticipate traffic and stop before the crossing markings to maintain pedestrian flow.",
+      "ch": "A swi pfumeleriwi ku yima henhla ka passadeira loko ku khomile. Yima phambheni ka yona u siya vanhu va hundza."
+    }
+  },
+  {
+    "id": "prio-pas-004",
+    "grupo": "prio-pas-bengala-branca",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 1,
+    "tags": ["cego", "bengala", "mobilidade"],
+    "pergunta": {
+      "pt": "Ao avistar um peão com bengala branca ou cão-guia a iniciar o atravessamento da faixa de rodagem:",
+      "en": "Upon sighting a pedestrian with a white cane or guide dog beginning to cross the road:",
+      "ch": "Loko u vona mufambi wa milenge loyi a khomeke nhonga yo basa (loyi a nga voniki) a tsemakanya gondzo:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_BENGALA",
+      "alt": {
+        "pt": "Peão com deficiência visual a atravessar a via",
+        "en": "Visually impaired pedestrian crossing road with white cane",
+        "ch": "Munhu loyi a nga voniki a tsemakanya gondzo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O condutor deve parar imediatamente e dar passagem com toda a prudência e calma, sem assustar com a buzina.",
+        "Deve acelerar com ruído de motor para o alertar da presença do carro.",
+        "Deve buzinar insistentemente para o orientar para a berma.",
+        "Tem prioridade porque o peão não está a olhar para o veículo."
+      ],
+      "en": [
+        "The driver must stop immediately and yield with maximum care, without alarming them with a horn.",
+        "Should rev the engine loudly to alert them to vehicle proximity.",
+        "Should honk continuously to steer them toward the curb.",
+        "Has priority because the pedestrian is not looking toward the vehicle."
+      ],
+      "ch": [
+        "Muchayeri u fanele ku yima hi ku hatlisa a n’wi nyika ndlela hi ku rhula, handle ko chaya buzina leyi chavisaka.",
+        "Ba murahu wa injini hi huwa leswaku a twa movha.",
+        "Ba buzina hi matimba leswaku a tsutsumela etlhelo.",
+        "Muchayeri u na priority hikuva munhu a nga languti movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Os peões invisuais com bengala branca ou acompanhados por cão-guia têm direito de prioridade reforçada e proteção especial. É terminantemente proibido utilizar a buzina perto de pessoas cegas pois desorienta-as.",
+      "en": "Visually impaired pedestrians with white canes enjoy absolute right-of-way and special legal protection. Honking must never be used as it causes severe spatial disorientation.",
+      "ch": "Munhu loyi a khomeke nhonga yo basa a nga voni. Yimisa movha u n’wi lehisela mbilu; u nga tshuki u chaya buzina hikuva yi ta n’wi lahlekisela ndlela."
+    }
+  },
+  {
+    "id": "prio-pas-005",
+    "grupo": "prio-pas-viragem-peao",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 2,
+    "tags": ["viragem", "peao", "esquina"],
+    "pergunta": {
+      "pt": "Ao mudar de direção para a direita ou esquerda entrando numa nova rua onde um peão está a atravessar a via (mesmo sem passadeira marcada):",
+      "en": "When turning right or left into a new street where a pedestrian is crossing the roadway (even without painted zebra markings):",
+      "ch": "Loko u jikela xinene kumbe ximatsi u nghena egondzweni lerintshwa laha munhu a tsemakanyaka (hambi ku hava passadeira):"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_CORNER",
+      "alt": {
+        "pt": "Carro a virar na esquina e peão a atravessar a nova via",
+        "en": "Car turning corner as pedestrian crosses the destination street",
+        "ch": "Movha wu jika laha munhu a tsemakanyaka"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O condutor deve ceder a passagem ao peão que já se encontra a atravessar a faixa de rodagem para onde vira.",
+        "O condutor tem prioridade absoluta porque acabou de concluir a curva.",
+        "O condutor deve acelerar para forçar o peão a recuar.",
+        "Apenas os veículos com tração integral devem parar nessa situação."
+      ],
+      "en": [
+        "The driver must yield right-of-way to the pedestrian already crossing the roadway they are entering.",
+        "The driver holds absolute priority having just rounded the bend.",
+        "The driver must accelerate to force the pedestrian back.",
+        "Only four-wheel drive vehicles are required to stop in that case."
+      ],
+      "ch": [
+        "Muchayeri u fanele ku nyika ndlela mufambi wa milenge loyi a se a tsemakanya gondzo leri a nghenaka ka rona.",
+        "Muchayeri u na fanelo hinkwayo yo rhangela hikuva a jikile.",
+        "Muchayeri u fanele ku tsutsuma ku chavisa munhu a vuyela ndzhaku.",
+        "Mimovha ya 4x4 ntsena leyi faneleke ku yima."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Mesmo sem marcação no chão, ao mudar de direção o condutor deve ceder passagem aos peões que já estejam a atravessar a faixa de rodagem da via onde pretende entrar.",
+      "en": "Regardless of pavement paint, a turning vehicle must always give way to pedestrians already crossing the carriageway into which the vehicle is turning.",
+      "ch": "Loko u jika u nghena ka gondzo rin’wana, u fanele ku nyika ndlela vanhu lava se va sunguleke ku tsemakanya kwalaho."
+    }
+  },
+  {
+    "id": "prio-pas-006",
+    "grupo": "prio-pas-proibicao-ultrapassagem",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 1,
+    "tags": ["passadeira", "ultrapassagem", "proibicao", "peao"],
+    "pergunta": {
+      "pt": "É permitido efetuar uma ultrapassagem imediatamente antes ou sobre uma passagem para peões (passadeira)?",
+      "en": "Is it permitted to overtake another vehicle immediately before or on a pedestrian crossing?",
+      "ch": "Swi pfumeleriwa ku hundza movha wun’wana kusuhi kumbe henhla ka passadeira ya vafambi va milenge?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_PEAO",
+      "alt": {
+        "pt": "Passagem de peões assinalada no pavimento",
+        "en": "Pedestrian crosswalk on road",
+        "ch": "Passadeira ya vafambi va milenge"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Não, é expressamente proibido ultrapassar sobre a passadeira ou imediatamente antes dela.",
+        "Sim, desde que não esteja nenhum peão visível no passeio adjacente.",
+        "Sim, desde que a ultrapassagem seja feita buzinando insistentemente.",
+        "Apenas se a velocidade do veículo ultrapassado for inferior a 20 km/h."
+      ],
+      "en": [
+        "No, overtaking on or immediately preceding a pedestrian crossing is strictly forbidden.",
+        "Yes, provided no pedestrians are visible on the adjacent sidewalk.",
+        "Yes, as long as overtaking is accompanied by continuous horn honking.",
+        "Only if the vehicle being overtaken travels under 20 km/h."
+      ],
+      "ch": [
+        "E-e, a swi pfumeleriwi hi ku helela ku hundza movha kusuhi kumbe henhla ka passadeira.",
+        "Ina, loko ku hava munhu a vonakaka.",
+        "Ina, loko u ba buzina.",
+        "Loko movha wa phambheni wu famba 20 km/h."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Ultrapassar junto a passadeiras é causa frequente de atropelamentos fatais, pois o veículo que ultrapassa não consegue ver o peão encoberto pelo veículo da frente. É infração grave proibida por lei.",
+      "en": "Overtaking at pedestrian crossings creates high fatal collision risks because the passing vehicle's sightline to pedestrians is masked by the front vehicle.",
+      "ch": "Ku hundzana kusuhi ni passadeira swi dlaya vanhu hikuva a wu n’wi voni munhu loyi a tsemakanyaka. Swi yirisiwile hi nawu!"
+    }
+  },
+  {
+    "id": "prio-pas-007",
+    "grupo": "prio-pas-distancia-estacionamento",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 2,
+    "tags": ["passadeira", "estacionamento", "distancia-5-metros"],
+    "pergunta": {
+      "pt": "A que distância mínima antes de uma passagem de peões é proibido parar ou estacionar qualquer veículo?",
+      "en": "At what minimum distance before a pedestrian crossing is stopping or parking strictly prohibited?",
+      "ch": "Mpfhuka muni wa le hansi emahlweni ka passadeira laha swi yirisiweke ku yima kumbe ku paka movha?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_PEAO",
+      "alt": {
+        "pt": "Distância mínima de paragem antes da passadeira",
+        "en": "Minimum clearance distance before crosswalk",
+        "ch": "Mpfhuka emahlweni ka passadeira"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "A menos de 5 metros antes da passagem de peões.",
+        "A menos de 20 metros antes da passagem de peões.",
+        "A menos de 1 metro da linha de riscas brancas.",
+        "Não existe qualquer distância mínima obrigatória."
+      ],
+      "en": [
+        "Less than 5 meters before the pedestrian crossing.",
+        "Less than 20 meters before the pedestrian crossing.",
+        "Less than 1 meter from the painted white stripes.",
+        "There is no mandatory minimum clearance distance."
+      ],
+      "ch": [
+        "Mpfhuka wa le hansi ka 5 wa timitara emahlweni ka passadeira.",
+        "Mpfhuka wa le hansi ka 20 wa timitara.",
+        "Mpfhuka wa 1 mitara.",
+        "A ku na mpfhuka lowu bohekaka."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O Código da Estrada proíbe a paragem e o estacionamento a menos de 5 metros ANTES das passagens assinaladas para a travessia de peões, para que os condutores em circulação consigam ver os peões com clareza.",
+      "en": "Parking or stopping within 5 meters BEFORE a crosswalk is banned by law so circulating drivers retain clear, unobstructed lines of sight to pedestrians.",
+      "ch": "A swi pfumeleriwi ku paka kumbe ku yima eka 5 wa timitara emahlweni ka passadeira leswaku mimovha leyi taka yi vona vafambi va milenge."
+    }
+  },
+  {
+    "id": "prio-pas-008",
+    "grupo": "prio-pas-veiculo-parado",
+    "variacao": 1,
+    "subtema": "passadeiras",
+    "dificuldade": 1,
+    "tags": ["passadeira", "veiculo-parado", "prudencia", "peoes"],
+    "pergunta": {
+      "pt": "Ao aproximar-se de uma passadeira, notas que na faixa ao lado um veículo acabou de abrandar e parar. O que deves fazer?",
+      "en": "Approaching a zebra crosswalk, you see a vehicle in the adjacent lane has just slowed and stopped. What should you do?",
+      "ch": "Loko u tshinela ka passadeira, u vona movha lowu nga tlhelo ka wena wu yimile. U fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "PASSADEIRA_PEAO",
+      "alt": {
+        "pt": "Veículo parado junto à passadeira para passagem de peão",
+        "en": "Vehicle stopped at zebra crossing letting pedestrians cross",
+        "ch": "Movha wu yimile ka passadeira"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Parar imediatamente também, deduzindo que o outro veículo parou para dar passagem a um peão que pode estar encoberto.",
+        "Acelerar para passar antes do peão surgir na tua faixa de rodagem.",
+        "Buzinar ruidosamente para afastar qualquer pessoa da estrada.",
+        "Ultrapassar pela berma do lado direito com rapidez."
+      ],
+      "en": [
+        "Stop immediately as well, presuming the other car halted to let an obscured pedestrian cross.",
+        "Accelerate to clear the crossing before the pedestrian enters your lane.",
+        "Sound the horn loudly to scare everyone off the roadway.",
+        "Overtake swiftly along the right-hand shoulder."
+      ],
+      "ch": [
+        "Yima xikan’we na wena, hikuva movha wolowo wu yimela munhu loyi a tsemakanyaka.",
+        "Tsutsuma u rhanga u nga si fika munhu.",
+        "Ba buzina ngopfu u chavisa vanhu.",
+        "Hundza hi le berma ya xinene hi ku tsutsuma."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Se um veículo estiver parado ou a abrandar junto de uma passadeira, o condutor na via ao lado deve OBRIGATORIAMENTE parar e só avançar após certificar-se de que nenhum peão se encontra a atravessar.",
+      "en": "When a vehicle halts at a crosswalk, adjoining traffic must stop dead and verify that all pedestrian crossings are complete before moving.",
+      "ch": "Loko movha wu yimile ka passadeira, u boheka ku yima na wena hikuva ku na munhu loyi a tsemakanyaka!"
+    }
+  }
+]

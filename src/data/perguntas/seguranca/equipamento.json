@@ -1,0 +1,394 @@
+[
+  {
+    "id": "seg-eqp-001",
+    "grupo": "seg-eqp-triangulos",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 1,
+    "tags": ["triangulo", "sinalizacao", "avaria"],
+    "pergunta": {
+      "pt": "Quantos triângulos de pré-sinalização de perigo são de porte obrigatório nos veículos automóveis em Moçambique e a que distância mínima devem ser colocados em caso de avaria?",
+      "en": "How many warning triangles are legally mandatory in motor vehicles in Mozambique and at what minimum distance must they be placed in case of breakdown?",
+      "ch": "Hi mangani matinhla-nharhu (triângulos) lama bohekaka ku va na wona eMovha eMoçambique naswona ma vekiwa mpfhuka muni loko movha wu fele ndleleni?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "EQUIP_TRIANGLE",
+      "alt": {
+        "pt": "Colocação do triângulo de pré-sinalização a pelo menos 30 metros",
+        "en": "Placement of warning triangle at least 30 meters behind",
+        "ch": "Ku vekiwa ka triângulo le ndleleni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Dois triângulos homologados; devem ser colocados a pelo menos 30 metros da retaguarda e visíveis a pelo menos 100 metros (e à frente se necessário em curvas/vias de duplo sentido).",
+        "Apenas um triângulo colocado encostado ao para-choques do carro.",
+        "Não são obrigatórios triângulos, apenas ramos de árvores na berma.",
+        "Três triângulos colocados dentro da viatura sobre os assentos."
+      ],
+      "en": [
+        "Two approved triangles; positioned at least 30 meters behind and visible from at least 100 meters away (and in front if required on two-way blind roads).",
+        "Only one triangle propped directly against the car bumper.",
+        "Triangles are optional; tree branches on the verge suffice.",
+        "Three triangles kept inside the vehicle on the seats."
+      ],
+      "ch": [
+        "Matinhla-nharhu (triângulos) mambirhi; ma vekiwa mpfhuka wo fika 30 wa timitara endzhaku ka movha naswona ma vonaka hi 100 wa timitara.",
+        "Triângulo rin’we ntsena leri tlhomeriwaka ka para-choque.",
+        "A swi bohi ku va na triângulo; marhavi ya mirhi ma ringene.",
+        "Matinhla-nharhu manharhu lama tshamiwaka henhla ka switulu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O regulamento de trânsito em Moçambique exige dois triângulos de pré-sinalização regulamentares. Devem ser colocados a uma distância mínima de 30 metros do veículo e ser visíveis a pelo menos 100 metros.",
+      "en": "Mozambique traffic law mandates two certified warning triangles placed at least 30 meters away and visible from 100 meters.",
+      "ch": "Moçambique yi lava matinhla-nharhu mambirhi (2). Ma vekiwa mpfhuka wa 30 wa timitara leswaku mimovha leyi taka yi vona u nga si vanga mhangu."
+    }
+  },
+  {
+    "id": "seg-eqp-002",
+    "grupo": "seg-eqp-colete-refletor",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 1,
+    "tags": ["colete", "visibilidade", "seguranca"],
+    "pergunta": {
+      "pt": "O colete retrorrefletor de segurança deve estar guardado onde no veículo e quando deve ser vestido?",
+      "en": "Where should the retroreflective safety vest be kept in the vehicle and when must it be worn?",
+      "ch": "Kajoli ro phatsima (colete reflector) ri fanele ku hlayisiwa kwihi naswona ri ambaliwa rini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "EQUIP_VEST",
+      "alt": {
+        "pt": "Colete de alta visibilidade retrorrefletor",
+        "en": "High visibility retroreflective safety vest",
+        "ch": "Colete ro phatsima ra vuhlayiseki"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Deve estar no habitáculo acessível ao condutor sem sair da viatura, devendo ser vestido antes de sair do veículo na via pública ou berma.",
+        "Deve estar fechado com cadeado no fundo da mala da bagageira debaixo do pneu sobresselente.",
+        "Apenas é necessário em viagens para fora do país.",
+        "Só se veste quando estiver a chover granizo."
+      ],
+      "en": [
+        "Inside the passenger cabin accessible to the driver without exiting, and must be worn BEFORE stepping onto the road or verge.",
+        "Padlocked under the spare tyre at the very bottom of the luggage trunk.",
+        "Only needed during cross-border travel.",
+        "Worn exclusively during hail storms."
+      ],
+      "ch": [
+        "Ri fanele ku tshama endzeni ka movha laha muchayeri a ri kumaka handle ko huma, ri ambaliwa u NGA SI HUMA ka movha ehandle.",
+        "Ri fanele ku pfaleriwa hi khiya hansi ka pneu ya reserva ka bagageira.",
+        "Ri tirha loko u ya matikweni ya le handle ntsena.",
+        "Ri ambaliwa ntsena loko ku wa maribye ya mpfula."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O colete deve ser guardado no habitáculo (ex: porta-luvas ou bolsa da porta). O condutor deve vesti-lo antes de pôr os pés na estrada em caso de avaria ou acidente, garantindo a sua visibilidade imediata.",
+      "en": "The vest belongs in the glovebox or door pocket so the driver dons it before stepping out, guaranteeing immediate visibility.",
+      "ch": "Hlayisa colete endzeni ka movha (ka luva kumbe etlhelo). Ri ambale u nga si humela ehandle ka gondzo leswaku van’wana va ku vona va nga ku kandziyi."
+    }
+  },
+  {
+    "id": "seg-eqp-003",
+    "grupo": "seg-eqp-extintor",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 1,
+    "tags": ["extintor", "incendio", "validade"],
+    "pergunta": {
+      "pt": "Quanto ao extintor de incêndio do automóvel, quais são os requisitos legais?",
+      "en": "Regarding the motor vehicle fire extinguisher, what are the legal requirements?",
+      "ch": "Mayelana ni botere ro tima ndzilo (extintor) ra movha, hi swihi swipimelo swa nawu?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "EQUIP_EXTINGUISHER",
+      "alt": {
+        "pt": "Extintor de pó químico com manómetro e selo de validade",
+        "en": "Chemical powder fire extinguisher with pressure gauge and inspection seal",
+        "ch": "Extintor yo tima ndzilo ya movha"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Deve estar dentro do prazo de validade da carga/inspeção, com manómetro no verde, em suporte seguro e de fácil acesso.",
+        "Pode estar vazio ou descarregado desde que tenha a cor vermelha por fora.",
+        "Só os camiões-cisterna de gasolina precisam de extintor.",
+        "O extintor pode ser substituído por um balde com areia da praia."
+      ],
+      "en": [
+        "Must be within valid inspection date, gauge needle in the green zone, secured and easily accessible.",
+        "Can be completely discharged as long as the canister is painted red.",
+        "Only fuel tanker trucks are mandated to carry extinguishers.",
+        "Can be replaced by a bucket of dry beach sand."
+      ],
+      "ch": [
+        "Ri fanele ku va ni manómetro eka rihlaza (green), ri ri ni nkarhi lowu nga hundzangiki (validade), ri tlhomeriwe kahle laha ri fikelelekaka hi ku hatlisa.",
+        "Ri nga ha va ri herile mati/pó loko ntsena ri ri ro tshwuka.",
+        "Mimovha ya petirolo ntsena leyi lavaka extintor.",
+        "U nga tirhisa bakiti ra seha ya lwandle."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O extintor deve ter carga de pó químico homologada, verificação anual válida pelo selo e pressão adequada no manómetro. Circular com extintor caducado ou descarregado é infração punida com multa.",
+      "en": "Extinguishers require valid annual inspection seals, proper pressure gauge readings, and proper mounting. Expired units invite fines.",
+      "ch": "Extintor yi fanele ku va yi tirha kahle, yi nga hundzanga lembe naswona nsinya wu komba rihlaza. Ku famba ni extintor leyi feke i nandzu."
+    }
+  },
+  {
+    "id": "seg-eqp-004",
+    "grupo": "seg-eqp-pneu-sobresselente",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 2,
+    "tags": ["pneu-reserva", "macaco", "chave-rodas"],
+    "pergunta": {
+      "pt": "Para fazer face a furos de pneu na via pública, que equipamentos mecânicos devem acompanhar o automóvel?",
+      "en": "To deal with flat tyres on the public road, which mechanical accessories must accompany the car?",
+      "ch": "Ku lulamisa vhilwa leri fayekeke egondzweni, hi swihi switirho swa njini leswi faneleke ku va kona ka movha?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "EQUIP_SPARE_WHEEL",
+      "alt": {
+        "pt": "Pneu sobresselente (estepe), macaco mecânico e chave de rodas",
+        "en": "Spare tyre, mechanical jack, and wheel lug wrench",
+        "ch": "Vhilwa ra reserva, jeke (macaco) ni xilotlelo xa mavhilwa"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Pneu sobresselente em perfeito estado e com pressão calibrada, macaco adequado ao peso do veículo e chave de rodas compatível.",
+        "Uma bomba manual de bicicleta e um tubo de cola de contacto.",
+        "Apenas um par de luvas de borracha.",
+        "Cabo de aço para ser rebocado até Maputo."
+      ],
+      "en": [
+        "Spare tyre in good condition and properly inflated, jack rated for vehicle weight, and matching wheel lug wrench.",
+        "A bicycle hand pump and contact adhesive glue tube.",
+        "Only a pair of kitchen rubber gloves.",
+        "A steel winch cable to be towed to the capital."
+      ],
+      "ch": [
+        "Vhilwa ra reserva leri nga ni moya lowu ringaneke, jeke (macaco) leyi yimisaka ntiko wa movha, ni xilotlelo xa swipikiri swa vhilwa (chave de rodas).",
+        "Bomba ya basikopo ni kola.",
+        "Maglavusi ya raba ntsena.",
+        "Tambo ro koka movha ku ya fika Maputo."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Circular sem roda sobresselente operacional, sem macaco ou sem chave de rodas impede a resolução rápida de furos, deixando o veículo imobilizado de forma perigosa na berma.",
+      "en": "Driving without a functional spare tyre, jack, and wrench strands vehicles dangerously on shoulders, compounding crash hazards.",
+      "ch": "Ku famba handle ka vhilwa ra reserva kumbe jeke swi ku tshika u khomekile ndleleni ya khombo loko vhilwa ri fa. Hlayisa switirho leswi nkarhi hinkwawo."
+    }
+  },
+  {
+    "id": "seg-eqp-005",
+    "grupo": "seg-eqp-primeiros-socorros",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 1,
+    "tags": ["primeiros-socorros", "estojo", "emergencia"],
+    "pergunta": {
+      "pt": "Qual é o objetivo e conteúdo essencial da caixa/estojo de primeiros socorros de bordo?",
+      "en": "What is the purpose and essential content of the on-board vehicle first-aid kit?",
+      "ch": "I yini xikongomelo ni swilo swa nkoka leswi faneleke ku va kona ka bokisi ra mirhi ya xilamulelo (primeiros socorros)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "EQUIP_FIRST_AID",
+      "alt": {
+        "pt": "Estojo de primeiros socorros para viaturas",
+        "en": "Automotive first-aid emergency medical kit",
+        "ch": "Bokisi ra mirhi yo lamulela (primeiros socorros)"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Permitir estancar hemorragias e desinfetar ferimentos ligeiros imediatos até à chegada das equipas médicas (compressas estéreis, ligaduras, luvas e antissético).",
+        "Substituir uma sala de cirurgia completa com anestésicos gerais.",
+        "Guardar mantimentos alimentares para acampamentos de lazer.",
+        "Servir de depósito para ferramentas elétricas pesadas."
+      ],
+      "en": [
+        "Stem bleeding and disinfect emergency wounds pending medical personnel arrival (sterile dressings, bandages, gloves, antiseptic).",
+        "Replace a full surgical hospital operating theatre.",
+        "Store food rations for weekend camping retreats.",
+        "Act as storage for heavy power tools."
+      ],
+      "ch": [
+        "Ku miyeta ngati ni ku basisa timbanga ta xikan’we u nga si fika dokodela (swilapi swo basa, mabhandeji, maglavusi ni mirhi yo dlaya switsongwatsongwana).",
+        "Ku endla vuhandzuri (cirurgia) byo rharhanganaka.",
+        "Ku vekela swakudya swa le nhoveni.",
+        "Ku pfalela switirho swa gezi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O estojo de primeiros socorros contém materiais básicos para prestar cuidados de emergência primários em caso de sinistro, evitando o agravamento do estado de saúde dos feridos.",
+      "en": "First aid kits provide the critical supplies required to arrest bleeding, prevent infection, and stabilize trauma patients until professional paramedics take over.",
+      "ch": "Bokisi ra mirhi ri pfuna ku sivela ngati ni ku boha timbanga ta vanhu lava vavisekeke hi xikan’we ku fika ambulância yi fika."
+    }
+  },
+  {
+    "id": "seg-eqp-006",
+    "grupo": "seg-eqp-capacete-motociclo",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 1,
+    "tags": ["capacete", "motociclo", "viseira", "seguranca"],
+    "pergunta": {
+      "pt": "O uso de capacete de modelo oficialmente aprovado (homologado) é obrigatório para:",
+      "en": "Wearing an officially approved helmet is mandatory for:",
+      "ch": "Ku ambala capacete leyi nga pfumeleriwa hi mfumo swi boheka ka vamani?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "EQUIP_HELMET",
+      "alt": {
+        "pt": "Capacete homologado para motociclos",
+        "en": "Approved motorcycle helmet",
+        "ch": "Capacete ya xithuthuthu"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O condutor e o passageiro de qualquer motociclo ou ciclomotor, devendo estar devidamente apertado à cabeça.",
+        "Apenas o condutor, sendo o passageiro dispensado se for maior de idade.",
+        "Exclusivamente durante viagens interprovinciais fora das cidades.",
+        "Apenas quando a velocidade do motociclo ultrapassar os 80 km/h."
+      ],
+      "en": [
+        "Both the driver and the passenger of any motorcycle or moped, properly fastened to the head.",
+        "Only the driver, while adult passengers are exempt.",
+        "Exclusively during inter-provincial trips outside cities.",
+        "Only when motorcycle speed exceeds 80 km/h."
+      ],
+      "ch": [
+        "Muchayeri ni mulehi (mufambi) wa xithuthuthu hinkwavo, yi bohiwa kahle enhlokweni.",
+        "Muchayeri ntsena, mufambi a nga bohi.",
+        "Loko u famba kule ehandle ka doroba ntsena.",
+        "Loko xithuthuthu xi tlula 80 km/h."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O condutor e o passageiro de ciclomotores e motociclos são obrigados a usar capacete devidamente homologado e com o fecho afivelado. Circular sem capacete ou com ele desapertado constitui contraordenação.",
+      "en": "Both motorcyclist and pillion passenger must wear certified helmets, correctly strapped. Riding with an unfastened helmet is a traffic violation.",
+      "ch": "Muchayeri ni mufambi wa xithuthuthu va fanele ku ambala capacete yi boheka kahle. Ku nga ambali swi biwa hi multa!"
+    }
+  },
+  {
+    "id": "seg-eqp-007",
+    "grupo": "seg-eqp-cinto-traseiro",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 1,
+    "tags": ["cinto", "passageiros", "bancos-traseiros"],
+    "pergunta": {
+      "pt": "O uso do cinto de segurança nos bancos de trás dos automóveis ligeiros em Moçambique:",
+      "en": "Wearing seatbelts in the rear seats of passenger cars in Mozambique:",
+      "ch": "Ku boha bhandi ra vuhlayiseki eka switulu swa le ndzhaku eMoçambique:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D8",
+      "alt": {
+        "pt": "Uso obrigatório do cinto de segurança",
+        "en": "Mandatory seatbelt sign",
+        "ch": "Xikombiso xo boha bhandi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "É obrigatório para todos os passageiros em qualquer via pública, sempre que o veículo disponha de cintos instalados.",
+        "É facultativo dentro das localidades e obrigatório apenas nas autoestradas.",
+        "Apenas é exigido a passageiros com idade superior a 65 anos.",
+        "É proibido porque dificulta a saída rápida em caso de avaria."
+      ],
+      "en": [
+        "Is mandatory for all occupants on any public road wherever seatbelts are fitted.",
+        "Is optional within town limits and mandatory only on motorways.",
+        "Is only required for passengers older than 65 years.",
+        "Is prohibited because it impedes fast exit."
+      ],
+      "ch": [
+        "Swi boheka eka vanhu hinkwavo lomu gondzweni, loko switulu swi ri na mabhandi.",
+        "A swi bohi endzeni ka doroba.",
+        "Swi boha vakhalabye ntsena.",
+        "Swi yirisiwile."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O uso do cinto de segurança é obrigatório para todos os ocupantes da viatura (dianteiros e traseiros). Em caso de embate, um passageiro traseiro sem cinto é projetado com força letal contra os ocupantes da frente.",
+      "en": "Seatbelt usage is legally compulsory for all car occupants (front and rear). An unbelted rear passenger can crush front occupants during a head-on collision.",
+      "ch": "Ku boha bhandi swi boheka ka vanhu hinkwavo (phambheni ni ndzhaku). Loko munhu a nga bohangi a nga dlaya van’wana hi ku tlula!"
+    }
+  },
+  {
+    "id": "seg-eqp-008",
+    "grupo": "seg-eqp-criancas-banco-frente",
+    "variacao": 1,
+    "subtema": "equipamento",
+    "dificuldade": 2,
+    "tags": ["criancas", "banco-frente", "cadeirinha", "retencao"],
+    "pergunta": {
+      "pt": "Em que condições podem crianças com menos de 12 anos de idade ser transportadas no banco da frente de um automóvel?",
+      "en": "Under what conditions may children under 12 years of age ride in the front passenger seat of a car?",
+      "ch": "Vana lava nga si fiki 12 wa malembe va nga tshama rini ka xitulu xa le phambheni ka movha?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "EQUIP_CHILD_SEAT",
+      "alt": {
+        "pt": "Cadeirinha de retenção infantil",
+        "en": "Child safety booster seat",
+        "ch": "Xitulu xa vana xa le movheni"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Apenas se o veículo não dispuser de bancos traseiros (ou estes estiverem lotados por outras crianças), utilizando sistema de retenção adaptado e com o airbag desativado se viajar voltada para trás.",
+        "Sempre que a criança for transportada no colo de um adulto com o cinto a abraçar ambos.",
+        "Livremente, desde que o condutor conduza a menos de 40 km/h.",
+        "Nunca e sob circunstância alguma, mesmo que o automóvel só tenha dois lugares."
+      ],
+      "en": [
+        "Only if the vehicle lacks rear seats (or rear seats are fully occupied by other children), using certified restraint with airbag deactivated if rear-facing.",
+        "Whenever the child is carried on an adult's lap with one seatbelt embracing both.",
+        "Freely, provided the driver travels under 40 km/h.",
+        "Never under any circumstance, even if car has only two seats."
+      ],
+      "ch": [
+        "Ntsena loko movha wu nga ri na switulu swa ndzhaku, a tirhisa xitulu xa vana naswona airbag yi timekile loko a languta ndzhaku.",
+        "Loko n’wana a fambisiwa exifuveni xa un’wana a bohiwa naye.",
+        "Nkarhi hinkwawo loko u tsutsuma 40 km/h.",
+        "A swi pfumeleriwi hambi movha wu ri ni switulu swimbirhi ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A regra geral exige o transporte de menores de 12 anos nos bancos traseiros com cadeirinha. Se a viatura não tiver bancos atrás (ex: comerciais de 2 lugares), a criança pode ir à frente na cadeirinha homologada; se instalada virada para trás, o airbag do passageiro TEM de ser desativado.",
+      "en": "Children under 12 must travel in the back seat. In 2-seater vehicles without back seats, front travel in an approved child seat is allowed, provided passenger airbag is disabled if rear-facing.",
+      "ch": "Vana va tshama ndzhaku. Kambe loko movha wu ri ni switulu swa 2 ntsena, n’wana a nga tshama phambheni ka xitulu xakwe xo hlayiseka, ku timeka airbag."
+    }
+  }
+]

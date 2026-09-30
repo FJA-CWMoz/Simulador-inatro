@@ -1,0 +1,18 @@
+{
+  "nome": {
+    "pt": "Exame Teórico de Condução INATRO",
+    "en": "INATRO Driving Theory Examination",
+    "ch": "Xikambelo xa Mahanyelo ya Movha INATRO"
+  },
+  "descricao": {
+    "pt": "Simulação oficial com 40 questões regulamentares segundo o Código da Estrada de Moçambique.",
+    "en": "Official simulation with 40 regulatory questions according to the Mozambican Highway Code.",
+    "ch": "Kuringetela ka xikambelo xa milawu ya 40 ya xitaratu xa le Mozambiki."
+  },
+  "duracaoMinutos": 30,
+  "avisoTempoRestanteMinutos": 5,
+  "totalQuestoes": 40,
+  "notaMinimaAprovacao": 30,
+  "percentagemAprovacao": 75,
+  "distribuicaoId": "inatro-oficial-40"
+}

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "sin-inf-001",
+    "grupo": "sin-inf-hospital",
+    "variacao": 1,
+    "subtema": "informacao",
+    "dificuldade": 1,
+    "tags": ["hospital", "socorro", "ruido"],
+    "pergunta": {
+      "pt": "O sinal retangular azul com a letra 'H' ou símbolo de cama e cruz indica:",
+      "en": "The rectangular blue sign with the letter 'H' or a hospital bed/cross symbol indicates:",
+      "ch": "Xikombiso xa wasi lexi nga ni letere 'H' kumbe mubhedo xi komba yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "H1",
+      "alt": {
+        "pt": "Sinal de Informação: Hospital / Posto de Socorros",
+        "en": "Hospital Information sign",
+        "ch": "Xikombiso xa xibedlhela"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aproximação de estabelecimento hospitalar ou pronto-socorro, devendo evitar-se ruído e buzinas.",
+        "Paragem obrigatória para controlo sanitário governamental.",
+        "Ponto de encontro exclusivo para helicópteros de socorro rodoviário.",
+        "Hotel ou estalagem para descanso turístico."
+      ],
+      "en": [
+        "Proximity of a hospital or medical clinic, requiring noise reduction and avoiding horns.",
+        "Mandatory stop for government medical inspections.",
+        "Helicopter landing pad for emergency road evacuations.",
+        "Hotel or inn accommodation for tourists."
+      ],
+      "ch": [
+        "Ku tshinela ka xibedlhela, laha ku lavekaka ku rhula ni ku nga chayi buzina.",
+        "Ku yima hi ku sindzisiwa ku kamberiwa mavabyi.",
+        "Ndhawu ya switsutsumi swa xibedlhela (helicóptero).",
+        "Hotela yo etlela vaendzi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal de hospital informa os condutores da vizinhança de uma unidade de saúde, recomendando precauções especiais para evitar ruído excessivo, especialmente sinais sonoros abusivos.",
+      "en": "The hospital information sign warns that medical facilities are nearby, requiring minimal acoustic pollution from horns and revving.",
+      "ch": "Xikombiso lexi xi tivisa xibedlhela; tsindzuka ku hunguta huwa ni ku nga chayi buzina hi vusopfa."
+    }
+  },
+  {
+    "id": "sin-inf-002",
+    "grupo": "sin-inf-posto-combustivel",
+    "variacao": 1,
+    "subtema": "informacao",
+    "dificuldade": 1,
+    "tags": ["combustivel", "abastecimento", "servico"],
+    "pergunta": {
+      "pt": "O sinal quadrado com a silhueta de uma bomba de combustível avisa os utilizadores da via:",
+      "en": "The square sign featuring a fuel dispenser pump icon notifies road users that:",
+      "ch": "Xikombiso lexi nga ni xifaniso xa bomba ya petirolo xi tivisa yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "H7",
+      "alt": {
+        "pt": "Sinal de Posto de Abastecimento de Combustível",
+        "en": "Fuel Station Ahead sign",
+        "ch": "Xikombiso xa bomba ya petirolo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Existência de um posto de abastecimento de combustível a curta distância.",
+        "Proibição de transporte de líquidos inflamáveis ou combustíveis.",
+        "Obrigação de atestar o depósito antes de entrar na via.",
+        "Oficina de reparação mecânica sem venda de combustíveis."
+      ],
+      "en": [
+        "Existence of a fuel filling station within a short distance.",
+        "Ban on transporting flammable or combustible liquids.",
+        "Obligation to fill the fuel tank prior to entering the highway.",
+        "Mechanical repair shop without fuel sales."
+      ],
+      "ch": [
+        "Ku va kona ka bomba yo chela petirolo kumbe diesel kusuhi.",
+        "Ku yirisiwa ka mimovha leyi rhwalaka mafurha.",
+        "Ku boheka ku chela mafurha u nga si nghena gondzweni.",
+        "Garaji ro lungisa mimovha ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "É um sinal de indicação/serviço que informa a presença de uma bomba de gasolina/combustíveis onde os veículos podem abastecer.",
+      "en": "This information service sign informs motorists of the proximity of a fuel replenishment station.",
+      "ch": "I xikombiso xa vukorhokeri lexi kombaka leswaku phambheni ku na ndhawu yo chela mafurha ya movha."
+    }
+  },
+  {
+    "id": "sin-inf-003",
+    "grupo": "sin-inf-estacionamento-p",
+    "variacao": 1,
+    "subtema": "informacao",
+    "dificuldade": 1,
+    "tags": ["estacionamento", "parque", "letra-p"],
+    "pergunta": {
+      "pt": "O sinal retangular azul com a letra 'P' maiúscula branca indica:",
+      "en": "The rectangular blue sign with a large white letter 'P' indicates:",
+      "ch": "Xikombiso xa wasi lexi nga ni letere 'P' ro basa xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "H8",
+      "alt": {
+        "pt": "Sinal de Parque de Estacionamento Autorizado",
+        "en": "Parking Area sign",
+        "ch": "Xikombiso xa ndhawu yo paka mimovha"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Local autorizado ou parque destinado ao estacionamento de veículos.",
+        "Paragem exclusiva para viaturas da Polícia da República de Moçambique (PRM).",
+        "Ponto de passagem de peões sobrelevada.",
+        "Perigo iminente de perda de travões."
+      ],
+      "en": [
+        "Designated authorized parking zone or vehicle parking lot.",
+        "Exclusive parking for Republic of Mozambique Police (PRM).",
+        "Elevated pedestrian footbridge crossing.",
+        "Imminent brake failure danger zone."
+      ],
+      "ch": [
+        "Ndhawu leyi pfumeleriweke yo paka mimovha.",
+        "Ndhawu ya maphorisa ntsena (PRM).",
+        "Bhiriji ra vafambi va milenge.",
+        "Ndhawu yo onhaka ka swilukelo swa movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A letra 'P' em fundo azul define locais destinados especificamente para o estacionamento regulado de viaturas.",
+      "en": "The white 'P' on a blue background denotes authorized public or designated vehicle parking grounds.",
+      "ch": "Letere 'P' ri yimela 'Parque' (ndhawu yo paka movha). U nga paka kona handle ko chava ku fayiwa multa."
+    }
+  },
+  {
+    "id": "sin-inf-004",
+    "grupo": "sin-inf-sentido-unico",
+    "variacao": 1,
+    "subtema": "informacao",
+    "dificuldade": 2,
+    "tags": ["sentido-unico", "via", "orientacao"],
+    "pergunta": {
+      "pt": "Uma placa retangular azul com uma seta branca comprida na horizontal ou vertical aponta:",
+      "en": "A rectangular blue sign with a long white arrow pointing horizontally or vertically denotes:",
+      "ch": "Puleki ya wasi leyi nga ni nsinya wo leha wo basa yi komba yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "H24",
+      "alt": {
+        "pt": "Sinal de Via de Sentido Único",
+        "en": "One-Way Street sign",
+        "ch": "Xikombiso xa gondzo ra tlhelo rin’we ntsena"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Via com sentido único de circulação; o trânsito flui apenas no sentido indicado.",
+        "Obrigação de ligar os faróis de nevoeiro.",
+        "Acesso restrito a veículos governamentais.",
+        "Aproximação de ponte móvel sobre rio navegável."
+      ],
+      "en": [
+        "One-way road; traffic travels exclusively in the indicated arrow direction.",
+        "Mandatory requirement to turn on fog headlights.",
+        "Restricted access for official state vehicles.",
+        "Approach to an opening movable bridge."
+      ],
+      "ch": [
+        "Gondzo ra ku famba hi tlhelo rin’we ntsena; a ku na mimovha leyi taka hi phambheni.",
+        "Ku vaninga timboni ta munhu.",
+        "Gondzo ra mimovha ya mfumo ntsena.",
+        "Bhiriji leri pfulaka ra mati."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal de sentido único indica que todo o tráfego automóvel se move na mesma direção, eliminando o perigo de veículos em sentido contrário, permitindo estacionar em ambos os lados se a via comportar.",
+      "en": "A one-way street sign informs drivers that all lanes flow in that direction, removing oncoming vehicular threats.",
+      "ch": "Gondzo leri ri fambiwa hi tlhelo rin’we. A ku na mimovha leyi humaka emahlweni."
+    }
+  },
+  {
+    "id": "sin-inf-005",
+    "grupo": "sin-inf-via-prioritaria",
+    "variacao": 1,
+    "subtema": "informacao",
+    "dificuldade": 2,
+    "tags": ["prioridade", "losango", "estrada-principal"],
+    "pergunta": {
+      "pt": "O sinal em forma de losango amarelo com rebordo branco e moldura preta/amarela (B3) significa:",
+      "en": "The yellow diamond-shaped sign with white and yellow borders (B3) signifies:",
+      "ch": "Xikombiso xa losango ra xitshopana lexi nga ni rimba ro basa xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "B3",
+      "alt": {
+        "pt": "Sinal de Estrada com Prioridade",
+        "en": "Priority Road sign",
+        "ch": "Xikombiso xa gondzo lerikulu leri nga ni priority"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Via com prioridade nos sucessivos cruzamentos e entroncamentos até ao sinal de fim de prioridade.",
+        "Aviso de via reservada exclusivamente ao transporte coletivo urbano.",
+        "Cruzamento com linha férrea sem guarda.",
+        "Zona onde é proibido circular com luzes médias ligadas."
+      ],
+      "en": [
+        "Priority road; drivers have right-of-way at successive intersections until the end-of-priority sign.",
+        "Notice of lanes reserved exclusively for urban public buses.",
+        "Unguarded railway level crossing warning.",
+        "Zone where driving with low beams is prohibited."
+      ],
+      "ch": [
+        "Gondzo ra nkoka (priority); u na fanelo yo rhangela eka mahlanganelo hinkwawo ku kondza ku fika xikombiso xo herisa.",
+        "Ndlela ya machapa ntsena.",
+        "Mahlanganelo ya xitimela handle ka murindzi.",
+        "Ndhawu yo tima timboni."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal B3 'Via com prioridade' confere ao condutor que nela circula a prioridade de passagem sobre os veículos que se apresentem pela esquerda ou direita nos cruzamentos subsequentes.",
+      "en": "Sign B3 identifies a priority roadway where drivers retain right-of-way through subsequent crossroads over approaching traffic.",
+      "ch": "Loko u famba eka gondzo leri nga ni xikombiso lexi xa losango ra xitshopana, mimovha leyi nghenaka yi fanele ku ku nyika ndlela."
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "vel-dis-001",
+    "grupo": "vel-dis-formula-paragem",
+    "variacao": 1,
+    "subtema": "distancias",
+    "dificuldade": 1,
+    "tags": ["distancia-paragem", "reacao", "travagem"],
+    "pergunta": {
+      "pt": "A distância total de paragem de um veículo é composta pela soma de quais componentes?",
+      "en": "The total stopping distance of a vehicle comprises the sum of which components?",
+      "ch": "Mpfhuka hinkwawo wo yimisa movha (distância de paragem) wu vumbiwa hi ku hlangana ka yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "DIST_STOPPING_CHART",
+      "alt": {
+        "pt": "Gráfico: Distância de Reação + Distância de Travagem = Distância de Paragem",
+        "en": "Chart: Reaction Distance + Braking Distance = Total Stopping Distance",
+        "ch": "Grafiko ya ku yimisa movha"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Distância de Reação (percorrida enquanto o condutor percebe e reage) + Distância de Travagem (percorrida após acionar o travão).",
+        "Distância de Aceleração + Distância de Cruzamento.",
+        "Comprimento do veículo multiplicado pela velocidade em milhas.",
+        "Distância entre os eixos dianteiro e traseiro da viatura."
+      ],
+      "en": [
+        "Reaction Distance (traveled during perception and reaction) + Braking Distance (traveled after pressing brake pedal).",
+        "Acceleration Distance + Crossing Distance.",
+        "Length of vehicle multiplied by speed in miles.",
+        "Wheelbase distance between front and rear axles."
+      ],
+      "ch": [
+        "Mpfhuka wa ku anakanya (Reacção) + Mpfhuka wa ku ba travão (Travagem) ku kondza movha wu yima.",
+        "Mpfhuka wa ku tsutsuma + Mpfhuka wa ku hundza.",
+        "Ku leha ka movha.",
+        "Mpfhuka exikarhi ka mavhilwa ya phambheni ni ya ndzhaku."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A Distância de Paragem é calculada somando a Distância de Reação (tempo que o cérebro leva para reagir e pôr o pé no travão, cerca de 1 segundo) com a Distância de Travagem (espaço que o carro desliza com os travões acionados até imobilizar).",
+      "en": "Total Stopping Distance equals Perception-Reaction Distance plus Braking Distance until full standstill.",
+      "ch": "Mpfhuka wo yimisa movha wu vumbiwa hi nkarhi lowu u tekaka ku ehleketa ni ku ba travão, ku hlanganisa ni mpfhuka lowu movha wu gewukaka na wona."
+    }
+  },
+  {
+    "id": "vel-dis-002",
+    "grupo": "vel-dis-regra-dois-segundos",
+    "variacao": 1,
+    "subtema": "distancias",
+    "dificuldade": 1,
+    "tags": ["dois-segundos", "distancia-seguranca", "referencia"],
+    "pergunta": {
+      "pt": "O que é a 'Regra dos Dois Segundos' na condução defensiva?",
+      "en": "What is the 'Two-Second Rule' in defensive driving?",
+      "ch": "Hi wukwihi 'Nawu wa Tisekoni Timbirhi' eka ku chayela hi vuhlayiseki?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "DIST_2_SECONDS",
+      "alt": {
+        "pt": "Regra dos dois segundos em relação ao veículo da frente",
+        "en": "Two-second rule visualization behind preceding vehicle",
+        "ch": "Nawu wa tisekoni timbirhi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Um método prático para garantir uma distância segura do veículo da frente em piso seco, contando pelo menos 2 segundos a partir de um ponto fixo de referência.",
+        "O tempo limite permitido para olhar para o telemóvel enquanto conduz.",
+        "O tempo que o condutor tem para arrancar após o semáforo ficar verde.",
+        "A duração máxima de uma ultrapassagem na berma."
+      ],
+      "en": [
+        "A practical rule of thumb to maintain a safe following distance on dry roads by counting at least 2 seconds from a fixed reference marker.",
+        "The legal grace period permitted to glance at a mobile phone while driving.",
+        "The time allowed to start moving after the traffic light turns green.",
+        "The maximum duration of an overtaking maneuver on the shoulder."
+      ],
+      "ch": [
+        "Ndlela yo tiyisa mpfhuka wa vuhlayiseki eka movha lowu nga phambheni, hi ku hlaya tisekoni timbirhi ku sukela eka murhi kumbe puleki.",
+        "Nkarhi wo languta foni loko u chayela.",
+        "Nkarhi wo famba loko semáforo ri ri rihlaza.",
+        "Nkarhi wo hundza movha wun’wana."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Escolhe-se um ponto fixo (árvore, poste). Quando o carro da frente passa pelo ponto, conta-se 'mil e um, mil e dois'. Se o seu carro passar antes de terminar a contagem, está demasiado perto.",
+      "en": "Pick a fixed roadside marker. When the lead vehicle passes it, count 'one thousand and one, one thousand and two'. Reaching it sooner means you are following too closely.",
+      "ch": "Hlawula murhi kumbe xitsiriki. Loko movha wa phambheni wu wu hundza, hlaya 'rin’we, timbirhi'. Loko u wu fikelela u nga si heta ku hlaya, u tshinele ngopfu."
+    }
+  },
+  {
+    "id": "vel-dis-003",
+    "grupo": "vel-dis-piso-molhado",
+    "variacao": 1,
+    "subtema": "distancias",
+    "dificuldade": 2,
+    "tags": ["chuva", "piso-molhado", "aderencia"],
+    "pergunta": {
+      "pt": "Em piso molhado ou durante chuva intensa, o que acontece à distância de travagem do veículo?",
+      "en": "On wet asphalt or during heavy rainfall, what happens to a vehicle's braking distance?",
+      "ch": "Eka gondzo leri tsakamaka kumbe loko ku na mpfula, ku humelela yini eka mpfhuka wo yimisa movha (travagem)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "DIST_WET_ROAD",
+      "alt": {
+        "pt": "Veículo travando em piso molhado com perda de atrito",
+        "en": "Vehicle braking on wet surface with reduced friction",
+        "ch": "Movha wu gewuka ka gondzo leri nga ni mati"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Aumenta consideravelmente (pode duplicar), exigindo duplicar a distância de segurança em relação ao veículo da frente.",
+        "Diminui para metade porque a água arrefece as pastilhas do travão.",
+        "Permanece rigorosamente inalterada se os pneus forem novos.",
+        "Torna-se instantânea com o sistema de ar condicionado ligado."
+      ],
+      "en": [
+        "Increases substantially (can easily double), requiring doubling the safety gap to the vehicle ahead.",
+        "Cuts in half because water cools down the brake pads.",
+        "Remains strictly identical if tyres are brand new.",
+        "Becomes instantaneous with the air conditioning system active."
+      ],
+      "ch": [
+        "Ya andza swinene (yi nga tlula kambirhi), swi lava ku engetela mpfhuka exikarhi ka mimovha.",
+        "Ya hunguteka hikuva mati ma horisa switirho swa travão.",
+        "A yi cinci nchumu.",
+        "Movha wu yima hi ku hatlisa swinene."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "A água reduz drasticamente o coeficiente de atrito entre o pneu e o pavimento. A distância de travagem pode duplicar ou triplicar, sendo indispensável aumentar a distância de segurança para pelo menos 4 segundos.",
+      "en": "Water drastically cuts tire-road friction coefficient. Braking distance doubles, requiring the following margin to be lengthened to at least 4 seconds.",
+      "ch": "Mati ma hunguta ku namarhela ka mavhilwa ehansi. Movha wu gewuka mpfhuka wo leha; engetela pfhuka ka movha wa phambheni."
+    }
+  },
+  {
+    "id": "vel-dis-004",
+    "grupo": "vel-dis-aquaplanagem",
+    "variacao": 1,
+    "subtema": "distancias",
+    "dificuldade": 2,
+    "tags": ["aquaplanagem", "hidroplanagem", "perda-controlo"],
+    "pergunta": {
+      "pt": "O fenómeno da aquaplanagem (hidroplanagem) ocorre quando:",
+      "en": "The phenomenon of aquaplaning (hydroplaning) occurs when:",
+      "ch": "Xiyimo xa 'aquaplanagem' (ku famba henhla ka mati) xi humelela rini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "DIST_AQUAPLANING",
+      "alt": {
+        "pt": "Pneu flutuando sobre película de água na via",
+        "en": "Tyre riding on water film causing loss of steering",
+        "ch": "Vhilwa leri tlulaka mati ri nga kandziyi hansi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Uma película de água se interpõe entre os pneus e o pavimento a alta velocidade, fazendo o veículo flutuar e perder totalmente a direção e capacidade de travagem.",
+        "O radiador do motor fica sobreaquecido e lança vapor pelo capô.",
+        "O veículo circula em marcha reduzida através de um rio caudaloso.",
+        "O depósito de combustível se enche de água da chuva."
+      ],
+      "en": [
+        "A film of water forms between tyres and pavement at high speed, causing the vehicle to skim water and lose steering and braking.",
+        "The engine radiator overheats and expels steam through the bonnet.",
+        "The vehicle drives in low gear through a deep flowing river.",
+        "Rainwater enters into the fuel tank."
+      ],
+      "ch": [
+        "Mati ma fika exikarhi ka mavhilwa ni gondzo hi rivengo ra le henhla, movha wu famba henhla ka mati wu lahlekeriwa hi xiteringi ni travão.",
+        "Injini ya hisa ngopfu yi humesa musi.",
+        "Movha wu nghena nambyeni.",
+        "Mati ma nghena tankini ya petirolo."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Na aquaplanagem, os sulcos do pneu não conseguem escoar o volume de água acumulada. O pneu perde o contacto com o asfalto. A reação correta é aliviar suavemente o acelerador, segurar o volante a direito e NUNCA travar a fundo.",
+      "en": "Aquaplaning happens when tyre tread grooves cannot evacuate standing water fast enough. Ease off the gas gently, hold steering straight, and NEVER slam brakes.",
+      "ch": "Mavhilwa ma nga tsandzeka ku hlongola mati ma flutara henhla ka mati. Ntshunxa pedale ya famba u khoma xiteringi xi ololoka; u nga bi travão hi matimba."
+    }
+  },
+  {
+    "id": "vel-dis-005",
+    "grupo": "vel-dis-tempo-reacao",
+    "variacao": 1,
+    "subtema": "distancias",
+    "dificuldade": 1,
+    "tags": ["fadiga", "tempo-reacao", "alcool"],
+    "pergunta": {
+      "pt": "Fatores como cansaço, fadiga, ingestão de bebidas alcoólicas ou uso de medicamentos sedativos provocam:",
+      "en": "Factors such as fatigue, alcohol consumption, or sedative medications cause:",
+      "ch": "Swilo swo fana ni ku karhala, byala kumbe mirhi yo karhata miehleketo swi vanga yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "DIST_REACTION_DELAY",
+      "alt": {
+        "pt": "Aumento do tempo de reação por fadiga ou álcool",
+        "en": "Increase in reaction time caused by fatigue or alcohol",
+        "ch": "Ku nonoka ka miehleketo hikwalaho ka byala ni ku karhala"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O aumento do tempo de reação do condutor, fazendo o veículo percorrer muito mais metros antes de começar a travar.",
+        "A redução imediata da distância de travagem mecânica.",
+        "Maior agilidade e reflexos ultrarrápidos em caso de perigo iminente.",
+        "Uma diminuição automática do consumo de combustível."
+      ],
+      "en": [
+        "An increase in the driver's reaction time, causing the car to travel many more meters before braking starts.",
+        "An immediate reduction in mechanical braking distance.",
+        "Enhanced alertness and faster reflexes when facing imminent peril.",
+        "An automatic reduction in fuel consumption."
+      ],
+      "ch": [
+        "Ku nonohisa ku teka xiboho (a tekela nkarhi wo leha ku ba travão), movha wu hundza mimitara yo tala u nga si rhanga ku ba travão.",
+        "Ku antswisa ku yima ka movha.",
+        "Ku tlhariha lokukulu ni ku tsutsumisa swilo.",
+        "Ku hunguta mafurha ya movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O álcool e a fadiga diminuem os reflexos neurológicos e a perceção do perigo. Em vez do tempo normal de reação (aprox. 0,7 a 1 segundo), o condutor pode levar 2 ou mais segundos, resultando em colisões violentas.",
+      "en": "Alcohol and exhaustion slow neural reflex arcs. Reaction time stretches from ~1 second to 2+ seconds, translating into many extra meters traversed before the brake pedal is pushed.",
+      "ch": "Byala ni ku karhala swi nonohisa miehleketo. Muchayeri a nga fikelela ku teka tisekoni timbirhi a nga si ba mavhilwa, leswi vangaka timhangu letikulu."
+    }
+  }
+]

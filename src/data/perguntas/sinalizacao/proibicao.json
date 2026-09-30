@@ -1,0 +1,443 @@
+[
+  {
+    "id": "sin-pro-001",
+    "grupo": "sin-pro-sentido-proibido",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 1,
+    "tags": ["sentido", "proibicao", "direcao"],
+    "pergunta": {
+      "pt": "O que significa o sinal circular vermelho com barra branca horizontal ao centro?",
+      "en": "What does the red circular sign with a horizontal white bar in the center signify?",
+      "ch": "Xikombiso xa xirhendzevutana xo tshwuka lexi nga ni layini yo basa exikarhi xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C1",
+      "alt": {
+        "pt": "Sinal de Sentido Proibido",
+        "en": "No Entry sign",
+        "ch": "Xikombiso xo sivela ku nghena"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Sentido proibido a todos os veículos naquele acesso.",
+        "Trânsito proibido em ambos os sentidos da via.",
+        "Paragem obrigatória apenas para pesados de mercadorias.",
+        "Fim de todas as proibições anteriormente impostas."
+      ],
+      "en": [
+        "No entry for all vehicles from this direction.",
+        "Traffic prohibited in both directions of travel.",
+        "Mandatory stop only for heavy cargo vehicles.",
+        "End of all previous prohibitions."
+      ],
+      "ch": [
+        "Ku nghena ka yirisiwa ka mimovha hinkwayo hi tlhelo leri.",
+        "A ku fambeki hi matlhelo hinkwawo ya gondzo.",
+        "Ku yima ka mimovha leyikulu ntsena.",
+        "Ku hela ka swiriko hinkwaswo."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal C1 'Sentido Proibido' indica que o trânsito naquele sentido é interdito a todos os veículos, embora a via possa ter trânsito no sentido inverso (via de sentido único).",
+      "en": "Sign C1 'No Entry' prohibits entry to all vehicles into the roadway from this direction, while vehicles may flow the other way.",
+      "ch": "Xikombiso lexi xi sivela ku nghena hi tlhelo leri, hambi leswi mimovha yi nga ha taka yi huma hi kwalaho."
+    }
+  },
+  {
+    "id": "sin-pro-002",
+    "grupo": "sin-pro-ultrapassagem",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 1,
+    "tags": ["ultrapassagem", "proibicao", "automoveis"],
+    "pergunta": {
+      "pt": "Perante o sinal de proibição de ultrapassar (dois automóveis lado a lado, um a vermelho):",
+      "en": "Facing the overtaking prohibition sign (two cars side by side, one in red):",
+      "ch": "Loko u vona xikombiso xo yirisa ku hundzana ka mimovha (leyo tshwuka ni ya ntima):"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C14a",
+      "alt": {
+        "pt": "Sinal de Proibição de Ultrapassar para automóveis",
+        "en": "No Overtaking sign for motor vehicles",
+        "ch": "Xikombiso xo yirisa ku hundzana"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "É proibida a ultrapassagem de veículos ligeiros e pesados de automóveis, mas permite ultrapassar velocípedes sem motor se não ocupar a via contrária.",
+        "É obrigatório circular a mais de 100 km/h.",
+        "Apenas os motociclos podem ser ultrapassados utilizando toda a faixa contrária.",
+        "A proibição aplica-se apenas no período nocturno."
+      ],
+      "en": [
+        "Overtaking motor vehicles is forbidden, though passing two-wheeled non-motor vehicles is allowed if opposing lane is not invaded.",
+        "It is mandatory to travel at over 100 km/h.",
+        "Only motorcycles may be passed using the whole opposing lane.",
+        "The prohibition only applies during night hours."
+      ],
+      "ch": [
+        "Ku hundzana ka yirisiwa ka mimovha ya movha, kambe u nga hundza swikanyakanya handle ko nghena ndleleni ya van’wana.",
+        "Swi boha ku famba hi rivengo ro tlula 100 km/h.",
+        "Mithuthuthu ntsena yi nga hundziwa.",
+        "Nawu lowu wu tirha ntsena nivusiku."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal C14a proíbe a todos os veículos a motor a ultrapassagem de outros veículos a motor. A manobra só é permitida caso se trate de ultrapassar veículos de duas rodas não motorizados sem invadir a faixa oposta.",
+      "en": "Sign C14a prohibits motor vehicles from overtaking other motor vehicles. Passing single-track bicycles is permitted only if staying clear of oncoming traffic lanes.",
+      "ch": "Ku hundza movha wun’wana wa njini a swi pfumeleriwi. U nga hundza basikopo ntsena loko u nga lumbukisi ndlela."
+    }
+  },
+  {
+    "id": "sin-pro-003",
+    "grupo": "sin-pro-velocidade-60",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 1,
+    "tags": ["velocidade", "maxima", "limite"],
+    "pergunta": {
+      "pt": "O sinal circular com orla vermelha e o número '60' no interior determina:",
+      "en": "The circular sign with a red border and the number '60' inside dictates:",
+      "ch": "Xikombiso xa xirhendzevutana lexi nga ni nomboro '60' xi komba yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C13",
+      "alt": {
+        "pt": "Sinal de Velocidade Máxima Proibida de exceder 60 km/h",
+        "en": "Maximum speed limit 60 km/h sign",
+        "ch": "Mimbimi ya rivengo ra 60 km/h"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Proibição de transitar a velocidade superior a 60 km/h.",
+        "Obrigação de circular exatamente a 60 km/h sem qualquer variação.",
+        "Velocidade mínima aconselhada de 60 km/h.",
+        "Fim do limite de velocidade de 60 km/h imposto anteriormente."
+      ],
+      "en": [
+        "Prohibition of exceeding a speed of 60 km/h.",
+        "Mandatory requirement to drive exactly at 60 km/h.",
+        "Recommended minimum speed of 60 km/h.",
+        "End of the previously imposed 60 km/h speed limit."
+      ],
+      "ch": [
+        "Ku yirisiwa ka ku famba hi rivengo leri tlulaka 60 km/h.",
+        "Ku sindzisiwa ku famba hi 60 km/h ntsena.",
+        "Rivengo leri tsundzuxiwaka ro kala ri nga fiki 60 km/h.",
+        "Ku hela ka mimbimi ya 60 km/h."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal C13 indica a proibição de transitar a velocidade superior à indicada em algarismos (neste caso 60 km/h), aplicando-se a partir do sinal até outro que o anule ou até à próxima interseção.",
+      "en": "Sign C13 indicates that drivers must not exceed the stated numerical speed limit (60 km/h) from the sign onward until canceled.",
+      "ch": "U nga fambi ku tlula 60 km/h ku sukela lomu xikombiso xi nga kona ku fikela lomu xi herisiwaka kona."
+    }
+  },
+  {
+    "id": "sin-pro-004",
+    "grupo": "sin-pro-estacionamento",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 2,
+    "tags": ["estacionamento", "paragem", "cruz vermelha"],
+    "pergunta": {
+      "pt": "Qual é a diferença entre o sinal circular azul com UMA barra diagonal vermelha e com DUAS barras em cruz (X)?",
+      "en": "What is the difference between a circular blue sign with ONE diagonal red slash and TWO cross slashes (X)?",
+      "ch": "Hi kwihi kuhambana ka xikombiso lexi nga ni layini YIN’WE yo tshwuka ni lexi nga ni X (xiphambano)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C19",
+      "alt": {
+        "pt": "Sinais de Estacionamento Proibido e Paragem/Estacionamento Proibidos",
+        "en": "No Parking vs No Stopping & Standing signs",
+        "ch": "Xikombiso xo yirisa ku yima ni ku paka"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Uma barra proíbe o estacionamento; duas barras em cruz (X) proíbem quer a paragem quer o estacionamento.",
+        "Uma barra proíbe o trânsito a pé; duas barras proíbem a ultrapassagem.",
+        "Uma barra aplica-se de dia e duas barras aplicam-se exclusivamente de noite.",
+        "Ambos os sinais têm exatamente o mesmo significado legal."
+      ],
+      "en": [
+        "One slash prohibits parking; two crossed slashes (X) prohibit both stopping and parking.",
+        "One slash prohibits walking; two slashes prohibit overtaking.",
+        "One slash applies during daylight and crossed slashes apply at night.",
+        "Both signs have the exact same legal effect."
+      ],
+      "ch": [
+        "Layini yin’we yi yirisa ku paka movha; layini timbirhi (X) ti yirisa hambi ku yimisa movha xinkarhana ni ku paka.",
+        "Layini yin’we yi tirha eka milenge; layini timbirhi eka mimovha.",
+        "Yin’we ya nhlikanhi, timbirhi ya vusiku.",
+        "Swi vula nchumu wun’we."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal com uma barra diagonal (C15) proíbe apenas o estacionamento (deixar o condutor ausente ou imobilizado por tempo excessivo). O sinal com cruz em X (C16) proíbe a paragem para cargas/descargas ou passageiros E o estacionamento.",
+      "en": "A single slash means No Parking (brief stops allowed). The crossed-X sign prohibits both stopping (even to drop off a passenger) and parking.",
+      "ch": "Layini yin’we u nga yima u xika munhu. Loko ku ri ni X u nga tshuki u yima hambi ku ri swakutsanana."
+    }
+  },
+  {
+    "id": "sin-pro-005",
+    "grupo": "sin-pro-buzina",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 1,
+    "tags": ["buzina", "sinais-sonoros", "hospital"],
+    "pergunta": {
+      "pt": "O sinal de 'Proibição de sinais sonoros' (buzina com traço vermelho por cima) permite o uso da buzina em que circunstância?",
+      "en": "The 'No Horn / Sound Signals Prohibited' sign allows horn usage under which circumstance?",
+      "ch": "Xikombiso xo yirisa ku chaya buzina xi pfumelela ku yi tirhisa rini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C18",
+      "alt": {
+        "pt": "Sinal de Proibição de Sinais Sonoros",
+        "en": "Audible Warning Devices Prohibited sign",
+        "ch": "Xikombiso xo yirisa buzina"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Apenas em caso de perigo iminente ou para evitar um acidente grave.",
+        "Sempre que se quiser cumprimentar um pedestre ou conhecido.",
+        "Para protestar contra o trânsito congestionado ou semáforos lentos.",
+        "Livremente durante todo o dia, apenas sendo interdito após as 22h00."
+      ],
+      "en": [
+        "Only in cases of imminent danger or to avert a serious crash.",
+        "Whenever greeting a pedestrian or friend.",
+        "To express frustration at traffic congestion or slow traffic lights.",
+        "Freely during daytime, restricted only after 10:00 PM."
+      ],
+      "ch": [
+        "Ntsena loko ku ri ni khombo ra ntumbuluko leri lavaka ku hunguta mhangu.",
+        "Loko u xeweta vanhu kumbe vanghana.",
+        "Loko ku ri ni traffic yo tala u hlundzukile.",
+        "Swi pfumeleriwa nkarhi hinkwawo nhlikanhi."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Mesmo na zona de vigência do sinal de proibição de sinais sonoros (frequente junto a hospitais e escolas), o Código da Estrada autoriza o aviso sonoro exclusivamente em caso de perigo iminente de acidente.",
+      "en": "Even where horn use is banned (near hospitals/schools), Mozambican traffic law strictly permits sounding the horn to avert imminent collisions.",
+      "ch": "Hambi lomu xikombiso xi nga kona (xikombiso kusuhi ni xibedlhela), u pfumeleriwa ku chaya buzina ntsena loko ku ri ni khombo leri lavaka ku humelela."
+    }
+  },
+  {
+    "id": "sin-pro-006",
+    "grupo": "sin-pro-virar-esquerda",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 1,
+    "tags": ["virar", "esquerda", "proibicao"],
+    "pergunta": {
+      "pt": "Perante o sinal de proibição de virar à esquerda (seta curvada para a esquerda com barra vermelha):",
+      "en": "Facing the no left turn sign (curved arrow pointing left with red slash):",
+      "ch": "Xikombiso xo yirisa ku jikela ximatsi xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C3",
+      "alt": {
+        "pt": "Sinal de Proibição de virar à esquerda",
+        "en": "No Left Turn sign",
+        "ch": "Xikombiso xo yirisa ku jikela ximatsi"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "É proibido mudar de direção para a esquerda e também é proibido inverter o sentido de marcha.",
+        "É proibido virar à esquerda mas é permitido fazer marcha-atrás no cruzamento.",
+        "Apenas os autocarros e camiões estão impedidos de virar à esquerda.",
+        "O condutor pode virar à esquerda se acionar os quatro piscas de emergência."
+      ],
+      "en": [
+        "Turning left is prohibited, and making a U-turn is also prohibited.",
+        "Turning left is prohibited, but reversing at the intersection is allowed.",
+        "Only buses and trucks are banned from turning left.",
+        "Drivers may turn left if hazard flashers are turned on."
+      ],
+      "ch": [
+        "A swi pfumeleriwi ku jikela ximatsi hambi ku hundzuluka (inversão).",
+        "Ku jika ximatsi ku yirisiwile kambe u nga ba marcha-atrás.",
+        "I mabazi ntsena lama yirisiweke.",
+        "U nga jika loko u tshive 4 wa ti pisca."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal de proibição de virar à esquerda proíbe a mudança de direção para a esquerda e implica TAMBÉM a proibição de inversão do sentido de marcha (fazer inversão/retorno exige virar à esquerda sobre a via).",
+      "en": "The no-left-turn sign prohibits turning left and automatically implies prohibiting U-turns as well.",
+      "ch": "Ku yirisiwa ku jikela ximatsi swi tlhela swi yirisa ku hundzuluka u tlhelela ndzhaku."
+    }
+  },
+  {
+    "id": "sin-pro-007",
+    "grupo": "sin-pro-inverter-marcha",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 2,
+    "tags": ["inversao", "retorno", "manobras"],
+    "pergunta": {
+      "pt": "O sinal circular de 'Proibição de inversão do sentido de marcha' (seta em U invertido com traço vermelho):",
+      "en": "The circular 'No U-turn' sign (U-turn arrow crossed by red slash):",
+      "ch": "Xikombiso xo yirisa ku hundzuluka movha (retorno) xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C4",
+      "alt": {
+        "pt": "Sinal de Proibição de Inversão do Sentido de Marcha",
+        "en": "No U-turn sign",
+        "ch": "Xikombiso xo yirisa ku hundzuluka"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Proíbe voltar para trás na mesma via, mas permite virar à esquerda para outra rua.",
+        "Obriga a seguir sempre em frente sem poder parar o veículo.",
+        "Proíbe todo o tipo de mudanças de direção e entroncamentos.",
+        "Permite fazer marcha-atrás durante pelo menos 50 metros."
+      ],
+      "en": [
+        "Prohibits reversing direction on the same road, but permits turning left into another street.",
+        "Forces vehicle to proceed straight without stopping.",
+        "Bans all types of direction shifts and turns.",
+        "Permits reversing backwards for at least 50 meters."
+      ],
+      "ch": [
+        "Xi yirisa ku hundzuluka ku tlhelela ndzhaku, kambe u nga jikela ka xitarata xin’wana.",
+        "Xi sindzisa ku famba emahlweni ntsena.",
+        "Xi yirisa ku jika hinkwako.",
+        "Xi pfumelela ku famba hi marcha-atrás."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal C4 proíbe unicamente a inversão do sentido de marcha (voltar para o sentido de onde vinha). Não proíbe a viragem para a esquerda numa rua transversal caso não haja sinal que a proíba.",
+      "en": "Sign C4 specifically forbids U-turns, while permitting left turns into intersecting roads unless separately prohibited.",
+      "ch": "Xikombiso lexi xi yirisa ku hundzuluka u tlhelela ndzhaku, kambe a xi ku sivelanga ku nghena ka xitarata xin’wana."
+    }
+  },
+  {
+    "id": "sin-pro-008",
+    "grupo": "sin-pro-pesados-mercadorias",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 1,
+    "tags": ["pesados", "camions", "mercadorias"],
+    "pergunta": {
+      "pt": "O sinal circular com a silhueta de um camião preto e orla vermelha proíbe o trânsito a:",
+      "en": "The circular sign with a black truck silhouette and red border bans traffic of:",
+      "ch": "Xikombiso xa kamioni ni rimba ro tshwuka xi yirisa yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C7",
+      "alt": {
+        "pt": "Trânsito proibido a veículos de mercadorias",
+        "en": "Goods vehicles prohibited sign",
+        "ch": "Xikombiso xo yirisa mimovha ya swiphahlo"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Automóveis pesados de mercadorias (camiões).",
+        "Todos os automóveis pesados, incluindo autocarros de passageiros.",
+        "Veículos ligeiros que transportem qualquer mala na bagageira.",
+        "Apenas camiões cisterna de transporte de combustíveis inflamáveis."
+      ],
+      "en": [
+        "Heavy goods vehicles (freight trucks).",
+        "All heavy vehicles including passenger buses.",
+        "Light passenger cars carrying any luggage in the trunk.",
+        "Only fuel tanker trucks with flammable cargo."
+      ],
+      "ch": [
+        "Mimovha leyikulu ya swiphahlo (Tikamioni).",
+        "Mimovha hinkwayo leyikulu ku katsa ni mabazi.",
+        "Mimovha leyitsongo leyi nga ni mikwama.",
+        "Tikamioni ta petroli ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal C7 proíbe o trânsito a automóveis destinados ao transporte de mercadorias (camiões de carga). Os automóveis pesados de passageiros (autocarros) continuam autorizados a circular.",
+      "en": "Sign C7 prohibits commercial goods transport trucks. Passenger transport buses remain allowed unless expressly forbidden.",
+      "ch": "Xikombiso lexi xi yirisa tikamioni ta swiphahlo. Mabazi ya vanhu ma nga famba."
+    }
+  },
+  {
+    "id": "sin-pro-009",
+    "grupo": "sin-pro-fim-todas-proibicoes",
+    "variacao": 1,
+    "subtema": "proibicao",
+    "dificuldade": 2,
+    "tags": ["fim-proibicao", "velocidade", "ultrapassagem"],
+    "pergunta": {
+      "pt": "O que indica um sinal circular branco com faixa diagonal cinzenta/preta a cruzar o centro (C15)?",
+      "en": "What does a circular white sign with a diagonal grey/black sash indicate (C15)?",
+      "ch": "Xikombiso xo basa lexi nga ni layini ya ntima leyi tsemakanyaka xi vula yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "C15",
+      "alt": {
+        "pt": "Fim de todas as proibições locais",
+        "en": "End of all local prohibitions sign",
+        "ch": "Xikombiso xo hetelela swiriko"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Fim de todas as proibições anteriormente impostas aos veículos em marcha naquela via.",
+        "Fim da obrigatoriedade do uso do cinto de segurança.",
+        "Autorização para circular a qualquer velocidade sem limite máximo.",
+        "Aproximação de uma fronteira internacional sem controlo aduaneiro."
+      ],
+      "en": [
+        "End of all local prohibitions previously imposed on moving vehicles on this road.",
+        "End of mandatory seatbelt usage.",
+        "Authorization to travel at unlimited speed without any speed cap.",
+        "Approach of an uncontrolled international border."
+      ],
+      "ch": [
+        "Ku hela ka swiriko hinkwaswo leswi a swi vekiwile ka gondzo leri.",
+        "Ku hela ka ku boha bhandi.",
+        "U nga tsutsuma hi rivengo rin’wana ni rin’wana.",
+        "Ku tshinela ka ndzilekani wa tiko."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O sinal C15 indica o fim de todas as proibições locais impostas a veículos em marcha (como limites específicos de 60 ou 80 km/h, ultrapassagem proibida, etc.). Voltam a vigorar os limites gerais daquela via segundo o Código da Estrada.",
+      "en": "Sign C15 marks the end of all locally imposed moving prohibitions (speed restrictions, no-overtaking). General nationwide road rules resume.",
+      "ch": "Xi komba ku hela ka swiriko swo fana ni rivengo kumbe ku hundza movha. Ku tlhelela ka milawu ya ntolovelo ya tiko."
+    }
+  }
+]

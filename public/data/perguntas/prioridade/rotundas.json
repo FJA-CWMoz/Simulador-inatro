@@ -1,0 +1,394 @@
+[
+  {
+    "id": "prio-rot-001",
+    "grupo": "prio-rot-prioridade-anel",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 1,
+    "tags": ["rotunda", "entrada", "anel-circulacao"],
+    "pergunta": {
+      "pt": "Numa rotunda devidamente sinalizada, quem tem prioridade de passagem?",
+      "en": "At a properly signaled roundabout, who has priority of passage?",
+      "ch": "Eka mawurukelo (rotunda), hi wihi movha lowu nga ni fanelo yo rhangela (priority)?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "ROTUNDA_PRIO_1",
+      "alt": {
+        "pt": "Veículo dentro da rotunda e veículo a tentar entrar",
+        "en": "Vehicle circulating inside roundabout and vehicle entering",
+        "ch": "Movha lowu nga endzeni ka rotunda ni lowu nghenaka"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "O veículo que já se encontra a circular dentro da rotunda tem prioridade sobre quem pretende entrar.",
+        "O veículo que pretende entrar na rotunda tem prioridade porque se apresenta pela direita.",
+        "Tem sempre prioridade o veículo mais pesado ou com reboque.",
+        "A prioridade pertence a quem circular a maior velocidade no momento."
+      ],
+      "en": [
+        "The vehicle already circulating inside the roundabout has right-of-way over those attempting to enter.",
+        "The vehicle intending to enter has priority because it approaches from the right.",
+        "The heaviest vehicle or one towing a trailer always retains priority.",
+        "Priority belongs to whichever vehicle is traveling fastest."
+      ],
+      "ch": [
+        "Movha lowu se wu nga endzeni ka rotunda wu na priority eka lowu lavaka ku nghena.",
+        "Movha lowu nghenaka hi wona wu rhangelaka hikuva wu le tlhelo ra xinene.",
+        "Movha lowukulu kumbe leri kokaka kherhete.",
+        "Loyi a tsutsumaka ngopfu."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "No Código da Estrada, o trânsito que circula no interior da rotunda tem prioridade sobre os veículos que a ela pretendem aceder, devendo quem vai entrar abrandar ou imobilizar-se até ter espaço livre.",
+      "en": "Traffic already circulating within the roundabout has right of way over entering vehicles, which must yield before joining.",
+      "ch": "Mimovha leyi fambaka endzeni ka rotunda yi na fanelo yo rhangela; lava nghenaka va fanele ku yimela ndlela yi pfuleka."
+    }
+  },
+  {
+    "id": "prio-rot-002",
+    "grupo": "prio-rot-primeira-saida",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 1,
+    "tags": ["rotunda", "primeira-saida", "posicionamento"],
+    "pergunta": {
+      "pt": "Se um condutor pretende sair na primeira saída à direita de uma rotunda com várias vias, em que faixa deve posicionar-se?",
+      "en": "If a driver intends to exit at the first right exit of a multi-lane roundabout, which lane should they occupy?",
+      "ch": "Loko muchayeri a lava ku huma hi xikotelo xo rhanga xa xinene eka rotunda, u fanele ku famba hi layini yihi?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "ROTUNDA_LANE_1",
+      "alt": {
+        "pt": "Posicionamento na via mais à direita para sair na primeira saída",
+        "en": "Positioning in right-hand lane for immediate first exit",
+        "ch": "Ku famba hi tlhelo ra xinene ku huma hi ku hatlisa"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Deve entrar ocupando a via mais à direita da faixa de rodagem, mantendo o pisca direito ligado.",
+        "Deve entrar pela via mais à esquerda junto ao ilhéu central e cortar todas as faixas na saída.",
+        "Pode usar qualquer via sem necessidade de sinalizar com o pisca.",
+        "Deve parar obrigatoriamente no centro da rotunda e aguardar indicações."
+      ],
+      "en": [
+        "Must enter occupying the outermost right lane of the carriageway, keeping the right indicator on.",
+        "Must enter via the leftmost lane near the central island and cut across all lanes at the exit.",
+        "May use any lane without signaling any intent.",
+        "Must stop dead in the center island and wait for instructions."
+      ],
+      "ch": [
+        "U fanele ku nghena hi layini ya le tlhelo ra xinene, a tshive timboni ta pisca ra xinene.",
+        "U fanele ku rhangela hi le ximatsi a se a tsemakanya mimovha hinkwayo.",
+        "U nga tirhisa layini yihi na yihi handle ko tshiva timboni.",
+        "U fanele ku yima exikarhi ka rotunda."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Para sair na 1.ª saída, o condutor deve aproximar-se e entrar pela via mais à direita, assinalando a manobra para a direita, evitando cruzar vias desnecessariamente.",
+      "en": "To take the first exit, the driver enters on the rightmost lane and signals right, ensuring smooth, conflict-free exit.",
+      "ch": "Loko u huma ka xikotelo xo sungula, tshama tlhelo ra xinene u tlhela u chaya pisca ra xinene ku tivisa van’wana."
+    }
+  },
+  {
+    "id": "prio-rot-003",
+    "grupo": "prio-rot-ultima-saida",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 2,
+    "tags": ["rotunda", "inversao", "anel-interior"],
+    "pergunta": {
+      "pt": "Para efetuar a inversão do sentido de marcha ou sair na última saída de uma rotunda com duas ou mais vias, como deve proceder?",
+      "en": "To make a U-turn or take the final exit in a multi-lane roundabout, how should the driver proceed?",
+      "ch": "Loko u lava ku rhendzeleka rotunda hinkwayo kumbe ku huma hi xikotelo xo hetelela, u fanele ku famba njhani?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "ROTUNDA_LANE_INNER",
+      "alt": {
+        "pt": "Circulação pelo anel interior para saída à esquerda ou inversão",
+        "en": "Circulating inner ring for left exits or U-turns",
+        "ch": "Ku famba hi le xikarhi ka rotunda ku jika"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Entrar ocupando a via interior (junto ao centro) e passar para a via exterior apenas após passar a penúltima saída, sinalizando a mudança com antecedência.",
+        "Circular sempre pela berma direita por fora até completar toda a volta completa.",
+        "Buzinar continuamente durante todo o percurso no interior da rotunda.",
+        "Fazer marcha atrás dentro da rotunda caso perca a saída pretendida."
+      ],
+      "en": [
+        "Enter using the inner lane (nearest the center) and shift to the outer lane only after passing the exit preceding the chosen one, signaling beforehand.",
+        "Always circle solely in the outermost right perimeter for the full loop.",
+        "Honk continuously during the entire circle of the roundabout.",
+        "Engage reverse gear inside the roundabout if missing the desired exit."
+      ],
+      "ch": [
+        "Nghena hi layini ya le xikarhi (kusuhi ni xikwere), u hundzela ka layini ya le handle ntsena loko u tlule xikotelo lexi rhangelaka lexi u lavaka ku huma ha xona, u tshivile pisca.",
+        "Famba ntsena hi le handle ka gondzo u rhendzeleka hinkwako.",
+        "Chaya buzina nkarhi hinkwawo u nga yimi.",
+        "Famba hi marcha-atrás loko u posile ndlela."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Para sair nas últimas saídas ou inverter a marcha, circula-se pela via interior da rotunda para permitir a fluidez de quem sai antes. A aproximação à via exterior faz-se com antecedência logo após a saída anterior à pretendida.",
+      "en": "Drivers taking late exits or doing U-turns use the inside lane, shifting outward only after passing the exit immediately preceding their target exit.",
+      "ch": "Tirhisa layini ya le xikarhi leswaku u nga siveli mimovha leyi humaka hi ku hatlisa. Loko se ku sale xikotelo xa wena, cincelela layini u ya handle."
+    }
+  },
+  {
+    "id": "prio-rot-004",
+    "grupo": "prio-rot-pisca-saida",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 1,
+    "tags": ["rotunda", "pisca", "indicador"],
+    "pergunta": {
+      "pt": "Em que momento deve o condutor acionar o indicador de mudança de direção (pisca para a direita) ao sair de uma rotunda?",
+      "en": "At what point must the driver activate the right turn signal indicator when exiting a roundabout?",
+      "ch": "Hi kwihi nkarhi lowu muchayeri a faneleke ku tshiva pisca ra xinene loko a huma eka rotunda?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "ROTUNDA_INDICATOR",
+      "alt": {
+        "pt": "Sinalização de saída da rotunda com o pisca",
+        "en": "Signaling roundabout exit with turn indicator",
+        "ch": "Ku tshiva pisca ku komba ku huma ka rotunda"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Logo após ultrapassar a saída imediatamente anterior àquela por onde pretende sair.",
+        "Apenas quando o veículo já estiver totalmente fora da rotunda na nova via.",
+        "Nunca se deve ligar o pisca dentro de uma rotunda.",
+        "Ao entrar na rotunda, mantendo o pisca direito ligado até desligar o motor."
+      ],
+      "en": [
+        "Immediately after passing the exit directly prior to the intended exit.",
+        "Only when the vehicle has already entirely exited onto the new road.",
+        "Never signal turn indicators inside roundabouts.",
+        "Upon entering the roundabout, keeping it flashing until shutting off the engine."
+      ],
+      "ch": [
+        "Hi ku hatlisa loko u hundze xikotelo lexi nga phambheni ka lexi u lavaka ku huma ha xona.",
+        "Loko se u humile u le handle ka rotunda.",
+        "A ku chayiwi pisca eka rotunda.",
+        "U nga si nghena u kondza u tima movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "O pisca para a direita deve ser acionado logo a seguir a ter passado a saída anterior à sua. Deste modo, informa com clareza os condutores que esperam para entrar de que vai desocupar a rotunda.",
+      "en": "Signaling right as soon as you clear the preceding exit gives waiting motorists clear, timely notice that you are freeing the lane.",
+      "ch": "Tshiva pisca ra xinene loko wa ha ku hundza xikotelo lexi hundzeke, leswaku mimovha leyi yimeke yi tiva leswaku wa huma."
+    }
+  },
+  {
+    "id": "prio-rot-005",
+    "grupo": "prio-rot-perda-saida",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 1,
+    "tags": ["rotunda", "saida-falhada", "seguranca"],
+    "pergunta": {
+      "pt": "O que deve fazer o condutor que não consegue mudar a tempo para a via de saída pretendida numa rotunda?",
+      "en": "What should a driver do if unable to safely move across to their intended exit lane in time at a roundabout?",
+      "ch": "Loko muchayeri a tsandzeka ku cincelela layini hi nkarhi ku huma ka rotunda, u fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "ROTUNDA_RETRY",
+      "alt": {
+        "pt": "Condutor dando uma nova volta na rotunda com segurança",
+        "en": "Driver doing another loop around roundabout safely",
+        "ch": "Ku rhendzeleka nakambe ka rotunda hi vuhlayiseki"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Dar uma nova volta completa à rotunda com calma e efetuar o correto posicionamento para a saída.",
+        "Travar bruscamente até que todos os carros parem para lhe dar passagem.",
+        "Engatar a marcha atrás imediatamente na via interior.",
+        "Atravessar o jardim ou o ilhéu central por cima para corrigir o rumo."
+      ],
+      "en": [
+        "Complete another full circle around the roundabout calmly and reposition correctly for the exit.",
+        "Brake sharply until all traffic stops to allow you passage.",
+        "Engage reverse gear immediately on the inside lane.",
+        "Drive straight over the grassy central reservation to fix direction."
+      ],
+      "ch": [
+        "Rhendzeleka nakambe rotunda hinkwayo hi ku rhula, u lulamisa layini ya wena kahle ku huma.",
+        "Ba mavhilwa u yima xikan’we u vanga khombo.",
+        "Fambisa movha hi marcha-atrás endzeni ka rotunda.",
+        "Tlula xikwere xa byanyi hi movha."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Nunca se deve travar bruscamente nem fazer marcha atrás numa rotunda. Se perdeu a saída, dê nova volta à rotunda e reposicione-se com total segurança.",
+      "en": "Never slam brakes or reverse in a roundabout. Simply loop around the circle once more and reposition smoothly.",
+      "ch": "U nga tshuki u yima xikan’we kumbe ku tlhelela ndzhaku. Rhendzeleka nakambe u ta huma hi ku rhula handle ka khombo."
+    }
+  },
+  {
+    "id": "prio-rot-006",
+    "grupo": "prio-rot-paragem-estacionamento",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 1,
+    "tags": ["rotunda", "paragem", "estacionamento", "proibicao"],
+    "pergunta": {
+      "pt": "É permitido parar ou estacionar um veículo no anel de circulação de uma rotunda?",
+      "en": "Is it permitted to stop or park a vehicle on the circulatory roadway of a roundabout?",
+      "ch": "Swi pfumeleriwa ku yima kumbe ku paka movha endzeni ka rotunda?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D4",
+      "alt": {
+        "pt": "Sinal de sentido giratório obrigatório (Rotunda)",
+        "en": "Roundabout circulatory sign",
+        "ch": "Xikombiso xa rotunda"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Não, é expressamente proibido parar ou estacionar no anel de qualquer rotunda.",
+        "Sim, desde que seja para atender uma chamada telefónica urgente.",
+        "Sim, desde que estacione encostado ao ilhéu central ajardinado.",
+        "Apenas é permitido a viaturas de transporte escolar."
+      ],
+      "en": [
+        "No, stopping or parking inside the circulatory ring of any roundabout is strictly prohibited.",
+        "Yes, provided it is to take an urgent phone call.",
+        "Yes, if parked against the central garden island.",
+        "Only school transport buses are permitted."
+      ],
+      "ch": [
+        "E-e, a swi pfumeleriwi hi ku helela ku yima kumbe ku paka endzeni ka rotunda.",
+        "Ina, loko u lava ku hlamula foni.",
+        "Ina, loko u paka kusuhi ni byanyi.",
+        "Mabazi ya xikolo ntsena."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Nas rotundas é terminantemente proibido parar ou estacionar, bem como fazer marcha-atrás. Qualquer paragem no anel perturba gravemente a fluidez do trânsito e cria perigo imediato de colisões.",
+      "en": "Stopping, parking, and reversing are completely banned within roundabouts. Any halt creates severe disruption and multi-car collisions.",
+      "ch": "Ka rotunda a swi pfumeleriwi ku yima, ku paka kumbe ku famba hi marcha-atrás. Swi vanga timhangu letikulu!"
+    }
+  },
+  {
+    "id": "prio-rot-007",
+    "grupo": "prio-rot-retorno-inversao",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 2,
+    "tags": ["rotunda", "inversao", "retorno", "posicionamento"],
+    "pergunta": {
+      "pt": "Para fazer a inversão do sentido de marcha (retorno para a via de onde veio) numa rotunda com várias vias, o condutor deve:",
+      "en": "To make a U-turn (return towards original road) in a multi-lane roundabout, the driver must:",
+      "ch": "Ku hundzuluka u tlhelela lomu u humaka kona ka rotunda leyi nga ni tilayini to tala, u fanele ku endla yini?"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "ROTUNDA_RETRY",
+      "alt": {
+        "pt": "Inversão do sentido de marcha na rotunda",
+        "en": "Making a U-turn through roundabout",
+        "ch": "Ku hundzuluka ka rotunda"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Entrar ocupando a via mais à esquerda (junto ao ilhéu central) e passar para a via da direita apenas após passar a saída anterior à pretendida.",
+        "Circular sempre pela via da extrema direita contornando toda a rotunda com pisca direito.",
+        "Parar no meio da rotunda e fazer marcha-atrás até à entrada anterior.",
+        "Buzinar continuamente para obrigar todos os outros condutores a parar."
+      ],
+      "en": [
+        "Enter and use the leftmost inside lane (near central island), moving to the right lane only after passing the exit preceding the desired one.",
+        "Drive strictly on the far right lane around the entire roundabout with right blinker.",
+        "Halt in the middle and reverse back to the previous entry.",
+        "Sound the horn continuously to freeze all other traffic."
+      ],
+      "ch": [
+        "Nghena hi layini ya le ximatsi (kusuhi ni xikarhi), u se u ya tlhelo ra xinene loko se ku sale xikotelo xin’we xa wena.",
+        "Famba tlhelo ra xinene nkarhi hinkwawo u rhendzeleka.",
+        "Yima u ba marcha-atrás.",
+        "Chaya buzina u yimisa van’wana."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Para efetuar retorno ou sair na última saída, deves aceder pela via mais interior (à esquerda). Ocupar a via da direita para dar a volta toda à rotunda é contraordenação, pois bloqueia quem deseja sair nas primeiras saídas.",
+      "en": "U-turns require using the inside lane near the center. Encircling the entire roundabout on the outer right lane is an illegal obstruction.",
+      "ch": "Ku hundzuluka u fanele ku famba hi layini ya le xikarhi (ximatsi). Ku rhendzeleka rotunda hinkwayo hi layini ya xinene swi yirisiwile hikuva swi sivela lava lavaka ku huma."
+    }
+  },
+  {
+    "id": "prio-rot-008",
+    "grupo": "prio-rot-entrada-veiculos",
+    "variacao": 1,
+    "subtema": "rotundas",
+    "dificuldade": 1,
+    "tags": ["rotunda", "entrada", "prioridade-anel"],
+    "pergunta": {
+      "pt": "Ao aproximar-se da entrada de uma rotunda com sinal D4 (Sentido Giratório Obrigatório), o condutor:",
+      "en": "Approaching the entrance of a roundabout marked with sign D4 (Mandatory Roundabout), the driver:",
+      "ch": "Loko u tshinela ka rotunda leyi nga ni xikombiso xa D4, muchayeri:"
+    },
+    "imagem": {
+      "tipo": "svg",
+      "codigo": "D4",
+      "alt": {
+        "pt": "Sinal D4 Sentido Giratório Obrigatório",
+        "en": "Mandatory roundabout sign D4",
+        "ch": "Xikombiso xa D4 xa rotunda"
+      },
+      "posicao": "topo"
+    },
+    "opcoes": {
+      "pt": [
+        "Deve ceder a passagem aos veículos que já estejam a circular no interior da rotunda.",
+        "Tem prioridade porque entra pela direita dos veículos que estão a circular.",
+        "Tem prioridade absoluta se conduzir um veículo de transporte de passageiros.",
+        "Deve acelerar para entrar antes que os outros veículos se aproximem."
+      ],
+      "en": [
+        "Must yield right-of-way to vehicles already circulating inside the roundabout.",
+        "Has priority because entering on the right of circulating traffic.",
+        "Has absolute priority if driving a public transport bus.",
+        "Must speed up to enter before other vehicles arrive."
+      ],
+      "ch": [
+        "U fanele ku nyika ndlela mimovha leyi se yi nga endzeni ka rotunda.",
+        "U na priority hikuva u le tlhelo ra xinene.",
+        "U na priority loko a fambisa chapa.",
+        "U fanele ku tsutsuma a nghena hi ku hatlisa."
+      ]
+    },
+    "correta": 0,
+    "explicacao": {
+      "pt": "Nas praças de sentido giratório (rotundas), o trânsito que já circula no anel tem sempre prioridade sobre o trânsito que pretende aceder à mesma.",
+      "en": "In roundabouts, traffic already inside the circulatory ring has absolute priority over entering traffic.",
+      "ch": "Ka rotunda, mimovha leyi se yi nga endzeni yi na priority eka lava lavaka ku nghena."
+    }
+  }
+]
